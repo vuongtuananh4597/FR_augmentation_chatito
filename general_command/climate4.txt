@@ -1,0 +1,180 @@
+Règle la température au siège conducteur à 14 degré
+Mets la température au siège conducteur à 14 degré
+Ajuste la température au siège conducteur à 14 degré
+Règle la température au siège conducteur à 28 degré
+Mets la température au siège conducteur à 28 degré
+Ajuste la température au siège conducteur à 28 degré
+Règle la température au siège conducteur à 0,5 degré
+Mets la température au siège conducteur à 0,5 degré
+Ajuste la température au siège conducteur à 0,5 degré
+Règle la température au siège conducteur à 1,5 degrés
+Mets la température au siège conducteur à 1,5 degrés
+Ajuste la température au siège conducteur à 1,5 degrés
+Règle la température au siège conducteur à 32 degrés
+Mets la température au siège conducteur à 32 degrés
+Ajuste la température au siège conducteur à 32 degrés
+Règle la température au siège conducteur à 14 degré maintenant
+Mets la température au siège conducteur à 14 degré maintenant
+Ajuste la température au siège conducteur à 14 degré maintenant
+Règle la température au siège conducteur à 28 degré maintenant
+Mets la température au siège conducteur à 28 degré maintenant
+Ajuste la température au siège conducteur à 28 degré maintenant
+Règle la température au siège conducteur à 0,5 degré maintenant
+Mets la température au siège conducteur à 0,5 degré maintenant
+Ajuste la température au siège conducteur à 0,5 degré maintenant
+Règle la température au siège conducteur à 1,5 degrés maintenant
+Mets la température au siège conducteur à 1,5 degrés maintenant
+Ajuste la température au siège conducteur à 1,5 degrés maintenant
+Règle la température au siège conducteur à 32 degrés maintenant
+Mets la température au siège conducteur à 32 degrés maintenant
+Ajuste la température au siège conducteur à 32 degrés maintenant
+Règle la température au siège conducteur à 14 degré tout de suite
+Mets la température au siège conducteur à 14 degré tout de suite
+Ajuste la température au siège conducteur à 14 degré tout de suite
+Règle la température au siège conducteur à 28 degré tout de suite
+Mets la température au siège conducteur à 28 degré tout de suite
+Ajuste la température au siège conducteur à 28 degré tout de suite
+Règle la température au siège conducteur à 0,5 degré tout de suite
+Mets la température au siège conducteur à 0,5 degré tout de suite
+Ajuste la température au siège conducteur à 0,5 degré tout de suite
+Règle la température au siège conducteur à 1,5 degrés tout de suite
+Mets la température au siège conducteur à 1,5 degrés tout de suite
+Ajuste la température au siège conducteur à 1,5 degrés tout de suite
+Règle la température au siège conducteur à 32 degrés tout de suite
+Mets la température au siège conducteur à 32 degrés tout de suite
+Ajuste la température au siège conducteur à 32 degrés tout de suite
+Règle la température au siège conducteur à 14 degré immédiatement
+Mets la température au siège conducteur à 14 degré immédiatement
+Ajuste la température au siège conducteur à 14 degré immédiatement
+Règle la température au siège conducteur à 28 degré immédiatement
+Mets la température au siège conducteur à 28 degré immédiatement
+Ajuste la température au siège conducteur à 28 degré immédiatement
+Règle la température au siège conducteur à 0,5 degré immédiatement
+Mets la température au siège conducteur à 0,5 degré immédiatement
+Ajuste la température au siège conducteur à 0,5 degré immédiatement
+Règle la température au siège conducteur à 1,5 degrés immédiatement
+Mets la température au siège conducteur à 1,5 degrés immédiatement
+Ajuste la température au siège conducteur à 1,5 degrés immédiatement
+Règle la température au siège conducteur à 32 degrés immédiatement
+Mets la température au siège conducteur à 32 degrés immédiatement
+Ajuste la température au siège conducteur à 32 degrés immédiatement
+Règle la température au siège conducteur à 14 degré pour moi
+Mets la température au siège conducteur à 14 degré pour moi
+Ajuste la température au siège conducteur à 14 degré pour moi
+Règle la température au siège conducteur à 28 degré pour moi
+Mets la température au siège conducteur à 28 degré pour moi
+Ajuste la température au siège conducteur à 28 degré pour moi
+Règle la température au siège conducteur à 0,5 degré pour moi
+Mets la température au siège conducteur à 0,5 degré pour moi
+Ajuste la température au siège conducteur à 0,5 degré pour moi
+Règle la température au siège conducteur à 1,5 degrés pour moi
+Mets la température au siège conducteur à 1,5 degrés pour moi
+Ajuste la température au siège conducteur à 1,5 degrés pour moi
+Règle la température au siège conducteur à 32 degrés pour moi
+Mets la température au siège conducteur à 32 degrés pour moi
+Ajuste la température au siège conducteur à 32 degrés pour moi
+Règle la température au siège conducteur à 14 degré maintenant pour moi
+Mets la température au siège conducteur à 14 degré maintenant pour moi
+Ajuste la température au siège conducteur à 14 degré maintenant pour moi
+Règle la température au siège conducteur à 28 degré maintenant pour moi
+Mets la température au siège conducteur à 28 degré maintenant pour moi
+Ajuste la température au siège conducteur à 28 degré maintenant pour moi
+Règle la température au siège conducteur à 0,5 degré maintenant pour moi
+Mets la température au siège conducteur à 0,5 degré maintenant pour moi
+Ajuste la température au siège conducteur à 0,5 degré maintenant pour moi
+Règle la température au siège conducteur à 1,5 degrés maintenant pour moi
+Mets la température au siège conducteur à 1,5 degrés maintenant pour moi
+Ajuste la température au siège conducteur à 1,5 degrés maintenant pour moi
+Règle la température au siège conducteur à 32 degrés maintenant pour moi
+Mets la température au siège conducteur à 32 degrés maintenant pour moi
+Ajuste la température au siège conducteur à 32 degrés maintenant pour moi
+Règle la température au siège conducteur à 14 degré tout de suite pour moi
+Mets la température au siège conducteur à 14 degré tout de suite pour moi
+Ajuste la température au siège conducteur à 14 degré tout de suite pour moi
+Règle la température au siège conducteur à 28 degré tout de suite pour moi
+Mets la température au siège conducteur à 28 degré tout de suite pour moi
+Ajuste la température au siège conducteur à 28 degré tout de suite pour moi
+Règle la température au siège conducteur à 0,5 degré tout de suite pour moi
+Mets la température au siège conducteur à 0,5 degré tout de suite pour moi
+Ajuste la température au siège conducteur à 0,5 degré tout de suite pour moi
+Règle la température au siège conducteur à 1,5 degrés tout de suite pour moi
+Mets la température au siège conducteur à 1,5 degrés tout de suite pour moi
+Ajuste la température au siège conducteur à 1,5 degrés tout de suite pour moi
+Règle la température au siège conducteur à 32 degrés tout de suite pour moi
+Mets la température au siège conducteur à 32 degrés tout de suite pour moi
+Ajuste la température au siège conducteur à 32 degrés tout de suite pour moi
+Règle la température au siège conducteur à 14 degré immédiatement pour moi
+Mets la température au siège conducteur à 14 degré immédiatement pour moi
+Ajuste la température au siège conducteur à 14 degré immédiatement pour moi
+Règle la température au siège conducteur à 28 degré immédiatement pour moi
+Mets la température au siège conducteur à 28 degré immédiatement pour moi
+Ajuste la température au siège conducteur à 28 degré immédiatement pour moi
+Règle la température au siège conducteur à 0,5 degré immédiatement pour moi
+Mets la température au siège conducteur à 0,5 degré immédiatement pour moi
+Ajuste la température au siège conducteur à 0,5 degré immédiatement pour moi
+Règle la température au siège conducteur à 1,5 degrés immédiatement pour moi
+Mets la température au siège conducteur à 1,5 degrés immédiatement pour moi
+Ajuste la température au siège conducteur à 1,5 degrés immédiatement pour moi
+Règle la température au siège conducteur à 32 degrés immédiatement pour moi
+Mets la température au siège conducteur à 32 degrés immédiatement pour moi
+Ajuste la température au siège conducteur à 32 degrés immédiatement pour moi
+Règle la température au siège conducteur à 14 degré s'il te plaît
+Mets la température au siège conducteur à 14 degré s'il te plaît
+Ajuste la température au siège conducteur à 14 degré s'il te plaît
+Règle la température au siège conducteur à 28 degré s'il te plaît
+Mets la température au siège conducteur à 28 degré s'il te plaît
+Ajuste la température au siège conducteur à 28 degré s'il te plaît
+Règle la température au siège conducteur à 0,5 degré s'il te plaît
+Mets la température au siège conducteur à 0,5 degré s'il te plaît
+Ajuste la température au siège conducteur à 0,5 degré s'il te plaît
+Règle la température au siège conducteur à 1,5 degrés s'il te plaît
+Mets la température au siège conducteur à 1,5 degrés s'il te plaît
+Ajuste la température au siège conducteur à 1,5 degrés s'il te plaît
+Règle la température au siège conducteur à 32 degrés s'il te plaît
+Mets la température au siège conducteur à 32 degrés s'il te plaît
+Ajuste la température au siège conducteur à 32 degrés s'il te plaît
+Règle la température au siège conducteur à 14 degré maintenant s'il te plaît
+Mets la température au siège conducteur à 14 degré maintenant s'il te plaît
+Ajuste la température au siège conducteur à 14 degré maintenant s'il te plaît
+Règle la température au siège conducteur à 28 degré maintenant s'il te plaît
+Mets la température au siège conducteur à 28 degré maintenant s'il te plaît
+Ajuste la température au siège conducteur à 28 degré maintenant s'il te plaît
+Règle la température au siège conducteur à 0,5 degré maintenant s'il te plaît
+Mets la température au siège conducteur à 0,5 degré maintenant s'il te plaît
+Ajuste la température au siège conducteur à 0,5 degré maintenant s'il te plaît
+Règle la température au siège conducteur à 1,5 degrés maintenant s'il te plaît
+Mets la température au siège conducteur à 1,5 degrés maintenant s'il te plaît
+Ajuste la température au siège conducteur à 1,5 degrés maintenant s'il te plaît
+Règle la température au siège conducteur à 32 degrés maintenant s'il te plaît
+Mets la température au siège conducteur à 32 degrés maintenant s'il te plaît
+Ajuste la température au siège conducteur à 32 degrés maintenant s'il te plaît
+Règle la température au siège conducteur à 14 degré tout de suite s'il te plaît
+Mets la température au siège conducteur à 14 degré tout de suite s'il te plaît
+Ajuste la température au siège conducteur à 14 degré tout de suite s'il te plaît
+Règle la température au siège conducteur à 28 degré tout de suite s'il te plaît
+Mets la température au siège conducteur à 28 degré tout de suite s'il te plaît
+Ajuste la température au siège conducteur à 28 degré tout de suite s'il te plaît
+Règle la température au siège conducteur à 0,5 degré tout de suite s'il te plaît
+Mets la température au siège conducteur à 0,5 degré tout de suite s'il te plaît
+Ajuste la température au siège conducteur à 0,5 degré tout de suite s'il te plaît
+Règle la température au siège conducteur à 1,5 degrés tout de suite s'il te plaît
+Mets la température au siège conducteur à 1,5 degrés tout de suite s'il te plaît
+Ajuste la température au siège conducteur à 1,5 degrés tout de suite s'il te plaît
+Règle la température au siège conducteur à 32 degrés tout de suite s'il te plaît
+Mets la température au siège conducteur à 32 degrés tout de suite s'il te plaît
+Ajuste la température au siège conducteur à 32 degrés tout de suite s'il te plaît
+Règle la température au siège conducteur à 14 degré immédiatement s'il te plaît
+Mets la température au siège conducteur à 14 degré immédiatement s'il te plaît
+Ajuste la température au siège conducteur à 14 degré immédiatement s'il te plaît
+Règle la température au siège conducteur à 28 degré immédiatement s'il te plaît
+Mets la température au siège conducteur à 28 degré immédiatement s'il te plaît
+Ajuste la température au siège conducteur à 28 degré immédiatement s'il te plaît
+Règle la température au siège conducteur à 0,5 degré immédiatement s'il te plaît
+Mets la température au siège conducteur à 0,5 degré immédiatement s'il te plaît
+Ajuste la température au siège conducteur à 0,5 degré immédiatement s'il te plaît
+Règle la température au siège conducteur à 1,5 degrés immédiatement s'il te plaît
+Mets la température au siège conducteur à 1,5 degrés immédiatement s'il te plaît
+Ajuste la température au siège conducteur à 1,5 degrés immédiatement s'il te plaît
+Règle la température au siège conducteur à 32 degrés immédiatement s'il te plaît
+Mets la température au siège conducteur à 32 degrés immédiatement s'il te plaît
+Ajuste la température au siège conducteur à 32 degrés immédiatement s'il te plaît

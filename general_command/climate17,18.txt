@@ -1,0 +1,1800 @@
+Augmentez la température de la zone conducteur 1 degré
+Diminuez la température de la zone conducteur 1 degré
+Baissez la température de la zone conducteur 1 degré
+Veuillez augmenter la température de la zone conducteur 1 degré
+Veuillez diminuer la température de la zone conducteur 1 degré
+Veuillez baisser la température de la zone conducteur 1 degré
+Augmentez la température de la zone conducteur 2 degrés
+Diminuez la température de la zone conducteur 2 degrés
+Baissez la température de la zone conducteur 2 degrés
+Veuillez augmenter la température de la zone conducteur 2 degrés
+Veuillez diminuer la température de la zone conducteur 2 degrés
+Veuillez baisser la température de la zone conducteur 2 degrés
+Augmentez 1 degré pour la zone conducteur
+Diminuez 1 degré pour la zone conducteur
+Baissez 1 degré pour la zone conducteur
+Veuillez augmenter 1 degré pour la zone conducteur
+Veuillez diminuer 1 degré pour la zone conducteur
+Veuillez baisser 1 degré pour la zone conducteur
+Augmentez 4 degrés pour la zone conducteur
+Diminuez 4 degrés pour la zone conducteur
+Baissez 4 degrés pour la zone conducteur
+Veuillez augmenter 4 degrés pour la zone conducteur
+Veuillez diminuer 4 degrés pour la zone conducteur
+Veuillez baisser 4 degrés pour la zone conducteur
+Augmentez la climatisation dans la zone conducteur de 1 degré
+Diminuez la climatisation dans la zone conducteur de 1 degré
+Baissez la climatisation dans la zone conducteur de 1 degré
+Veuillez augmenter la climatisation dans la zone conducteur de 1 degré
+Veuillez diminuer la climatisation dans la zone conducteur de 1 degré
+Veuillez baisser la climatisation dans la zone conducteur de 1 degré
+Augmentez la climatisation dans la zone conducteur de 2 degrés
+Diminuez la climatisation dans la zone conducteur de 2 degrés
+Baissez la climatisation dans la zone conducteur de 2 degrés
+Veuillez augmenter la climatisation dans la zone conducteur de 2 degrés
+Veuillez diminuer la climatisation dans la zone conducteur de 2 degrés
+Veuillez baisser la climatisation dans la zone conducteur de 2 degrés
+Augmentez 5 degrés pour le siège arrière gauche
+Diminuez 5 degrés pour le siège arrière gauche
+Baissez 5 degrés pour le siège arrière gauche
+Veuillez augmenter 5 degrés pour le siège arrière gauche
+Veuillez diminuer 5 degrés pour le siège arrière gauche
+Veuillez baisser 5 degrés pour le siège arrière gauche
+Augmentez 6 degrés pour le siège arrière gauche
+Diminuez 6 degrés pour le siège arrière gauche
+Baissez 6 degrés pour le siège arrière gauche
+Veuillez augmenter 6 degrés pour le siège arrière gauche
+Veuillez diminuer 6 degrés pour le siège arrière gauche
+Veuillez baisser 6 degrés pour le siège arrière gauche
+Augmentez 1 degré de la zone conducteur
+Diminuez 1 degré de la zone conducteur
+Baissez 1 degré de la zone conducteur
+Veuillez augmenter 1 degré de la zone conducteur
+Veuillez diminuer 1 degré de la zone conducteur
+Veuillez baisser 1 degré de la zone conducteur
+Augmentez 2 degrés de la zone conducteur
+Diminuez 2 degrés de la zone conducteur
+Baissez 2 degrés de la zone conducteur
+Veuillez augmenter 2 degrés de la zone conducteur
+Veuillez diminuer 2 degrés de la zone conducteur
+Veuillez baisser 2 degrés de la zone conducteur
+Augmentez la température de la zone passagers 1 degré
+Diminuez la température de la zone passagers 1 degré
+Baissez la température de la zone passagers 1 degré
+Veuillez augmenter la température de la zone passagers 1 degré
+Veuillez diminuer la température de la zone passagers 1 degré
+Veuillez baisser la température de la zone passagers 1 degré
+Augmentez la température de la zone passagers 4 degrés
+Diminuez la température de la zone passagers 4 degrés
+Baissez la température de la zone passagers 4 degrés
+Veuillez augmenter la température de la zone passagers 4 degrés
+Veuillez diminuer la température de la zone passagers 4 degrés
+Veuillez baisser la température de la zone passagers 4 degrés
+Augmentez la température du siège arrière à droite de 1 degré
+Diminuez la température du siège arrière à droite de 1 degré
+Baissez la température du siège arrière à droite de 1 degré
+Veuillez augmenter la température du siège arrière à droite de 1 degré
+Veuillez diminuer la température du siège arrière à droite de 1 degré
+Veuillez baisser la température du siège arrière à droite de 1 degré
+Augmentez la température du siège arrière à droite de 6 degrés
+Diminuez la température du siège arrière à droite de 6 degrés
+Baissez la température du siège arrière à droite de 6 degrés
+Veuillez augmenter la température du siège arrière à droite de 6 degrés
+Veuillez diminuer la température du siège arrière à droite de 6 degrés
+Veuillez baisser la température du siège arrière à droite de 6 degrés
+Augmentez la température des sièges passagers 1 degré
+Diminuez la température des sièges passagers 1 degré
+Baissez la température des sièges passagers 1 degré
+Veuillez augmenter la température des sièges passagers 1 degré
+Veuillez diminuer la température des sièges passagers 1 degré
+Veuillez baisser la température des sièges passagers 1 degré
+Augmentez 1 degré pour la zone passagers
+Diminuez 1 degré pour la zone passagers
+Baissez 1 degré pour la zone passagers
+Veuillez augmenter 1 degré pour la zone passagers
+Veuillez diminuer 1 degré pour la zone passagers
+Veuillez baisser 1 degré pour la zone passagers
+Augmentez 4 degrés pour la zone passagers
+Diminuez 4 degrés pour la zone passagers
+Baissez 4 degrés pour la zone passagers
+Veuillez augmenter 4 degrés pour la zone passagers
+Veuillez diminuer 4 degrés pour la zone passagers
+Veuillez baisser 4 degrés pour la zone passagers
+Augmentez la climatisation dans la zone passagers de 1 degré
+Diminuez la climatisation dans la zone passagers de 1 degré
+Baissez la climatisation dans la zone passagers de 1 degré
+Veuillez augmenter la climatisation dans la zone passagers de 1 degré
+Veuillez diminuer la climatisation dans la zone passagers de 1 degré
+Veuillez baisser la climatisation dans la zone passagers de 1 degré
+Augmentez la climatisation dans la zone passagers de 6 degrés
+Diminuez la climatisation dans la zone passagers de 6 degrés
+Baissez la climatisation dans la zone passagers de 6 degrés
+Veuillez augmenter la climatisation dans la zone passagers de 6 degrés
+Veuillez diminuer la climatisation dans la zone passagers de 6 degrés
+Veuillez baisser la climatisation dans la zone passagers de 6 degrés
+Augmentez 1 degré de la zone passagers
+Diminuez 1 degré de la zone passagers
+Baissez 1 degré de la zone passagers
+Veuillez augmenter 1 degré de la zone passagers
+Veuillez diminuer 1 degré de la zone passagers
+Veuillez baisser 1 degré de la zone passagers
+Augmentez 2 degrés de la zone passagers
+Diminuez 2 degrés de la zone passagers
+Baissez 2 degrés de la zone passagers
+Veuillez augmenter 2 degrés de la zone passagers
+Veuillez diminuer 2 degrés de la zone passagers
+Veuillez baisser 2 degrés de la zone passagers
+Augmentez 3 degrés pour le siège arrière à droite
+Diminuez 3 degrés pour le siège arrière à droite
+Baissez 3 degrés pour le siège arrière à droite
+Veuillez augmenter 3 degrés pour le siège arrière à droite
+Veuillez diminuer 3 degrés pour le siège arrière à droite
+Veuillez baisser 3 degrés pour le siège arrière à droite
+Augmentez 4 degrés pour le siège arrière à droite
+Diminuez 4 degrés pour le siège arrière à droite
+Baissez 4 degrés pour le siège arrière à droite
+Veuillez augmenter 4 degrés pour le siège arrière à droite
+Veuillez diminuer 4 degrés pour le siège arrière à droite
+Veuillez baisser 4 degrés pour le siège arrière à droite
+Augmentez 5 degrés pour les sièges passagers
+Diminuez 5 degrés pour les sièges passagers
+Baissez 5 degrés pour les sièges passagers
+Veuillez augmenter 5 degrés pour les sièges passagers
+Veuillez diminuer 5 degrés pour les sièges passagers
+Veuillez baisser 5 degrés pour les sièges passagers
+Augmentez 1 degré pour les sièges passagers
+Diminuez 1 degré pour les sièges passagers
+Baissez 1 degré pour les sièges passagers
+Veuillez augmenter 1 degré pour les sièges passagers
+Veuillez diminuer 1 degré pour les sièges passagers
+Veuillez baisser 1 degré pour les sièges passagers
+Augmentez la température de la zone conducteur 1 degré maintenant
+Diminuez la température de la zone conducteur 1 degré maintenant
+Baissez la température de la zone conducteur 1 degré maintenant
+Veuillez augmenter la température de la zone conducteur 1 degré maintenant
+Veuillez diminuer la température de la zone conducteur 1 degré maintenant
+Veuillez baisser la température de la zone conducteur 1 degré maintenant
+Augmentez la température de la zone conducteur 2 degrés maintenant
+Diminuez la température de la zone conducteur 2 degrés maintenant
+Baissez la température de la zone conducteur 2 degrés maintenant
+Veuillez augmenter la température de la zone conducteur 2 degrés maintenant
+Veuillez diminuer la température de la zone conducteur 2 degrés maintenant
+Veuillez baisser la température de la zone conducteur 2 degrés maintenant
+Augmentez 1 degré pour la zone conducteur maintenant
+Diminuez 1 degré pour la zone conducteur maintenant
+Baissez 1 degré pour la zone conducteur maintenant
+Veuillez augmenter 1 degré pour la zone conducteur maintenant
+Veuillez diminuer 1 degré pour la zone conducteur maintenant
+Veuillez baisser 1 degré pour la zone conducteur maintenant
+Augmentez 4 degrés pour la zone conducteur maintenant
+Diminuez 4 degrés pour la zone conducteur maintenant
+Baissez 4 degrés pour la zone conducteur maintenant
+Veuillez augmenter 4 degrés pour la zone conducteur maintenant
+Veuillez diminuer 4 degrés pour la zone conducteur maintenant
+Veuillez baisser 4 degrés pour la zone conducteur maintenant
+Augmentez la climatisation dans la zone conducteur de 1 degré maintenant
+Diminuez la climatisation dans la zone conducteur de 1 degré maintenant
+Baissez la climatisation dans la zone conducteur de 1 degré maintenant
+Veuillez augmenter la climatisation dans la zone conducteur de 1 degré maintenant
+Veuillez diminuer la climatisation dans la zone conducteur de 1 degré maintenant
+Veuillez baisser la climatisation dans la zone conducteur de 1 degré maintenant
+Augmentez la climatisation dans la zone conducteur de 2 degrés maintenant
+Diminuez la climatisation dans la zone conducteur de 2 degrés maintenant
+Baissez la climatisation dans la zone conducteur de 2 degrés maintenant
+Veuillez augmenter la climatisation dans la zone conducteur de 2 degrés maintenant
+Veuillez diminuer la climatisation dans la zone conducteur de 2 degrés maintenant
+Veuillez baisser la climatisation dans la zone conducteur de 2 degrés maintenant
+Augmentez 5 degrés pour le siège arrière gauche maintenant
+Diminuez 5 degrés pour le siège arrière gauche maintenant
+Baissez 5 degrés pour le siège arrière gauche maintenant
+Veuillez augmenter 5 degrés pour le siège arrière gauche maintenant
+Veuillez diminuer 5 degrés pour le siège arrière gauche maintenant
+Veuillez baisser 5 degrés pour le siège arrière gauche maintenant
+Augmentez 6 degrés pour le siège arrière gauche maintenant
+Diminuez 6 degrés pour le siège arrière gauche maintenant
+Baissez 6 degrés pour le siège arrière gauche maintenant
+Veuillez augmenter 6 degrés pour le siège arrière gauche maintenant
+Veuillez diminuer 6 degrés pour le siège arrière gauche maintenant
+Veuillez baisser 6 degrés pour le siège arrière gauche maintenant
+Augmentez 1 degré de la zone conducteur maintenant
+Diminuez 1 degré de la zone conducteur maintenant
+Baissez 1 degré de la zone conducteur maintenant
+Veuillez augmenter 1 degré de la zone conducteur maintenant
+Veuillez diminuer 1 degré de la zone conducteur maintenant
+Veuillez baisser 1 degré de la zone conducteur maintenant
+Augmentez 2 degrés de la zone conducteur maintenant
+Diminuez 2 degrés de la zone conducteur maintenant
+Baissez 2 degrés de la zone conducteur maintenant
+Veuillez augmenter 2 degrés de la zone conducteur maintenant
+Veuillez diminuer 2 degrés de la zone conducteur maintenant
+Veuillez baisser 2 degrés de la zone conducteur maintenant
+Augmentez la température de la zone passagers 1 degré maintenant
+Diminuez la température de la zone passagers 1 degré maintenant
+Baissez la température de la zone passagers 1 degré maintenant
+Veuillez augmenter la température de la zone passagers 1 degré maintenant
+Veuillez diminuer la température de la zone passagers 1 degré maintenant
+Veuillez baisser la température de la zone passagers 1 degré maintenant
+Augmentez la température de la zone passagers 4 degrés maintenant
+Diminuez la température de la zone passagers 4 degrés maintenant
+Baissez la température de la zone passagers 4 degrés maintenant
+Veuillez augmenter la température de la zone passagers 4 degrés maintenant
+Veuillez diminuer la température de la zone passagers 4 degrés maintenant
+Veuillez baisser la température de la zone passagers 4 degrés maintenant
+Augmentez la température du siège arrière à droite de 1 degré maintenant
+Diminuez la température du siège arrière à droite de 1 degré maintenant
+Baissez la température du siège arrière à droite de 1 degré maintenant
+Veuillez augmenter la température du siège arrière à droite de 1 degré maintenant
+Veuillez diminuer la température du siège arrière à droite de 1 degré maintenant
+Veuillez baisser la température du siège arrière à droite de 1 degré maintenant
+Augmentez la température du siège arrière à droite de 6 degrés maintenant
+Diminuez la température du siège arrière à droite de 6 degrés maintenant
+Baissez la température du siège arrière à droite de 6 degrés maintenant
+Veuillez augmenter la température du siège arrière à droite de 6 degrés maintenant
+Veuillez diminuer la température du siège arrière à droite de 6 degrés maintenant
+Veuillez baisser la température du siège arrière à droite de 6 degrés maintenant
+Augmentez la température des sièges passagers 1 degré maintenant
+Diminuez la température des sièges passagers 1 degré maintenant
+Baissez la température des sièges passagers 1 degré maintenant
+Veuillez augmenter la température des sièges passagers 1 degré maintenant
+Veuillez diminuer la température des sièges passagers 1 degré maintenant
+Veuillez baisser la température des sièges passagers 1 degré maintenant
+Augmentez 1 degré pour la zone passagers maintenant
+Diminuez 1 degré pour la zone passagers maintenant
+Baissez 1 degré pour la zone passagers maintenant
+Veuillez augmenter 1 degré pour la zone passagers maintenant
+Veuillez diminuer 1 degré pour la zone passagers maintenant
+Veuillez baisser 1 degré pour la zone passagers maintenant
+Augmentez 4 degrés pour la zone passagers maintenant
+Diminuez 4 degrés pour la zone passagers maintenant
+Baissez 4 degrés pour la zone passagers maintenant
+Veuillez augmenter 4 degrés pour la zone passagers maintenant
+Veuillez diminuer 4 degrés pour la zone passagers maintenant
+Veuillez baisser 4 degrés pour la zone passagers maintenant
+Augmentez la climatisation dans la zone passagers de 1 degré maintenant
+Diminuez la climatisation dans la zone passagers de 1 degré maintenant
+Baissez la climatisation dans la zone passagers de 1 degré maintenant
+Veuillez augmenter la climatisation dans la zone passagers de 1 degré maintenant
+Veuillez diminuer la climatisation dans la zone passagers de 1 degré maintenant
+Veuillez baisser la climatisation dans la zone passagers de 1 degré maintenant
+Augmentez la climatisation dans la zone passagers de 6 degrés maintenant
+Diminuez la climatisation dans la zone passagers de 6 degrés maintenant
+Baissez la climatisation dans la zone passagers de 6 degrés maintenant
+Veuillez augmenter la climatisation dans la zone passagers de 6 degrés maintenant
+Veuillez diminuer la climatisation dans la zone passagers de 6 degrés maintenant
+Veuillez baisser la climatisation dans la zone passagers de 6 degrés maintenant
+Augmentez 1 degré de la zone passagers maintenant
+Diminuez 1 degré de la zone passagers maintenant
+Baissez 1 degré de la zone passagers maintenant
+Veuillez augmenter 1 degré de la zone passagers maintenant
+Veuillez diminuer 1 degré de la zone passagers maintenant
+Veuillez baisser 1 degré de la zone passagers maintenant
+Augmentez 2 degrés de la zone passagers maintenant
+Diminuez 2 degrés de la zone passagers maintenant
+Baissez 2 degrés de la zone passagers maintenant
+Veuillez augmenter 2 degrés de la zone passagers maintenant
+Veuillez diminuer 2 degrés de la zone passagers maintenant
+Veuillez baisser 2 degrés de la zone passagers maintenant
+Augmentez 3 degrés pour le siège arrière à droite maintenant
+Diminuez 3 degrés pour le siège arrière à droite maintenant
+Baissez 3 degrés pour le siège arrière à droite maintenant
+Veuillez augmenter 3 degrés pour le siège arrière à droite maintenant
+Veuillez diminuer 3 degrés pour le siège arrière à droite maintenant
+Veuillez baisser 3 degrés pour le siège arrière à droite maintenant
+Augmentez 4 degrés pour le siège arrière à droite maintenant
+Diminuez 4 degrés pour le siège arrière à droite maintenant
+Baissez 4 degrés pour le siège arrière à droite maintenant
+Veuillez augmenter 4 degrés pour le siège arrière à droite maintenant
+Veuillez diminuer 4 degrés pour le siège arrière à droite maintenant
+Veuillez baisser 4 degrés pour le siège arrière à droite maintenant
+Augmentez 5 degrés pour les sièges passagers maintenant
+Diminuez 5 degrés pour les sièges passagers maintenant
+Baissez 5 degrés pour les sièges passagers maintenant
+Veuillez augmenter 5 degrés pour les sièges passagers maintenant
+Veuillez diminuer 5 degrés pour les sièges passagers maintenant
+Veuillez baisser 5 degrés pour les sièges passagers maintenant
+Augmentez 1 degré pour les sièges passagers maintenant
+Diminuez 1 degré pour les sièges passagers maintenant
+Baissez 1 degré pour les sièges passagers maintenant
+Veuillez augmenter 1 degré pour les sièges passagers maintenant
+Veuillez diminuer 1 degré pour les sièges passagers maintenant
+Veuillez baisser 1 degré pour les sièges passagers maintenant
+Augmentez la température de la zone conducteur 1 degré tout de suite
+Diminuez la température de la zone conducteur 1 degré tout de suite
+Baissez la température de la zone conducteur 1 degré tout de suite
+Veuillez augmenter la température de la zone conducteur 1 degré tout de suite
+Veuillez diminuer la température de la zone conducteur 1 degré tout de suite
+Veuillez baisser la température de la zone conducteur 1 degré tout de suite
+Augmentez la température de la zone conducteur 2 degrés tout de suite
+Diminuez la température de la zone conducteur 2 degrés tout de suite
+Baissez la température de la zone conducteur 2 degrés tout de suite
+Veuillez augmenter la température de la zone conducteur 2 degrés tout de suite
+Veuillez diminuer la température de la zone conducteur 2 degrés tout de suite
+Veuillez baisser la température de la zone conducteur 2 degrés tout de suite
+Augmentez 1 degré pour la zone conducteur tout de suite
+Diminuez 1 degré pour la zone conducteur tout de suite
+Baissez 1 degré pour la zone conducteur tout de suite
+Veuillez augmenter 1 degré pour la zone conducteur tout de suite
+Veuillez diminuer 1 degré pour la zone conducteur tout de suite
+Veuillez baisser 1 degré pour la zone conducteur tout de suite
+Augmentez 4 degrés pour la zone conducteur tout de suite
+Diminuez 4 degrés pour la zone conducteur tout de suite
+Baissez 4 degrés pour la zone conducteur tout de suite
+Veuillez augmenter 4 degrés pour la zone conducteur tout de suite
+Veuillez diminuer 4 degrés pour la zone conducteur tout de suite
+Veuillez baisser 4 degrés pour la zone conducteur tout de suite
+Augmentez la climatisation dans la zone conducteur de 1 degré tout de suite
+Diminuez la climatisation dans la zone conducteur de 1 degré tout de suite
+Baissez la climatisation dans la zone conducteur de 1 degré tout de suite
+Veuillez augmenter la climatisation dans la zone conducteur de 1 degré tout de suite
+Veuillez diminuer la climatisation dans la zone conducteur de 1 degré tout de suite
+Veuillez baisser la climatisation dans la zone conducteur de 1 degré tout de suite
+Augmentez la climatisation dans la zone conducteur de 2 degrés tout de suite
+Diminuez la climatisation dans la zone conducteur de 2 degrés tout de suite
+Baissez la climatisation dans la zone conducteur de 2 degrés tout de suite
+Veuillez augmenter la climatisation dans la zone conducteur de 2 degrés tout de suite
+Veuillez diminuer la climatisation dans la zone conducteur de 2 degrés tout de suite
+Veuillez baisser la climatisation dans la zone conducteur de 2 degrés tout de suite
+Augmentez 5 degrés pour le siège arrière gauche tout de suite
+Diminuez 5 degrés pour le siège arrière gauche tout de suite
+Baissez 5 degrés pour le siège arrière gauche tout de suite
+Veuillez augmenter 5 degrés pour le siège arrière gauche tout de suite
+Veuillez diminuer 5 degrés pour le siège arrière gauche tout de suite
+Veuillez baisser 5 degrés pour le siège arrière gauche tout de suite
+Augmentez 6 degrés pour le siège arrière gauche tout de suite
+Diminuez 6 degrés pour le siège arrière gauche tout de suite
+Baissez 6 degrés pour le siège arrière gauche tout de suite
+Veuillez augmenter 6 degrés pour le siège arrière gauche tout de suite
+Veuillez diminuer 6 degrés pour le siège arrière gauche tout de suite
+Veuillez baisser 6 degrés pour le siège arrière gauche tout de suite
+Augmentez 1 degré de la zone conducteur tout de suite
+Diminuez 1 degré de la zone conducteur tout de suite
+Baissez 1 degré de la zone conducteur tout de suite
+Veuillez augmenter 1 degré de la zone conducteur tout de suite
+Veuillez diminuer 1 degré de la zone conducteur tout de suite
+Veuillez baisser 1 degré de la zone conducteur tout de suite
+Augmentez 2 degrés de la zone conducteur tout de suite
+Diminuez 2 degrés de la zone conducteur tout de suite
+Baissez 2 degrés de la zone conducteur tout de suite
+Veuillez augmenter 2 degrés de la zone conducteur tout de suite
+Veuillez diminuer 2 degrés de la zone conducteur tout de suite
+Veuillez baisser 2 degrés de la zone conducteur tout de suite
+Augmentez la température de la zone passagers 1 degré tout de suite
+Diminuez la température de la zone passagers 1 degré tout de suite
+Baissez la température de la zone passagers 1 degré tout de suite
+Veuillez augmenter la température de la zone passagers 1 degré tout de suite
+Veuillez diminuer la température de la zone passagers 1 degré tout de suite
+Veuillez baisser la température de la zone passagers 1 degré tout de suite
+Augmentez la température de la zone passagers 4 degrés tout de suite
+Diminuez la température de la zone passagers 4 degrés tout de suite
+Baissez la température de la zone passagers 4 degrés tout de suite
+Veuillez augmenter la température de la zone passagers 4 degrés tout de suite
+Veuillez diminuer la température de la zone passagers 4 degrés tout de suite
+Veuillez baisser la température de la zone passagers 4 degrés tout de suite
+Augmentez la température du siège arrière à droite de 1 degré tout de suite
+Diminuez la température du siège arrière à droite de 1 degré tout de suite
+Baissez la température du siège arrière à droite de 1 degré tout de suite
+Veuillez augmenter la température du siège arrière à droite de 1 degré tout de suite
+Veuillez diminuer la température du siège arrière à droite de 1 degré tout de suite
+Veuillez baisser la température du siège arrière à droite de 1 degré tout de suite
+Augmentez la température du siège arrière à droite de 6 degrés tout de suite
+Diminuez la température du siège arrière à droite de 6 degrés tout de suite
+Baissez la température du siège arrière à droite de 6 degrés tout de suite
+Veuillez augmenter la température du siège arrière à droite de 6 degrés tout de suite
+Veuillez diminuer la température du siège arrière à droite de 6 degrés tout de suite
+Veuillez baisser la température du siège arrière à droite de 6 degrés tout de suite
+Augmentez la température des sièges passagers 1 degré tout de suite
+Diminuez la température des sièges passagers 1 degré tout de suite
+Baissez la température des sièges passagers 1 degré tout de suite
+Veuillez augmenter la température des sièges passagers 1 degré tout de suite
+Veuillez diminuer la température des sièges passagers 1 degré tout de suite
+Veuillez baisser la température des sièges passagers 1 degré tout de suite
+Augmentez 1 degré pour la zone passagers tout de suite
+Diminuez 1 degré pour la zone passagers tout de suite
+Baissez 1 degré pour la zone passagers tout de suite
+Veuillez augmenter 1 degré pour la zone passagers tout de suite
+Veuillez diminuer 1 degré pour la zone passagers tout de suite
+Veuillez baisser 1 degré pour la zone passagers tout de suite
+Augmentez 4 degrés pour la zone passagers tout de suite
+Diminuez 4 degrés pour la zone passagers tout de suite
+Baissez 4 degrés pour la zone passagers tout de suite
+Veuillez augmenter 4 degrés pour la zone passagers tout de suite
+Veuillez diminuer 4 degrés pour la zone passagers tout de suite
+Veuillez baisser 4 degrés pour la zone passagers tout de suite
+Augmentez la climatisation dans la zone passagers de 1 degré tout de suite
+Diminuez la climatisation dans la zone passagers de 1 degré tout de suite
+Baissez la climatisation dans la zone passagers de 1 degré tout de suite
+Veuillez augmenter la climatisation dans la zone passagers de 1 degré tout de suite
+Veuillez diminuer la climatisation dans la zone passagers de 1 degré tout de suite
+Veuillez baisser la climatisation dans la zone passagers de 1 degré tout de suite
+Augmentez la climatisation dans la zone passagers de 6 degrés tout de suite
+Diminuez la climatisation dans la zone passagers de 6 degrés tout de suite
+Baissez la climatisation dans la zone passagers de 6 degrés tout de suite
+Veuillez augmenter la climatisation dans la zone passagers de 6 degrés tout de suite
+Veuillez diminuer la climatisation dans la zone passagers de 6 degrés tout de suite
+Veuillez baisser la climatisation dans la zone passagers de 6 degrés tout de suite
+Augmentez 1 degré de la zone passagers tout de suite
+Diminuez 1 degré de la zone passagers tout de suite
+Baissez 1 degré de la zone passagers tout de suite
+Veuillez augmenter 1 degré de la zone passagers tout de suite
+Veuillez diminuer 1 degré de la zone passagers tout de suite
+Veuillez baisser 1 degré de la zone passagers tout de suite
+Augmentez 2 degrés de la zone passagers tout de suite
+Diminuez 2 degrés de la zone passagers tout de suite
+Baissez 2 degrés de la zone passagers tout de suite
+Veuillez augmenter 2 degrés de la zone passagers tout de suite
+Veuillez diminuer 2 degrés de la zone passagers tout de suite
+Veuillez baisser 2 degrés de la zone passagers tout de suite
+Augmentez 3 degrés pour le siège arrière à droite tout de suite
+Diminuez 3 degrés pour le siège arrière à droite tout de suite
+Baissez 3 degrés pour le siège arrière à droite tout de suite
+Veuillez augmenter 3 degrés pour le siège arrière à droite tout de suite
+Veuillez diminuer 3 degrés pour le siège arrière à droite tout de suite
+Veuillez baisser 3 degrés pour le siège arrière à droite tout de suite
+Augmentez 4 degrés pour le siège arrière à droite tout de suite
+Diminuez 4 degrés pour le siège arrière à droite tout de suite
+Baissez 4 degrés pour le siège arrière à droite tout de suite
+Veuillez augmenter 4 degrés pour le siège arrière à droite tout de suite
+Veuillez diminuer 4 degrés pour le siège arrière à droite tout de suite
+Veuillez baisser 4 degrés pour le siège arrière à droite tout de suite
+Augmentez 5 degrés pour les sièges passagers tout de suite
+Diminuez 5 degrés pour les sièges passagers tout de suite
+Baissez 5 degrés pour les sièges passagers tout de suite
+Veuillez augmenter 5 degrés pour les sièges passagers tout de suite
+Veuillez diminuer 5 degrés pour les sièges passagers tout de suite
+Veuillez baisser 5 degrés pour les sièges passagers tout de suite
+Augmentez 1 degré pour les sièges passagers tout de suite
+Diminuez 1 degré pour les sièges passagers tout de suite
+Baissez 1 degré pour les sièges passagers tout de suite
+Veuillez augmenter 1 degré pour les sièges passagers tout de suite
+Veuillez diminuer 1 degré pour les sièges passagers tout de suite
+Veuillez baisser 1 degré pour les sièges passagers tout de suite
+Augmentez la température de la zone conducteur 1 degré immédiatement
+Diminuez la température de la zone conducteur 1 degré immédiatement
+Baissez la température de la zone conducteur 1 degré immédiatement
+Veuillez augmenter la température de la zone conducteur 1 degré immédiatement
+Veuillez diminuer la température de la zone conducteur 1 degré immédiatement
+Veuillez baisser la température de la zone conducteur 1 degré immédiatement
+Augmentez la température de la zone conducteur 2 degrés immédiatement
+Diminuez la température de la zone conducteur 2 degrés immédiatement
+Baissez la température de la zone conducteur 2 degrés immédiatement
+Veuillez augmenter la température de la zone conducteur 2 degrés immédiatement
+Veuillez diminuer la température de la zone conducteur 2 degrés immédiatement
+Veuillez baisser la température de la zone conducteur 2 degrés immédiatement
+Augmentez 1 degré pour la zone conducteur immédiatement
+Diminuez 1 degré pour la zone conducteur immédiatement
+Baissez 1 degré pour la zone conducteur immédiatement
+Veuillez augmenter 1 degré pour la zone conducteur immédiatement
+Veuillez diminuer 1 degré pour la zone conducteur immédiatement
+Veuillez baisser 1 degré pour la zone conducteur immédiatement
+Augmentez 4 degrés pour la zone conducteur immédiatement
+Diminuez 4 degrés pour la zone conducteur immédiatement
+Baissez 4 degrés pour la zone conducteur immédiatement
+Veuillez augmenter 4 degrés pour la zone conducteur immédiatement
+Veuillez diminuer 4 degrés pour la zone conducteur immédiatement
+Veuillez baisser 4 degrés pour la zone conducteur immédiatement
+Augmentez la climatisation dans la zone conducteur de 1 degré immédiatement
+Diminuez la climatisation dans la zone conducteur de 1 degré immédiatement
+Baissez la climatisation dans la zone conducteur de 1 degré immédiatement
+Veuillez augmenter la climatisation dans la zone conducteur de 1 degré immédiatement
+Veuillez diminuer la climatisation dans la zone conducteur de 1 degré immédiatement
+Veuillez baisser la climatisation dans la zone conducteur de 1 degré immédiatement
+Augmentez la climatisation dans la zone conducteur de 2 degrés immédiatement
+Diminuez la climatisation dans la zone conducteur de 2 degrés immédiatement
+Baissez la climatisation dans la zone conducteur de 2 degrés immédiatement
+Veuillez augmenter la climatisation dans la zone conducteur de 2 degrés immédiatement
+Veuillez diminuer la climatisation dans la zone conducteur de 2 degrés immédiatement
+Veuillez baisser la climatisation dans la zone conducteur de 2 degrés immédiatement
+Augmentez 5 degrés pour le siège arrière gauche immédiatement
+Diminuez 5 degrés pour le siège arrière gauche immédiatement
+Baissez 5 degrés pour le siège arrière gauche immédiatement
+Veuillez augmenter 5 degrés pour le siège arrière gauche immédiatement
+Veuillez diminuer 5 degrés pour le siège arrière gauche immédiatement
+Veuillez baisser 5 degrés pour le siège arrière gauche immédiatement
+Augmentez 6 degrés pour le siège arrière gauche immédiatement
+Diminuez 6 degrés pour le siège arrière gauche immédiatement
+Baissez 6 degrés pour le siège arrière gauche immédiatement
+Veuillez augmenter 6 degrés pour le siège arrière gauche immédiatement
+Veuillez diminuer 6 degrés pour le siège arrière gauche immédiatement
+Veuillez baisser 6 degrés pour le siège arrière gauche immédiatement
+Augmentez 1 degré de la zone conducteur immédiatement
+Diminuez 1 degré de la zone conducteur immédiatement
+Baissez 1 degré de la zone conducteur immédiatement
+Veuillez augmenter 1 degré de la zone conducteur immédiatement
+Veuillez diminuer 1 degré de la zone conducteur immédiatement
+Veuillez baisser 1 degré de la zone conducteur immédiatement
+Augmentez 2 degrés de la zone conducteur immédiatement
+Diminuez 2 degrés de la zone conducteur immédiatement
+Baissez 2 degrés de la zone conducteur immédiatement
+Veuillez augmenter 2 degrés de la zone conducteur immédiatement
+Veuillez diminuer 2 degrés de la zone conducteur immédiatement
+Veuillez baisser 2 degrés de la zone conducteur immédiatement
+Augmentez la température de la zone passagers 1 degré immédiatement
+Diminuez la température de la zone passagers 1 degré immédiatement
+Baissez la température de la zone passagers 1 degré immédiatement
+Veuillez augmenter la température de la zone passagers 1 degré immédiatement
+Veuillez diminuer la température de la zone passagers 1 degré immédiatement
+Veuillez baisser la température de la zone passagers 1 degré immédiatement
+Augmentez la température de la zone passagers 4 degrés immédiatement
+Diminuez la température de la zone passagers 4 degrés immédiatement
+Baissez la température de la zone passagers 4 degrés immédiatement
+Veuillez augmenter la température de la zone passagers 4 degrés immédiatement
+Veuillez diminuer la température de la zone passagers 4 degrés immédiatement
+Veuillez baisser la température de la zone passagers 4 degrés immédiatement
+Augmentez la température du siège arrière à droite de 1 degré immédiatement
+Diminuez la température du siège arrière à droite de 1 degré immédiatement
+Baissez la température du siège arrière à droite de 1 degré immédiatement
+Veuillez augmenter la température du siège arrière à droite de 1 degré immédiatement
+Veuillez diminuer la température du siège arrière à droite de 1 degré immédiatement
+Veuillez baisser la température du siège arrière à droite de 1 degré immédiatement
+Augmentez la température du siège arrière à droite de 6 degrés immédiatement
+Diminuez la température du siège arrière à droite de 6 degrés immédiatement
+Baissez la température du siège arrière à droite de 6 degrés immédiatement
+Veuillez augmenter la température du siège arrière à droite de 6 degrés immédiatement
+Veuillez diminuer la température du siège arrière à droite de 6 degrés immédiatement
+Veuillez baisser la température du siège arrière à droite de 6 degrés immédiatement
+Augmentez la température des sièges passagers 1 degré immédiatement
+Diminuez la température des sièges passagers 1 degré immédiatement
+Baissez la température des sièges passagers 1 degré immédiatement
+Veuillez augmenter la température des sièges passagers 1 degré immédiatement
+Veuillez diminuer la température des sièges passagers 1 degré immédiatement
+Veuillez baisser la température des sièges passagers 1 degré immédiatement
+Augmentez 1 degré pour la zone passagers immédiatement
+Diminuez 1 degré pour la zone passagers immédiatement
+Baissez 1 degré pour la zone passagers immédiatement
+Veuillez augmenter 1 degré pour la zone passagers immédiatement
+Veuillez diminuer 1 degré pour la zone passagers immédiatement
+Veuillez baisser 1 degré pour la zone passagers immédiatement
+Augmentez 4 degrés pour la zone passagers immédiatement
+Diminuez 4 degrés pour la zone passagers immédiatement
+Baissez 4 degrés pour la zone passagers immédiatement
+Veuillez augmenter 4 degrés pour la zone passagers immédiatement
+Veuillez diminuer 4 degrés pour la zone passagers immédiatement
+Veuillez baisser 4 degrés pour la zone passagers immédiatement
+Augmentez la climatisation dans la zone passagers de 1 degré immédiatement
+Diminuez la climatisation dans la zone passagers de 1 degré immédiatement
+Baissez la climatisation dans la zone passagers de 1 degré immédiatement
+Veuillez augmenter la climatisation dans la zone passagers de 1 degré immédiatement
+Veuillez diminuer la climatisation dans la zone passagers de 1 degré immédiatement
+Veuillez baisser la climatisation dans la zone passagers de 1 degré immédiatement
+Augmentez la climatisation dans la zone passagers de 6 degrés immédiatement
+Diminuez la climatisation dans la zone passagers de 6 degrés immédiatement
+Baissez la climatisation dans la zone passagers de 6 degrés immédiatement
+Veuillez augmenter la climatisation dans la zone passagers de 6 degrés immédiatement
+Veuillez diminuer la climatisation dans la zone passagers de 6 degrés immédiatement
+Veuillez baisser la climatisation dans la zone passagers de 6 degrés immédiatement
+Augmentez 1 degré de la zone passagers immédiatement
+Diminuez 1 degré de la zone passagers immédiatement
+Baissez 1 degré de la zone passagers immédiatement
+Veuillez augmenter 1 degré de la zone passagers immédiatement
+Veuillez diminuer 1 degré de la zone passagers immédiatement
+Veuillez baisser 1 degré de la zone passagers immédiatement
+Augmentez 2 degrés de la zone passagers immédiatement
+Diminuez 2 degrés de la zone passagers immédiatement
+Baissez 2 degrés de la zone passagers immédiatement
+Veuillez augmenter 2 degrés de la zone passagers immédiatement
+Veuillez diminuer 2 degrés de la zone passagers immédiatement
+Veuillez baisser 2 degrés de la zone passagers immédiatement
+Augmentez 3 degrés pour le siège arrière à droite immédiatement
+Diminuez 3 degrés pour le siège arrière à droite immédiatement
+Baissez 3 degrés pour le siège arrière à droite immédiatement
+Veuillez augmenter 3 degrés pour le siège arrière à droite immédiatement
+Veuillez diminuer 3 degrés pour le siège arrière à droite immédiatement
+Veuillez baisser 3 degrés pour le siège arrière à droite immédiatement
+Augmentez 4 degrés pour le siège arrière à droite immédiatement
+Diminuez 4 degrés pour le siège arrière à droite immédiatement
+Baissez 4 degrés pour le siège arrière à droite immédiatement
+Veuillez augmenter 4 degrés pour le siège arrière à droite immédiatement
+Veuillez diminuer 4 degrés pour le siège arrière à droite immédiatement
+Veuillez baisser 4 degrés pour le siège arrière à droite immédiatement
+Augmentez 5 degrés pour les sièges passagers immédiatement
+Diminuez 5 degrés pour les sièges passagers immédiatement
+Baissez 5 degrés pour les sièges passagers immédiatement
+Veuillez augmenter 5 degrés pour les sièges passagers immédiatement
+Veuillez diminuer 5 degrés pour les sièges passagers immédiatement
+Veuillez baisser 5 degrés pour les sièges passagers immédiatement
+Augmentez 1 degré pour les sièges passagers immédiatement
+Diminuez 1 degré pour les sièges passagers immédiatement
+Baissez 1 degré pour les sièges passagers immédiatement
+Veuillez augmenter 1 degré pour les sièges passagers immédiatement
+Veuillez diminuer 1 degré pour les sièges passagers immédiatement
+Veuillez baisser 1 degré pour les sièges passagers immédiatement
+Augmentez la température de la zone conducteur 1 degré pour moi
+Diminuez la température de la zone conducteur 1 degré pour moi
+Baissez la température de la zone conducteur 1 degré pour moi
+Veuillez augmenter la température de la zone conducteur 1 degré pour moi
+Veuillez diminuer la température de la zone conducteur 1 degré pour moi
+Veuillez baisser la température de la zone conducteur 1 degré pour moi
+Augmentez la température de la zone conducteur 2 degrés pour moi
+Diminuez la température de la zone conducteur 2 degrés pour moi
+Baissez la température de la zone conducteur 2 degrés pour moi
+Veuillez augmenter la température de la zone conducteur 2 degrés pour moi
+Veuillez diminuer la température de la zone conducteur 2 degrés pour moi
+Veuillez baisser la température de la zone conducteur 2 degrés pour moi
+Augmentez 1 degré pour la zone conducteur pour moi
+Diminuez 1 degré pour la zone conducteur pour moi
+Baissez 1 degré pour la zone conducteur pour moi
+Veuillez augmenter 1 degré pour la zone conducteur pour moi
+Veuillez diminuer 1 degré pour la zone conducteur pour moi
+Veuillez baisser 1 degré pour la zone conducteur pour moi
+Augmentez 4 degrés pour la zone conducteur pour moi
+Diminuez 4 degrés pour la zone conducteur pour moi
+Baissez 4 degrés pour la zone conducteur pour moi
+Veuillez augmenter 4 degrés pour la zone conducteur pour moi
+Veuillez diminuer 4 degrés pour la zone conducteur pour moi
+Veuillez baisser 4 degrés pour la zone conducteur pour moi
+Augmentez la climatisation dans la zone conducteur de 1 degré pour moi
+Diminuez la climatisation dans la zone conducteur de 1 degré pour moi
+Baissez la climatisation dans la zone conducteur de 1 degré pour moi
+Veuillez augmenter la climatisation dans la zone conducteur de 1 degré pour moi
+Veuillez diminuer la climatisation dans la zone conducteur de 1 degré pour moi
+Veuillez baisser la climatisation dans la zone conducteur de 1 degré pour moi
+Augmentez la climatisation dans la zone conducteur de 2 degrés pour moi
+Diminuez la climatisation dans la zone conducteur de 2 degrés pour moi
+Baissez la climatisation dans la zone conducteur de 2 degrés pour moi
+Veuillez augmenter la climatisation dans la zone conducteur de 2 degrés pour moi
+Veuillez diminuer la climatisation dans la zone conducteur de 2 degrés pour moi
+Veuillez baisser la climatisation dans la zone conducteur de 2 degrés pour moi
+Augmentez 5 degrés pour le siège arrière gauche pour moi
+Diminuez 5 degrés pour le siège arrière gauche pour moi
+Baissez 5 degrés pour le siège arrière gauche pour moi
+Veuillez augmenter 5 degrés pour le siège arrière gauche pour moi
+Veuillez diminuer 5 degrés pour le siège arrière gauche pour moi
+Veuillez baisser 5 degrés pour le siège arrière gauche pour moi
+Augmentez 6 degrés pour le siège arrière gauche pour moi
+Diminuez 6 degrés pour le siège arrière gauche pour moi
+Baissez 6 degrés pour le siège arrière gauche pour moi
+Veuillez augmenter 6 degrés pour le siège arrière gauche pour moi
+Veuillez diminuer 6 degrés pour le siège arrière gauche pour moi
+Veuillez baisser 6 degrés pour le siège arrière gauche pour moi
+Augmentez 1 degré de la zone conducteur pour moi
+Diminuez 1 degré de la zone conducteur pour moi
+Baissez 1 degré de la zone conducteur pour moi
+Veuillez augmenter 1 degré de la zone conducteur pour moi
+Veuillez diminuer 1 degré de la zone conducteur pour moi
+Veuillez baisser 1 degré de la zone conducteur pour moi
+Augmentez 2 degrés de la zone conducteur pour moi
+Diminuez 2 degrés de la zone conducteur pour moi
+Baissez 2 degrés de la zone conducteur pour moi
+Veuillez augmenter 2 degrés de la zone conducteur pour moi
+Veuillez diminuer 2 degrés de la zone conducteur pour moi
+Veuillez baisser 2 degrés de la zone conducteur pour moi
+Augmentez la température de la zone passagers 1 degré pour moi
+Diminuez la température de la zone passagers 1 degré pour moi
+Baissez la température de la zone passagers 1 degré pour moi
+Veuillez augmenter la température de la zone passagers 1 degré pour moi
+Veuillez diminuer la température de la zone passagers 1 degré pour moi
+Veuillez baisser la température de la zone passagers 1 degré pour moi
+Augmentez la température de la zone passagers 4 degrés pour moi
+Diminuez la température de la zone passagers 4 degrés pour moi
+Baissez la température de la zone passagers 4 degrés pour moi
+Veuillez augmenter la température de la zone passagers 4 degrés pour moi
+Veuillez diminuer la température de la zone passagers 4 degrés pour moi
+Veuillez baisser la température de la zone passagers 4 degrés pour moi
+Augmentez la température du siège arrière à droite de 1 degré pour moi
+Diminuez la température du siège arrière à droite de 1 degré pour moi
+Baissez la température du siège arrière à droite de 1 degré pour moi
+Veuillez augmenter la température du siège arrière à droite de 1 degré pour moi
+Veuillez diminuer la température du siège arrière à droite de 1 degré pour moi
+Veuillez baisser la température du siège arrière à droite de 1 degré pour moi
+Augmentez la température du siège arrière à droite de 6 degrés pour moi
+Diminuez la température du siège arrière à droite de 6 degrés pour moi
+Baissez la température du siège arrière à droite de 6 degrés pour moi
+Veuillez augmenter la température du siège arrière à droite de 6 degrés pour moi
+Veuillez diminuer la température du siège arrière à droite de 6 degrés pour moi
+Veuillez baisser la température du siège arrière à droite de 6 degrés pour moi
+Augmentez la température des sièges passagers 1 degré pour moi
+Diminuez la température des sièges passagers 1 degré pour moi
+Baissez la température des sièges passagers 1 degré pour moi
+Veuillez augmenter la température des sièges passagers 1 degré pour moi
+Veuillez diminuer la température des sièges passagers 1 degré pour moi
+Veuillez baisser la température des sièges passagers 1 degré pour moi
+Augmentez 1 degré pour la zone passagers pour moi
+Diminuez 1 degré pour la zone passagers pour moi
+Baissez 1 degré pour la zone passagers pour moi
+Veuillez augmenter 1 degré pour la zone passagers pour moi
+Veuillez diminuer 1 degré pour la zone passagers pour moi
+Veuillez baisser 1 degré pour la zone passagers pour moi
+Augmentez 4 degrés pour la zone passagers pour moi
+Diminuez 4 degrés pour la zone passagers pour moi
+Baissez 4 degrés pour la zone passagers pour moi
+Veuillez augmenter 4 degrés pour la zone passagers pour moi
+Veuillez diminuer 4 degrés pour la zone passagers pour moi
+Veuillez baisser 4 degrés pour la zone passagers pour moi
+Augmentez la climatisation dans la zone passagers de 1 degré pour moi
+Diminuez la climatisation dans la zone passagers de 1 degré pour moi
+Baissez la climatisation dans la zone passagers de 1 degré pour moi
+Veuillez augmenter la climatisation dans la zone passagers de 1 degré pour moi
+Veuillez diminuer la climatisation dans la zone passagers de 1 degré pour moi
+Veuillez baisser la climatisation dans la zone passagers de 1 degré pour moi
+Augmentez la climatisation dans la zone passagers de 6 degrés pour moi
+Diminuez la climatisation dans la zone passagers de 6 degrés pour moi
+Baissez la climatisation dans la zone passagers de 6 degrés pour moi
+Veuillez augmenter la climatisation dans la zone passagers de 6 degrés pour moi
+Veuillez diminuer la climatisation dans la zone passagers de 6 degrés pour moi
+Veuillez baisser la climatisation dans la zone passagers de 6 degrés pour moi
+Augmentez 1 degré de la zone passagers pour moi
+Diminuez 1 degré de la zone passagers pour moi
+Baissez 1 degré de la zone passagers pour moi
+Veuillez augmenter 1 degré de la zone passagers pour moi
+Veuillez diminuer 1 degré de la zone passagers pour moi
+Veuillez baisser 1 degré de la zone passagers pour moi
+Augmentez 2 degrés de la zone passagers pour moi
+Diminuez 2 degrés de la zone passagers pour moi
+Baissez 2 degrés de la zone passagers pour moi
+Veuillez augmenter 2 degrés de la zone passagers pour moi
+Veuillez diminuer 2 degrés de la zone passagers pour moi
+Veuillez baisser 2 degrés de la zone passagers pour moi
+Augmentez 3 degrés pour le siège arrière à droite pour moi
+Diminuez 3 degrés pour le siège arrière à droite pour moi
+Baissez 3 degrés pour le siège arrière à droite pour moi
+Veuillez augmenter 3 degrés pour le siège arrière à droite pour moi
+Veuillez diminuer 3 degrés pour le siège arrière à droite pour moi
+Veuillez baisser 3 degrés pour le siège arrière à droite pour moi
+Augmentez 4 degrés pour le siège arrière à droite pour moi
+Diminuez 4 degrés pour le siège arrière à droite pour moi
+Baissez 4 degrés pour le siège arrière à droite pour moi
+Veuillez augmenter 4 degrés pour le siège arrière à droite pour moi
+Veuillez diminuer 4 degrés pour le siège arrière à droite pour moi
+Veuillez baisser 4 degrés pour le siège arrière à droite pour moi
+Augmentez 5 degrés pour les sièges passagers pour moi
+Diminuez 5 degrés pour les sièges passagers pour moi
+Baissez 5 degrés pour les sièges passagers pour moi
+Veuillez augmenter 5 degrés pour les sièges passagers pour moi
+Veuillez diminuer 5 degrés pour les sièges passagers pour moi
+Veuillez baisser 5 degrés pour les sièges passagers pour moi
+Augmentez 1 degré pour les sièges passagers pour moi
+Diminuez 1 degré pour les sièges passagers pour moi
+Baissez 1 degré pour les sièges passagers pour moi
+Veuillez augmenter 1 degré pour les sièges passagers pour moi
+Veuillez diminuer 1 degré pour les sièges passagers pour moi
+Veuillez baisser 1 degré pour les sièges passagers pour moi
+Augmentez la température de la zone conducteur 1 degré maintenant pour moi
+Diminuez la température de la zone conducteur 1 degré maintenant pour moi
+Baissez la température de la zone conducteur 1 degré maintenant pour moi
+Veuillez augmenter la température de la zone conducteur 1 degré maintenant pour moi
+Veuillez diminuer la température de la zone conducteur 1 degré maintenant pour moi
+Veuillez baisser la température de la zone conducteur 1 degré maintenant pour moi
+Augmentez la température de la zone conducteur 2 degrés maintenant pour moi
+Diminuez la température de la zone conducteur 2 degrés maintenant pour moi
+Baissez la température de la zone conducteur 2 degrés maintenant pour moi
+Veuillez augmenter la température de la zone conducteur 2 degrés maintenant pour moi
+Veuillez diminuer la température de la zone conducteur 2 degrés maintenant pour moi
+Veuillez baisser la température de la zone conducteur 2 degrés maintenant pour moi
+Augmentez 1 degré pour la zone conducteur maintenant pour moi
+Diminuez 1 degré pour la zone conducteur maintenant pour moi
+Baissez 1 degré pour la zone conducteur maintenant pour moi
+Veuillez augmenter 1 degré pour la zone conducteur maintenant pour moi
+Veuillez diminuer 1 degré pour la zone conducteur maintenant pour moi
+Veuillez baisser 1 degré pour la zone conducteur maintenant pour moi
+Augmentez 4 degrés pour la zone conducteur maintenant pour moi
+Diminuez 4 degrés pour la zone conducteur maintenant pour moi
+Baissez 4 degrés pour la zone conducteur maintenant pour moi
+Veuillez augmenter 4 degrés pour la zone conducteur maintenant pour moi
+Veuillez diminuer 4 degrés pour la zone conducteur maintenant pour moi
+Veuillez baisser 4 degrés pour la zone conducteur maintenant pour moi
+Augmentez la climatisation dans la zone conducteur de 1 degré maintenant pour moi
+Diminuez la climatisation dans la zone conducteur de 1 degré maintenant pour moi
+Baissez la climatisation dans la zone conducteur de 1 degré maintenant pour moi
+Veuillez augmenter la climatisation dans la zone conducteur de 1 degré maintenant pour moi
+Veuillez diminuer la climatisation dans la zone conducteur de 1 degré maintenant pour moi
+Veuillez baisser la climatisation dans la zone conducteur de 1 degré maintenant pour moi
+Augmentez la climatisation dans la zone conducteur de 2 degrés maintenant pour moi
+Diminuez la climatisation dans la zone conducteur de 2 degrés maintenant pour moi
+Baissez la climatisation dans la zone conducteur de 2 degrés maintenant pour moi
+Veuillez augmenter la climatisation dans la zone conducteur de 2 degrés maintenant pour moi
+Veuillez diminuer la climatisation dans la zone conducteur de 2 degrés maintenant pour moi
+Veuillez baisser la climatisation dans la zone conducteur de 2 degrés maintenant pour moi
+Augmentez 5 degrés pour le siège arrière gauche maintenant pour moi
+Diminuez 5 degrés pour le siège arrière gauche maintenant pour moi
+Baissez 5 degrés pour le siège arrière gauche maintenant pour moi
+Veuillez augmenter 5 degrés pour le siège arrière gauche maintenant pour moi
+Veuillez diminuer 5 degrés pour le siège arrière gauche maintenant pour moi
+Veuillez baisser 5 degrés pour le siège arrière gauche maintenant pour moi
+Augmentez 6 degrés pour le siège arrière gauche maintenant pour moi
+Diminuez 6 degrés pour le siège arrière gauche maintenant pour moi
+Baissez 6 degrés pour le siège arrière gauche maintenant pour moi
+Veuillez augmenter 6 degrés pour le siège arrière gauche maintenant pour moi
+Veuillez diminuer 6 degrés pour le siège arrière gauche maintenant pour moi
+Veuillez baisser 6 degrés pour le siège arrière gauche maintenant pour moi
+Augmentez 1 degré de la zone conducteur maintenant pour moi
+Diminuez 1 degré de la zone conducteur maintenant pour moi
+Baissez 1 degré de la zone conducteur maintenant pour moi
+Veuillez augmenter 1 degré de la zone conducteur maintenant pour moi
+Veuillez diminuer 1 degré de la zone conducteur maintenant pour moi
+Veuillez baisser 1 degré de la zone conducteur maintenant pour moi
+Augmentez 2 degrés de la zone conducteur maintenant pour moi
+Diminuez 2 degrés de la zone conducteur maintenant pour moi
+Baissez 2 degrés de la zone conducteur maintenant pour moi
+Veuillez augmenter 2 degrés de la zone conducteur maintenant pour moi
+Veuillez diminuer 2 degrés de la zone conducteur maintenant pour moi
+Veuillez baisser 2 degrés de la zone conducteur maintenant pour moi
+Augmentez la température de la zone passagers 1 degré maintenant pour moi
+Diminuez la température de la zone passagers 1 degré maintenant pour moi
+Baissez la température de la zone passagers 1 degré maintenant pour moi
+Veuillez augmenter la température de la zone passagers 1 degré maintenant pour moi
+Veuillez diminuer la température de la zone passagers 1 degré maintenant pour moi
+Veuillez baisser la température de la zone passagers 1 degré maintenant pour moi
+Augmentez la température de la zone passagers 4 degrés maintenant pour moi
+Diminuez la température de la zone passagers 4 degrés maintenant pour moi
+Baissez la température de la zone passagers 4 degrés maintenant pour moi
+Veuillez augmenter la température de la zone passagers 4 degrés maintenant pour moi
+Veuillez diminuer la température de la zone passagers 4 degrés maintenant pour moi
+Veuillez baisser la température de la zone passagers 4 degrés maintenant pour moi
+Augmentez la température du siège arrière à droite de 1 degré maintenant pour moi
+Diminuez la température du siège arrière à droite de 1 degré maintenant pour moi
+Baissez la température du siège arrière à droite de 1 degré maintenant pour moi
+Veuillez augmenter la température du siège arrière à droite de 1 degré maintenant pour moi
+Veuillez diminuer la température du siège arrière à droite de 1 degré maintenant pour moi
+Veuillez baisser la température du siège arrière à droite de 1 degré maintenant pour moi
+Augmentez la température du siège arrière à droite de 6 degrés maintenant pour moi
+Diminuez la température du siège arrière à droite de 6 degrés maintenant pour moi
+Baissez la température du siège arrière à droite de 6 degrés maintenant pour moi
+Veuillez augmenter la température du siège arrière à droite de 6 degrés maintenant pour moi
+Veuillez diminuer la température du siège arrière à droite de 6 degrés maintenant pour moi
+Veuillez baisser la température du siège arrière à droite de 6 degrés maintenant pour moi
+Augmentez la température des sièges passagers 1 degré maintenant pour moi
+Diminuez la température des sièges passagers 1 degré maintenant pour moi
+Baissez la température des sièges passagers 1 degré maintenant pour moi
+Veuillez augmenter la température des sièges passagers 1 degré maintenant pour moi
+Veuillez diminuer la température des sièges passagers 1 degré maintenant pour moi
+Veuillez baisser la température des sièges passagers 1 degré maintenant pour moi
+Augmentez 1 degré pour la zone passagers maintenant pour moi
+Diminuez 1 degré pour la zone passagers maintenant pour moi
+Baissez 1 degré pour la zone passagers maintenant pour moi
+Veuillez augmenter 1 degré pour la zone passagers maintenant pour moi
+Veuillez diminuer 1 degré pour la zone passagers maintenant pour moi
+Veuillez baisser 1 degré pour la zone passagers maintenant pour moi
+Augmentez 4 degrés pour la zone passagers maintenant pour moi
+Diminuez 4 degrés pour la zone passagers maintenant pour moi
+Baissez 4 degrés pour la zone passagers maintenant pour moi
+Veuillez augmenter 4 degrés pour la zone passagers maintenant pour moi
+Veuillez diminuer 4 degrés pour la zone passagers maintenant pour moi
+Veuillez baisser 4 degrés pour la zone passagers maintenant pour moi
+Augmentez la climatisation dans la zone passagers de 1 degré maintenant pour moi
+Diminuez la climatisation dans la zone passagers de 1 degré maintenant pour moi
+Baissez la climatisation dans la zone passagers de 1 degré maintenant pour moi
+Veuillez augmenter la climatisation dans la zone passagers de 1 degré maintenant pour moi
+Veuillez diminuer la climatisation dans la zone passagers de 1 degré maintenant pour moi
+Veuillez baisser la climatisation dans la zone passagers de 1 degré maintenant pour moi
+Augmentez la climatisation dans la zone passagers de 6 degrés maintenant pour moi
+Diminuez la climatisation dans la zone passagers de 6 degrés maintenant pour moi
+Baissez la climatisation dans la zone passagers de 6 degrés maintenant pour moi
+Veuillez augmenter la climatisation dans la zone passagers de 6 degrés maintenant pour moi
+Veuillez diminuer la climatisation dans la zone passagers de 6 degrés maintenant pour moi
+Veuillez baisser la climatisation dans la zone passagers de 6 degrés maintenant pour moi
+Augmentez 1 degré de la zone passagers maintenant pour moi
+Diminuez 1 degré de la zone passagers maintenant pour moi
+Baissez 1 degré de la zone passagers maintenant pour moi
+Veuillez augmenter 1 degré de la zone passagers maintenant pour moi
+Veuillez diminuer 1 degré de la zone passagers maintenant pour moi
+Veuillez baisser 1 degré de la zone passagers maintenant pour moi
+Augmentez 2 degrés de la zone passagers maintenant pour moi
+Diminuez 2 degrés de la zone passagers maintenant pour moi
+Baissez 2 degrés de la zone passagers maintenant pour moi
+Veuillez augmenter 2 degrés de la zone passagers maintenant pour moi
+Veuillez diminuer 2 degrés de la zone passagers maintenant pour moi
+Veuillez baisser 2 degrés de la zone passagers maintenant pour moi
+Augmentez 3 degrés pour le siège arrière à droite maintenant pour moi
+Diminuez 3 degrés pour le siège arrière à droite maintenant pour moi
+Baissez 3 degrés pour le siège arrière à droite maintenant pour moi
+Veuillez augmenter 3 degrés pour le siège arrière à droite maintenant pour moi
+Veuillez diminuer 3 degrés pour le siège arrière à droite maintenant pour moi
+Veuillez baisser 3 degrés pour le siège arrière à droite maintenant pour moi
+Augmentez 4 degrés pour le siège arrière à droite maintenant pour moi
+Diminuez 4 degrés pour le siège arrière à droite maintenant pour moi
+Baissez 4 degrés pour le siège arrière à droite maintenant pour moi
+Veuillez augmenter 4 degrés pour le siège arrière à droite maintenant pour moi
+Veuillez diminuer 4 degrés pour le siège arrière à droite maintenant pour moi
+Veuillez baisser 4 degrés pour le siège arrière à droite maintenant pour moi
+Augmentez 5 degrés pour les sièges passagers maintenant pour moi
+Diminuez 5 degrés pour les sièges passagers maintenant pour moi
+Baissez 5 degrés pour les sièges passagers maintenant pour moi
+Veuillez augmenter 5 degrés pour les sièges passagers maintenant pour moi
+Veuillez diminuer 5 degrés pour les sièges passagers maintenant pour moi
+Veuillez baisser 5 degrés pour les sièges passagers maintenant pour moi
+Augmentez 1 degré pour les sièges passagers maintenant pour moi
+Diminuez 1 degré pour les sièges passagers maintenant pour moi
+Baissez 1 degré pour les sièges passagers maintenant pour moi
+Veuillez augmenter 1 degré pour les sièges passagers maintenant pour moi
+Veuillez diminuer 1 degré pour les sièges passagers maintenant pour moi
+Veuillez baisser 1 degré pour les sièges passagers maintenant pour moi
+Augmentez la température de la zone conducteur 1 degré tout de suite pour moi
+Diminuez la température de la zone conducteur 1 degré tout de suite pour moi
+Baissez la température de la zone conducteur 1 degré tout de suite pour moi
+Veuillez augmenter la température de la zone conducteur 1 degré tout de suite pour moi
+Veuillez diminuer la température de la zone conducteur 1 degré tout de suite pour moi
+Veuillez baisser la température de la zone conducteur 1 degré tout de suite pour moi
+Augmentez la température de la zone conducteur 2 degrés tout de suite pour moi
+Diminuez la température de la zone conducteur 2 degrés tout de suite pour moi
+Baissez la température de la zone conducteur 2 degrés tout de suite pour moi
+Veuillez augmenter la température de la zone conducteur 2 degrés tout de suite pour moi
+Veuillez diminuer la température de la zone conducteur 2 degrés tout de suite pour moi
+Veuillez baisser la température de la zone conducteur 2 degrés tout de suite pour moi
+Augmentez 1 degré pour la zone conducteur tout de suite pour moi
+Diminuez 1 degré pour la zone conducteur tout de suite pour moi
+Baissez 1 degré pour la zone conducteur tout de suite pour moi
+Veuillez augmenter 1 degré pour la zone conducteur tout de suite pour moi
+Veuillez diminuer 1 degré pour la zone conducteur tout de suite pour moi
+Veuillez baisser 1 degré pour la zone conducteur tout de suite pour moi
+Augmentez 4 degrés pour la zone conducteur tout de suite pour moi
+Diminuez 4 degrés pour la zone conducteur tout de suite pour moi
+Baissez 4 degrés pour la zone conducteur tout de suite pour moi
+Veuillez augmenter 4 degrés pour la zone conducteur tout de suite pour moi
+Veuillez diminuer 4 degrés pour la zone conducteur tout de suite pour moi
+Veuillez baisser 4 degrés pour la zone conducteur tout de suite pour moi
+Augmentez la climatisation dans la zone conducteur de 1 degré tout de suite pour moi
+Diminuez la climatisation dans la zone conducteur de 1 degré tout de suite pour moi
+Baissez la climatisation dans la zone conducteur de 1 degré tout de suite pour moi
+Veuillez augmenter la climatisation dans la zone conducteur de 1 degré tout de suite pour moi
+Veuillez diminuer la climatisation dans la zone conducteur de 1 degré tout de suite pour moi
+Veuillez baisser la climatisation dans la zone conducteur de 1 degré tout de suite pour moi
+Augmentez la climatisation dans la zone conducteur de 2 degrés tout de suite pour moi
+Diminuez la climatisation dans la zone conducteur de 2 degrés tout de suite pour moi
+Baissez la climatisation dans la zone conducteur de 2 degrés tout de suite pour moi
+Veuillez augmenter la climatisation dans la zone conducteur de 2 degrés tout de suite pour moi
+Veuillez diminuer la climatisation dans la zone conducteur de 2 degrés tout de suite pour moi
+Veuillez baisser la climatisation dans la zone conducteur de 2 degrés tout de suite pour moi
+Augmentez 5 degrés pour le siège arrière gauche tout de suite pour moi
+Diminuez 5 degrés pour le siège arrière gauche tout de suite pour moi
+Baissez 5 degrés pour le siège arrière gauche tout de suite pour moi
+Veuillez augmenter 5 degrés pour le siège arrière gauche tout de suite pour moi
+Veuillez diminuer 5 degrés pour le siège arrière gauche tout de suite pour moi
+Veuillez baisser 5 degrés pour le siège arrière gauche tout de suite pour moi
+Augmentez 6 degrés pour le siège arrière gauche tout de suite pour moi
+Diminuez 6 degrés pour le siège arrière gauche tout de suite pour moi
+Baissez 6 degrés pour le siège arrière gauche tout de suite pour moi
+Veuillez augmenter 6 degrés pour le siège arrière gauche tout de suite pour moi
+Veuillez diminuer 6 degrés pour le siège arrière gauche tout de suite pour moi
+Veuillez baisser 6 degrés pour le siège arrière gauche tout de suite pour moi
+Augmentez 1 degré de la zone conducteur tout de suite pour moi
+Diminuez 1 degré de la zone conducteur tout de suite pour moi
+Baissez 1 degré de la zone conducteur tout de suite pour moi
+Veuillez augmenter 1 degré de la zone conducteur tout de suite pour moi
+Veuillez diminuer 1 degré de la zone conducteur tout de suite pour moi
+Veuillez baisser 1 degré de la zone conducteur tout de suite pour moi
+Augmentez 2 degrés de la zone conducteur tout de suite pour moi
+Diminuez 2 degrés de la zone conducteur tout de suite pour moi
+Baissez 2 degrés de la zone conducteur tout de suite pour moi
+Veuillez augmenter 2 degrés de la zone conducteur tout de suite pour moi
+Veuillez diminuer 2 degrés de la zone conducteur tout de suite pour moi
+Veuillez baisser 2 degrés de la zone conducteur tout de suite pour moi
+Augmentez la température de la zone passagers 1 degré tout de suite pour moi
+Diminuez la température de la zone passagers 1 degré tout de suite pour moi
+Baissez la température de la zone passagers 1 degré tout de suite pour moi
+Veuillez augmenter la température de la zone passagers 1 degré tout de suite pour moi
+Veuillez diminuer la température de la zone passagers 1 degré tout de suite pour moi
+Veuillez baisser la température de la zone passagers 1 degré tout de suite pour moi
+Augmentez la température de la zone passagers 4 degrés tout de suite pour moi
+Diminuez la température de la zone passagers 4 degrés tout de suite pour moi
+Baissez la température de la zone passagers 4 degrés tout de suite pour moi
+Veuillez augmenter la température de la zone passagers 4 degrés tout de suite pour moi
+Veuillez diminuer la température de la zone passagers 4 degrés tout de suite pour moi
+Veuillez baisser la température de la zone passagers 4 degrés tout de suite pour moi
+Augmentez la température du siège arrière à droite de 1 degré tout de suite pour moi
+Diminuez la température du siège arrière à droite de 1 degré tout de suite pour moi
+Baissez la température du siège arrière à droite de 1 degré tout de suite pour moi
+Veuillez augmenter la température du siège arrière à droite de 1 degré tout de suite pour moi
+Veuillez diminuer la température du siège arrière à droite de 1 degré tout de suite pour moi
+Veuillez baisser la température du siège arrière à droite de 1 degré tout de suite pour moi
+Augmentez la température du siège arrière à droite de 6 degrés tout de suite pour moi
+Diminuez la température du siège arrière à droite de 6 degrés tout de suite pour moi
+Baissez la température du siège arrière à droite de 6 degrés tout de suite pour moi
+Veuillez augmenter la température du siège arrière à droite de 6 degrés tout de suite pour moi
+Veuillez diminuer la température du siège arrière à droite de 6 degrés tout de suite pour moi
+Veuillez baisser la température du siège arrière à droite de 6 degrés tout de suite pour moi
+Augmentez la température des sièges passagers 1 degré tout de suite pour moi
+Diminuez la température des sièges passagers 1 degré tout de suite pour moi
+Baissez la température des sièges passagers 1 degré tout de suite pour moi
+Veuillez augmenter la température des sièges passagers 1 degré tout de suite pour moi
+Veuillez diminuer la température des sièges passagers 1 degré tout de suite pour moi
+Veuillez baisser la température des sièges passagers 1 degré tout de suite pour moi
+Augmentez 1 degré pour la zone passagers tout de suite pour moi
+Diminuez 1 degré pour la zone passagers tout de suite pour moi
+Baissez 1 degré pour la zone passagers tout de suite pour moi
+Veuillez augmenter 1 degré pour la zone passagers tout de suite pour moi
+Veuillez diminuer 1 degré pour la zone passagers tout de suite pour moi
+Veuillez baisser 1 degré pour la zone passagers tout de suite pour moi
+Augmentez 4 degrés pour la zone passagers tout de suite pour moi
+Diminuez 4 degrés pour la zone passagers tout de suite pour moi
+Baissez 4 degrés pour la zone passagers tout de suite pour moi
+Veuillez augmenter 4 degrés pour la zone passagers tout de suite pour moi
+Veuillez diminuer 4 degrés pour la zone passagers tout de suite pour moi
+Veuillez baisser 4 degrés pour la zone passagers tout de suite pour moi
+Augmentez la climatisation dans la zone passagers de 1 degré tout de suite pour moi
+Diminuez la climatisation dans la zone passagers de 1 degré tout de suite pour moi
+Baissez la climatisation dans la zone passagers de 1 degré tout de suite pour moi
+Veuillez augmenter la climatisation dans la zone passagers de 1 degré tout de suite pour moi
+Veuillez diminuer la climatisation dans la zone passagers de 1 degré tout de suite pour moi
+Veuillez baisser la climatisation dans la zone passagers de 1 degré tout de suite pour moi
+Augmentez la climatisation dans la zone passagers de 6 degrés tout de suite pour moi
+Diminuez la climatisation dans la zone passagers de 6 degrés tout de suite pour moi
+Baissez la climatisation dans la zone passagers de 6 degrés tout de suite pour moi
+Veuillez augmenter la climatisation dans la zone passagers de 6 degrés tout de suite pour moi
+Veuillez diminuer la climatisation dans la zone passagers de 6 degrés tout de suite pour moi
+Veuillez baisser la climatisation dans la zone passagers de 6 degrés tout de suite pour moi
+Augmentez 1 degré de la zone passagers tout de suite pour moi
+Diminuez 1 degré de la zone passagers tout de suite pour moi
+Baissez 1 degré de la zone passagers tout de suite pour moi
+Veuillez augmenter 1 degré de la zone passagers tout de suite pour moi
+Veuillez diminuer 1 degré de la zone passagers tout de suite pour moi
+Veuillez baisser 1 degré de la zone passagers tout de suite pour moi
+Augmentez 2 degrés de la zone passagers tout de suite pour moi
+Diminuez 2 degrés de la zone passagers tout de suite pour moi
+Baissez 2 degrés de la zone passagers tout de suite pour moi
+Veuillez augmenter 2 degrés de la zone passagers tout de suite pour moi
+Veuillez diminuer 2 degrés de la zone passagers tout de suite pour moi
+Veuillez baisser 2 degrés de la zone passagers tout de suite pour moi
+Augmentez 3 degrés pour le siège arrière à droite tout de suite pour moi
+Diminuez 3 degrés pour le siège arrière à droite tout de suite pour moi
+Baissez 3 degrés pour le siège arrière à droite tout de suite pour moi
+Veuillez augmenter 3 degrés pour le siège arrière à droite tout de suite pour moi
+Veuillez diminuer 3 degrés pour le siège arrière à droite tout de suite pour moi
+Veuillez baisser 3 degrés pour le siège arrière à droite tout de suite pour moi
+Augmentez 4 degrés pour le siège arrière à droite tout de suite pour moi
+Diminuez 4 degrés pour le siège arrière à droite tout de suite pour moi
+Baissez 4 degrés pour le siège arrière à droite tout de suite pour moi
+Veuillez augmenter 4 degrés pour le siège arrière à droite tout de suite pour moi
+Veuillez diminuer 4 degrés pour le siège arrière à droite tout de suite pour moi
+Veuillez baisser 4 degrés pour le siège arrière à droite tout de suite pour moi
+Augmentez 5 degrés pour les sièges passagers tout de suite pour moi
+Diminuez 5 degrés pour les sièges passagers tout de suite pour moi
+Baissez 5 degrés pour les sièges passagers tout de suite pour moi
+Veuillez augmenter 5 degrés pour les sièges passagers tout de suite pour moi
+Veuillez diminuer 5 degrés pour les sièges passagers tout de suite pour moi
+Veuillez baisser 5 degrés pour les sièges passagers tout de suite pour moi
+Augmentez 1 degré pour les sièges passagers tout de suite pour moi
+Diminuez 1 degré pour les sièges passagers tout de suite pour moi
+Baissez 1 degré pour les sièges passagers tout de suite pour moi
+Veuillez augmenter 1 degré pour les sièges passagers tout de suite pour moi
+Veuillez diminuer 1 degré pour les sièges passagers tout de suite pour moi
+Veuillez baisser 1 degré pour les sièges passagers tout de suite pour moi
+Augmentez la température de la zone conducteur 1 degré immédiatement pour moi
+Diminuez la température de la zone conducteur 1 degré immédiatement pour moi
+Baissez la température de la zone conducteur 1 degré immédiatement pour moi
+Veuillez augmenter la température de la zone conducteur 1 degré immédiatement pour moi
+Veuillez diminuer la température de la zone conducteur 1 degré immédiatement pour moi
+Veuillez baisser la température de la zone conducteur 1 degré immédiatement pour moi
+Augmentez la température de la zone conducteur 2 degrés immédiatement pour moi
+Diminuez la température de la zone conducteur 2 degrés immédiatement pour moi
+Baissez la température de la zone conducteur 2 degrés immédiatement pour moi
+Veuillez augmenter la température de la zone conducteur 2 degrés immédiatement pour moi
+Veuillez diminuer la température de la zone conducteur 2 degrés immédiatement pour moi
+Veuillez baisser la température de la zone conducteur 2 degrés immédiatement pour moi
+Augmentez 1 degré pour la zone conducteur immédiatement pour moi
+Diminuez 1 degré pour la zone conducteur immédiatement pour moi
+Baissez 1 degré pour la zone conducteur immédiatement pour moi
+Veuillez augmenter 1 degré pour la zone conducteur immédiatement pour moi
+Veuillez diminuer 1 degré pour la zone conducteur immédiatement pour moi
+Veuillez baisser 1 degré pour la zone conducteur immédiatement pour moi
+Augmentez 4 degrés pour la zone conducteur immédiatement pour moi
+Diminuez 4 degrés pour la zone conducteur immédiatement pour moi
+Baissez 4 degrés pour la zone conducteur immédiatement pour moi
+Veuillez augmenter 4 degrés pour la zone conducteur immédiatement pour moi
+Veuillez diminuer 4 degrés pour la zone conducteur immédiatement pour moi
+Veuillez baisser 4 degrés pour la zone conducteur immédiatement pour moi
+Augmentez la climatisation dans la zone conducteur de 1 degré immédiatement pour moi
+Diminuez la climatisation dans la zone conducteur de 1 degré immédiatement pour moi
+Baissez la climatisation dans la zone conducteur de 1 degré immédiatement pour moi
+Veuillez augmenter la climatisation dans la zone conducteur de 1 degré immédiatement pour moi
+Veuillez diminuer la climatisation dans la zone conducteur de 1 degré immédiatement pour moi
+Veuillez baisser la climatisation dans la zone conducteur de 1 degré immédiatement pour moi
+Augmentez la climatisation dans la zone conducteur de 2 degrés immédiatement pour moi
+Diminuez la climatisation dans la zone conducteur de 2 degrés immédiatement pour moi
+Baissez la climatisation dans la zone conducteur de 2 degrés immédiatement pour moi
+Veuillez augmenter la climatisation dans la zone conducteur de 2 degrés immédiatement pour moi
+Veuillez diminuer la climatisation dans la zone conducteur de 2 degrés immédiatement pour moi
+Veuillez baisser la climatisation dans la zone conducteur de 2 degrés immédiatement pour moi
+Augmentez 5 degrés pour le siège arrière gauche immédiatement pour moi
+Diminuez 5 degrés pour le siège arrière gauche immédiatement pour moi
+Baissez 5 degrés pour le siège arrière gauche immédiatement pour moi
+Veuillez augmenter 5 degrés pour le siège arrière gauche immédiatement pour moi
+Veuillez diminuer 5 degrés pour le siège arrière gauche immédiatement pour moi
+Veuillez baisser 5 degrés pour le siège arrière gauche immédiatement pour moi
+Augmentez 6 degrés pour le siège arrière gauche immédiatement pour moi
+Diminuez 6 degrés pour le siège arrière gauche immédiatement pour moi
+Baissez 6 degrés pour le siège arrière gauche immédiatement pour moi
+Veuillez augmenter 6 degrés pour le siège arrière gauche immédiatement pour moi
+Veuillez diminuer 6 degrés pour le siège arrière gauche immédiatement pour moi
+Veuillez baisser 6 degrés pour le siège arrière gauche immédiatement pour moi
+Augmentez 1 degré de la zone conducteur immédiatement pour moi
+Diminuez 1 degré de la zone conducteur immédiatement pour moi
+Baissez 1 degré de la zone conducteur immédiatement pour moi
+Veuillez augmenter 1 degré de la zone conducteur immédiatement pour moi
+Veuillez diminuer 1 degré de la zone conducteur immédiatement pour moi
+Veuillez baisser 1 degré de la zone conducteur immédiatement pour moi
+Augmentez 2 degrés de la zone conducteur immédiatement pour moi
+Diminuez 2 degrés de la zone conducteur immédiatement pour moi
+Baissez 2 degrés de la zone conducteur immédiatement pour moi
+Veuillez augmenter 2 degrés de la zone conducteur immédiatement pour moi
+Veuillez diminuer 2 degrés de la zone conducteur immédiatement pour moi
+Veuillez baisser 2 degrés de la zone conducteur immédiatement pour moi
+Augmentez la température de la zone passagers 1 degré immédiatement pour moi
+Diminuez la température de la zone passagers 1 degré immédiatement pour moi
+Baissez la température de la zone passagers 1 degré immédiatement pour moi
+Veuillez augmenter la température de la zone passagers 1 degré immédiatement pour moi
+Veuillez diminuer la température de la zone passagers 1 degré immédiatement pour moi
+Veuillez baisser la température de la zone passagers 1 degré immédiatement pour moi
+Augmentez la température de la zone passagers 4 degrés immédiatement pour moi
+Diminuez la température de la zone passagers 4 degrés immédiatement pour moi
+Baissez la température de la zone passagers 4 degrés immédiatement pour moi
+Veuillez augmenter la température de la zone passagers 4 degrés immédiatement pour moi
+Veuillez diminuer la température de la zone passagers 4 degrés immédiatement pour moi
+Veuillez baisser la température de la zone passagers 4 degrés immédiatement pour moi
+Augmentez la température du siège arrière à droite de 1 degré immédiatement pour moi
+Diminuez la température du siège arrière à droite de 1 degré immédiatement pour moi
+Baissez la température du siège arrière à droite de 1 degré immédiatement pour moi
+Veuillez augmenter la température du siège arrière à droite de 1 degré immédiatement pour moi
+Veuillez diminuer la température du siège arrière à droite de 1 degré immédiatement pour moi
+Veuillez baisser la température du siège arrière à droite de 1 degré immédiatement pour moi
+Augmentez la température du siège arrière à droite de 6 degrés immédiatement pour moi
+Diminuez la température du siège arrière à droite de 6 degrés immédiatement pour moi
+Baissez la température du siège arrière à droite de 6 degrés immédiatement pour moi
+Veuillez augmenter la température du siège arrière à droite de 6 degrés immédiatement pour moi
+Veuillez diminuer la température du siège arrière à droite de 6 degrés immédiatement pour moi
+Veuillez baisser la température du siège arrière à droite de 6 degrés immédiatement pour moi
+Augmentez la température des sièges passagers 1 degré immédiatement pour moi
+Diminuez la température des sièges passagers 1 degré immédiatement pour moi
+Baissez la température des sièges passagers 1 degré immédiatement pour moi
+Veuillez augmenter la température des sièges passagers 1 degré immédiatement pour moi
+Veuillez diminuer la température des sièges passagers 1 degré immédiatement pour moi
+Veuillez baisser la température des sièges passagers 1 degré immédiatement pour moi
+Augmentez 1 degré pour la zone passagers immédiatement pour moi
+Diminuez 1 degré pour la zone passagers immédiatement pour moi
+Baissez 1 degré pour la zone passagers immédiatement pour moi
+Veuillez augmenter 1 degré pour la zone passagers immédiatement pour moi
+Veuillez diminuer 1 degré pour la zone passagers immédiatement pour moi
+Veuillez baisser 1 degré pour la zone passagers immédiatement pour moi
+Augmentez 4 degrés pour la zone passagers immédiatement pour moi
+Diminuez 4 degrés pour la zone passagers immédiatement pour moi
+Baissez 4 degrés pour la zone passagers immédiatement pour moi
+Veuillez augmenter 4 degrés pour la zone passagers immédiatement pour moi
+Veuillez diminuer 4 degrés pour la zone passagers immédiatement pour moi
+Veuillez baisser 4 degrés pour la zone passagers immédiatement pour moi
+Augmentez la climatisation dans la zone passagers de 1 degré immédiatement pour moi
+Diminuez la climatisation dans la zone passagers de 1 degré immédiatement pour moi
+Baissez la climatisation dans la zone passagers de 1 degré immédiatement pour moi
+Veuillez augmenter la climatisation dans la zone passagers de 1 degré immédiatement pour moi
+Veuillez diminuer la climatisation dans la zone passagers de 1 degré immédiatement pour moi
+Veuillez baisser la climatisation dans la zone passagers de 1 degré immédiatement pour moi
+Augmentez la climatisation dans la zone passagers de 6 degrés immédiatement pour moi
+Diminuez la climatisation dans la zone passagers de 6 degrés immédiatement pour moi
+Baissez la climatisation dans la zone passagers de 6 degrés immédiatement pour moi
+Veuillez augmenter la climatisation dans la zone passagers de 6 degrés immédiatement pour moi
+Veuillez diminuer la climatisation dans la zone passagers de 6 degrés immédiatement pour moi
+Veuillez baisser la climatisation dans la zone passagers de 6 degrés immédiatement pour moi
+Augmentez 1 degré de la zone passagers immédiatement pour moi
+Diminuez 1 degré de la zone passagers immédiatement pour moi
+Baissez 1 degré de la zone passagers immédiatement pour moi
+Veuillez augmenter 1 degré de la zone passagers immédiatement pour moi
+Veuillez diminuer 1 degré de la zone passagers immédiatement pour moi
+Veuillez baisser 1 degré de la zone passagers immédiatement pour moi
+Augmentez 2 degrés de la zone passagers immédiatement pour moi
+Diminuez 2 degrés de la zone passagers immédiatement pour moi
+Baissez 2 degrés de la zone passagers immédiatement pour moi
+Veuillez augmenter 2 degrés de la zone passagers immédiatement pour moi
+Veuillez diminuer 2 degrés de la zone passagers immédiatement pour moi
+Veuillez baisser 2 degrés de la zone passagers immédiatement pour moi
+Augmentez 3 degrés pour le siège arrière à droite immédiatement pour moi
+Diminuez 3 degrés pour le siège arrière à droite immédiatement pour moi
+Baissez 3 degrés pour le siège arrière à droite immédiatement pour moi
+Veuillez augmenter 3 degrés pour le siège arrière à droite immédiatement pour moi
+Veuillez diminuer 3 degrés pour le siège arrière à droite immédiatement pour moi
+Veuillez baisser 3 degrés pour le siège arrière à droite immédiatement pour moi
+Augmentez 4 degrés pour le siège arrière à droite immédiatement pour moi
+Diminuez 4 degrés pour le siège arrière à droite immédiatement pour moi
+Baissez 4 degrés pour le siège arrière à droite immédiatement pour moi
+Veuillez augmenter 4 degrés pour le siège arrière à droite immédiatement pour moi
+Veuillez diminuer 4 degrés pour le siège arrière à droite immédiatement pour moi
+Veuillez baisser 4 degrés pour le siège arrière à droite immédiatement pour moi
+Augmentez 5 degrés pour les sièges passagers immédiatement pour moi
+Diminuez 5 degrés pour les sièges passagers immédiatement pour moi
+Baissez 5 degrés pour les sièges passagers immédiatement pour moi
+Veuillez augmenter 5 degrés pour les sièges passagers immédiatement pour moi
+Veuillez diminuer 5 degrés pour les sièges passagers immédiatement pour moi
+Veuillez baisser 5 degrés pour les sièges passagers immédiatement pour moi
+Augmentez 1 degré pour les sièges passagers immédiatement pour moi
+Diminuez 1 degré pour les sièges passagers immédiatement pour moi
+Baissez 1 degré pour les sièges passagers immédiatement pour moi
+Veuillez augmenter 1 degré pour les sièges passagers immédiatement pour moi
+Veuillez diminuer 1 degré pour les sièges passagers immédiatement pour moi
+Veuillez baisser 1 degré pour les sièges passagers immédiatement pour moi
+Augmentez la température de la zone conducteur 1 degré s'il vous plaît
+Diminuez la température de la zone conducteur 1 degré s'il vous plaît
+Baissez la température de la zone conducteur 1 degré s'il vous plaît
+Veuillez augmenter la température de la zone conducteur 1 degré s'il vous plaît
+Veuillez diminuer la température de la zone conducteur 1 degré s'il vous plaît
+Veuillez baisser la température de la zone conducteur 1 degré s'il vous plaît
+Augmentez la température de la zone conducteur 2 degrés s'il vous plaît
+Diminuez la température de la zone conducteur 2 degrés s'il vous plaît
+Baissez la température de la zone conducteur 2 degrés s'il vous plaît
+Veuillez augmenter la température de la zone conducteur 2 degrés s'il vous plaît
+Veuillez diminuer la température de la zone conducteur 2 degrés s'il vous plaît
+Veuillez baisser la température de la zone conducteur 2 degrés s'il vous plaît
+Augmentez 1 degré pour la zone conducteur s'il vous plaît
+Diminuez 1 degré pour la zone conducteur s'il vous plaît
+Baissez 1 degré pour la zone conducteur s'il vous plaît
+Veuillez augmenter 1 degré pour la zone conducteur s'il vous plaît
+Veuillez diminuer 1 degré pour la zone conducteur s'il vous plaît
+Veuillez baisser 1 degré pour la zone conducteur s'il vous plaît
+Augmentez 4 degrés pour la zone conducteur s'il vous plaît
+Diminuez 4 degrés pour la zone conducteur s'il vous plaît
+Baissez 4 degrés pour la zone conducteur s'il vous plaît
+Veuillez augmenter 4 degrés pour la zone conducteur s'il vous plaît
+Veuillez diminuer 4 degrés pour la zone conducteur s'il vous plaît
+Veuillez baisser 4 degrés pour la zone conducteur s'il vous plaît
+Augmentez la climatisation dans la zone conducteur de 1 degré s'il vous plaît
+Diminuez la climatisation dans la zone conducteur de 1 degré s'il vous plaît
+Baissez la climatisation dans la zone conducteur de 1 degré s'il vous plaît
+Veuillez augmenter la climatisation dans la zone conducteur de 1 degré s'il vous plaît
+Veuillez diminuer la climatisation dans la zone conducteur de 1 degré s'il vous plaît
+Veuillez baisser la climatisation dans la zone conducteur de 1 degré s'il vous plaît
+Augmentez la climatisation dans la zone conducteur de 2 degrés s'il vous plaît
+Diminuez la climatisation dans la zone conducteur de 2 degrés s'il vous plaît
+Baissez la climatisation dans la zone conducteur de 2 degrés s'il vous plaît
+Veuillez augmenter la climatisation dans la zone conducteur de 2 degrés s'il vous plaît
+Veuillez diminuer la climatisation dans la zone conducteur de 2 degrés s'il vous plaît
+Veuillez baisser la climatisation dans la zone conducteur de 2 degrés s'il vous plaît
+Augmentez 5 degrés pour le siège arrière gauche s'il vous plaît
+Diminuez 5 degrés pour le siège arrière gauche s'il vous plaît
+Baissez 5 degrés pour le siège arrière gauche s'il vous plaît
+Veuillez augmenter 5 degrés pour le siège arrière gauche s'il vous plaît
+Veuillez diminuer 5 degrés pour le siège arrière gauche s'il vous plaît
+Veuillez baisser 5 degrés pour le siège arrière gauche s'il vous plaît
+Augmentez 6 degrés pour le siège arrière gauche s'il vous plaît
+Diminuez 6 degrés pour le siège arrière gauche s'il vous plaît
+Baissez 6 degrés pour le siège arrière gauche s'il vous plaît
+Veuillez augmenter 6 degrés pour le siège arrière gauche s'il vous plaît
+Veuillez diminuer 6 degrés pour le siège arrière gauche s'il vous plaît
+Veuillez baisser 6 degrés pour le siège arrière gauche s'il vous plaît
+Augmentez 1 degré de la zone conducteur s'il vous plaît
+Diminuez 1 degré de la zone conducteur s'il vous plaît
+Baissez 1 degré de la zone conducteur s'il vous plaît
+Veuillez augmenter 1 degré de la zone conducteur s'il vous plaît
+Veuillez diminuer 1 degré de la zone conducteur s'il vous plaît
+Veuillez baisser 1 degré de la zone conducteur s'il vous plaît
+Augmentez 2 degrés de la zone conducteur s'il vous plaît
+Diminuez 2 degrés de la zone conducteur s'il vous plaît
+Baissez 2 degrés de la zone conducteur s'il vous plaît
+Veuillez augmenter 2 degrés de la zone conducteur s'il vous plaît
+Veuillez diminuer 2 degrés de la zone conducteur s'il vous plaît
+Veuillez baisser 2 degrés de la zone conducteur s'il vous plaît
+Augmentez la température de la zone passagers 1 degré s'il vous plaît
+Diminuez la température de la zone passagers 1 degré s'il vous plaît
+Baissez la température de la zone passagers 1 degré s'il vous plaît
+Veuillez augmenter la température de la zone passagers 1 degré s'il vous plaît
+Veuillez diminuer la température de la zone passagers 1 degré s'il vous plaît
+Veuillez baisser la température de la zone passagers 1 degré s'il vous plaît
+Augmentez la température de la zone passagers 4 degrés s'il vous plaît
+Diminuez la température de la zone passagers 4 degrés s'il vous plaît
+Baissez la température de la zone passagers 4 degrés s'il vous plaît
+Veuillez augmenter la température de la zone passagers 4 degrés s'il vous plaît
+Veuillez diminuer la température de la zone passagers 4 degrés s'il vous plaît
+Veuillez baisser la température de la zone passagers 4 degrés s'il vous plaît
+Augmentez la température du siège arrière à droite de 1 degré s'il vous plaît
+Diminuez la température du siège arrière à droite de 1 degré s'il vous plaît
+Baissez la température du siège arrière à droite de 1 degré s'il vous plaît
+Veuillez augmenter la température du siège arrière à droite de 1 degré s'il vous plaît
+Veuillez diminuer la température du siège arrière à droite de 1 degré s'il vous plaît
+Veuillez baisser la température du siège arrière à droite de 1 degré s'il vous plaît
+Augmentez la température du siège arrière à droite de 6 degrés s'il vous plaît
+Diminuez la température du siège arrière à droite de 6 degrés s'il vous plaît
+Baissez la température du siège arrière à droite de 6 degrés s'il vous plaît
+Veuillez augmenter la température du siège arrière à droite de 6 degrés s'il vous plaît
+Veuillez diminuer la température du siège arrière à droite de 6 degrés s'il vous plaît
+Veuillez baisser la température du siège arrière à droite de 6 degrés s'il vous plaît
+Augmentez la température des sièges passagers 1 degré s'il vous plaît
+Diminuez la température des sièges passagers 1 degré s'il vous plaît
+Baissez la température des sièges passagers 1 degré s'il vous plaît
+Veuillez augmenter la température des sièges passagers 1 degré s'il vous plaît
+Veuillez diminuer la température des sièges passagers 1 degré s'il vous plaît
+Veuillez baisser la température des sièges passagers 1 degré s'il vous plaît
+Augmentez 1 degré pour la zone passagers s'il vous plaît
+Diminuez 1 degré pour la zone passagers s'il vous plaît
+Baissez 1 degré pour la zone passagers s'il vous plaît
+Veuillez augmenter 1 degré pour la zone passagers s'il vous plaît
+Veuillez diminuer 1 degré pour la zone passagers s'il vous plaît
+Veuillez baisser 1 degré pour la zone passagers s'il vous plaît
+Augmentez 4 degrés pour la zone passagers s'il vous plaît
+Diminuez 4 degrés pour la zone passagers s'il vous plaît
+Baissez 4 degrés pour la zone passagers s'il vous plaît
+Veuillez augmenter 4 degrés pour la zone passagers s'il vous plaît
+Veuillez diminuer 4 degrés pour la zone passagers s'il vous plaît
+Veuillez baisser 4 degrés pour la zone passagers s'il vous plaît
+Augmentez la climatisation dans la zone passagers de 1 degré s'il vous plaît
+Diminuez la climatisation dans la zone passagers de 1 degré s'il vous plaît
+Baissez la climatisation dans la zone passagers de 1 degré s'il vous plaît
+Veuillez augmenter la climatisation dans la zone passagers de 1 degré s'il vous plaît
+Veuillez diminuer la climatisation dans la zone passagers de 1 degré s'il vous plaît
+Veuillez baisser la climatisation dans la zone passagers de 1 degré s'il vous plaît
+Augmentez la climatisation dans la zone passagers de 6 degrés s'il vous plaît
+Diminuez la climatisation dans la zone passagers de 6 degrés s'il vous plaît
+Baissez la climatisation dans la zone passagers de 6 degrés s'il vous plaît
+Veuillez augmenter la climatisation dans la zone passagers de 6 degrés s'il vous plaît
+Veuillez diminuer la climatisation dans la zone passagers de 6 degrés s'il vous plaît
+Veuillez baisser la climatisation dans la zone passagers de 6 degrés s'il vous plaît
+Augmentez 1 degré de la zone passagers s'il vous plaît
+Diminuez 1 degré de la zone passagers s'il vous plaît
+Baissez 1 degré de la zone passagers s'il vous plaît
+Veuillez augmenter 1 degré de la zone passagers s'il vous plaît
+Veuillez diminuer 1 degré de la zone passagers s'il vous plaît
+Veuillez baisser 1 degré de la zone passagers s'il vous plaît
+Augmentez 2 degrés de la zone passagers s'il vous plaît
+Diminuez 2 degrés de la zone passagers s'il vous plaît
+Baissez 2 degrés de la zone passagers s'il vous plaît
+Veuillez augmenter 2 degrés de la zone passagers s'il vous plaît
+Veuillez diminuer 2 degrés de la zone passagers s'il vous plaît
+Veuillez baisser 2 degrés de la zone passagers s'il vous plaît
+Augmentez 3 degrés pour le siège arrière à droite s'il vous plaît
+Diminuez 3 degrés pour le siège arrière à droite s'il vous plaît
+Baissez 3 degrés pour le siège arrière à droite s'il vous plaît
+Veuillez augmenter 3 degrés pour le siège arrière à droite s'il vous plaît
+Veuillez diminuer 3 degrés pour le siège arrière à droite s'il vous plaît
+Veuillez baisser 3 degrés pour le siège arrière à droite s'il vous plaît
+Augmentez 4 degrés pour le siège arrière à droite s'il vous plaît
+Diminuez 4 degrés pour le siège arrière à droite s'il vous plaît
+Baissez 4 degrés pour le siège arrière à droite s'il vous plaît
+Veuillez augmenter 4 degrés pour le siège arrière à droite s'il vous plaît
+Veuillez diminuer 4 degrés pour le siège arrière à droite s'il vous plaît
+Veuillez baisser 4 degrés pour le siège arrière à droite s'il vous plaît
+Augmentez 5 degrés pour les sièges passagers s'il vous plaît
+Diminuez 5 degrés pour les sièges passagers s'il vous plaît
+Baissez 5 degrés pour les sièges passagers s'il vous plaît
+Veuillez augmenter 5 degrés pour les sièges passagers s'il vous plaît
+Veuillez diminuer 5 degrés pour les sièges passagers s'il vous plaît
+Veuillez baisser 5 degrés pour les sièges passagers s'il vous plaît
+Augmentez 1 degré pour les sièges passagers s'il vous plaît
+Diminuez 1 degré pour les sièges passagers s'il vous plaît
+Baissez 1 degré pour les sièges passagers s'il vous plaît
+Veuillez augmenter 1 degré pour les sièges passagers s'il vous plaît
+Veuillez diminuer 1 degré pour les sièges passagers s'il vous plaît
+Veuillez baisser 1 degré pour les sièges passagers s'il vous plaît
+Augmentez la température de la zone conducteur 1 degré maintenant s'il vous plaît
+Diminuez la température de la zone conducteur 1 degré maintenant s'il vous plaît
+Baissez la température de la zone conducteur 1 degré maintenant s'il vous plaît
+Veuillez augmenter la température de la zone conducteur 1 degré maintenant s'il vous plaît
+Veuillez diminuer la température de la zone conducteur 1 degré maintenant s'il vous plaît
+Veuillez baisser la température de la zone conducteur 1 degré maintenant s'il vous plaît
+Augmentez la température de la zone conducteur 2 degrés maintenant s'il vous plaît
+Diminuez la température de la zone conducteur 2 degrés maintenant s'il vous plaît
+Baissez la température de la zone conducteur 2 degrés maintenant s'il vous plaît
+Veuillez augmenter la température de la zone conducteur 2 degrés maintenant s'il vous plaît
+Veuillez diminuer la température de la zone conducteur 2 degrés maintenant s'il vous plaît
+Veuillez baisser la température de la zone conducteur 2 degrés maintenant s'il vous plaît
+Augmentez 1 degré pour la zone conducteur maintenant s'il vous plaît
+Diminuez 1 degré pour la zone conducteur maintenant s'il vous plaît
+Baissez 1 degré pour la zone conducteur maintenant s'il vous plaît
+Veuillez augmenter 1 degré pour la zone conducteur maintenant s'il vous plaît
+Veuillez diminuer 1 degré pour la zone conducteur maintenant s'il vous plaît
+Veuillez baisser 1 degré pour la zone conducteur maintenant s'il vous plaît
+Augmentez 4 degrés pour la zone conducteur maintenant s'il vous plaît
+Diminuez 4 degrés pour la zone conducteur maintenant s'il vous plaît
+Baissez 4 degrés pour la zone conducteur maintenant s'il vous plaît
+Veuillez augmenter 4 degrés pour la zone conducteur maintenant s'il vous plaît
+Veuillez diminuer 4 degrés pour la zone conducteur maintenant s'il vous plaît
+Veuillez baisser 4 degrés pour la zone conducteur maintenant s'il vous plaît
+Augmentez la climatisation dans la zone conducteur de 1 degré maintenant s'il vous plaît
+Diminuez la climatisation dans la zone conducteur de 1 degré maintenant s'il vous plaît
+Baissez la climatisation dans la zone conducteur de 1 degré maintenant s'il vous plaît
+Veuillez augmenter la climatisation dans la zone conducteur de 1 degré maintenant s'il vous plaît
+Veuillez diminuer la climatisation dans la zone conducteur de 1 degré maintenant s'il vous plaît
+Veuillez baisser la climatisation dans la zone conducteur de 1 degré maintenant s'il vous plaît
+Augmentez la climatisation dans la zone conducteur de 2 degrés maintenant s'il vous plaît
+Diminuez la climatisation dans la zone conducteur de 2 degrés maintenant s'il vous plaît
+Baissez la climatisation dans la zone conducteur de 2 degrés maintenant s'il vous plaît
+Veuillez augmenter la climatisation dans la zone conducteur de 2 degrés maintenant s'il vous plaît
+Veuillez diminuer la climatisation dans la zone conducteur de 2 degrés maintenant s'il vous plaît
+Veuillez baisser la climatisation dans la zone conducteur de 2 degrés maintenant s'il vous plaît
+Augmentez 5 degrés pour le siège arrière gauche maintenant s'il vous plaît
+Diminuez 5 degrés pour le siège arrière gauche maintenant s'il vous plaît
+Baissez 5 degrés pour le siège arrière gauche maintenant s'il vous plaît
+Veuillez augmenter 5 degrés pour le siège arrière gauche maintenant s'il vous plaît
+Veuillez diminuer 5 degrés pour le siège arrière gauche maintenant s'il vous plaît
+Veuillez baisser 5 degrés pour le siège arrière gauche maintenant s'il vous plaît
+Augmentez 6 degrés pour le siège arrière gauche maintenant s'il vous plaît
+Diminuez 6 degrés pour le siège arrière gauche maintenant s'il vous plaît
+Baissez 6 degrés pour le siège arrière gauche maintenant s'il vous plaît
+Veuillez augmenter 6 degrés pour le siège arrière gauche maintenant s'il vous plaît
+Veuillez diminuer 6 degrés pour le siège arrière gauche maintenant s'il vous plaît
+Veuillez baisser 6 degrés pour le siège arrière gauche maintenant s'il vous plaît
+Augmentez 1 degré de la zone conducteur maintenant s'il vous plaît
+Diminuez 1 degré de la zone conducteur maintenant s'il vous plaît
+Baissez 1 degré de la zone conducteur maintenant s'il vous plaît
+Veuillez augmenter 1 degré de la zone conducteur maintenant s'il vous plaît
+Veuillez diminuer 1 degré de la zone conducteur maintenant s'il vous plaît
+Veuillez baisser 1 degré de la zone conducteur maintenant s'il vous plaît
+Augmentez 2 degrés de la zone conducteur maintenant s'il vous plaît
+Diminuez 2 degrés de la zone conducteur maintenant s'il vous plaît
+Baissez 2 degrés de la zone conducteur maintenant s'il vous plaît
+Veuillez augmenter 2 degrés de la zone conducteur maintenant s'il vous plaît
+Veuillez diminuer 2 degrés de la zone conducteur maintenant s'il vous plaît
+Veuillez baisser 2 degrés de la zone conducteur maintenant s'il vous plaît
+Augmentez la température de la zone passagers 1 degré maintenant s'il vous plaît
+Diminuez la température de la zone passagers 1 degré maintenant s'il vous plaît
+Baissez la température de la zone passagers 1 degré maintenant s'il vous plaît
+Veuillez augmenter la température de la zone passagers 1 degré maintenant s'il vous plaît
+Veuillez diminuer la température de la zone passagers 1 degré maintenant s'il vous plaît
+Veuillez baisser la température de la zone passagers 1 degré maintenant s'il vous plaît
+Augmentez la température de la zone passagers 4 degrés maintenant s'il vous plaît
+Diminuez la température de la zone passagers 4 degrés maintenant s'il vous plaît
+Baissez la température de la zone passagers 4 degrés maintenant s'il vous plaît
+Veuillez augmenter la température de la zone passagers 4 degrés maintenant s'il vous plaît
+Veuillez diminuer la température de la zone passagers 4 degrés maintenant s'il vous plaît
+Veuillez baisser la température de la zone passagers 4 degrés maintenant s'il vous plaît
+Augmentez la température du siège arrière à droite de 1 degré maintenant s'il vous plaît
+Diminuez la température du siège arrière à droite de 1 degré maintenant s'il vous plaît
+Baissez la température du siège arrière à droite de 1 degré maintenant s'il vous plaît
+Veuillez augmenter la température du siège arrière à droite de 1 degré maintenant s'il vous plaît
+Veuillez diminuer la température du siège arrière à droite de 1 degré maintenant s'il vous plaît
+Veuillez baisser la température du siège arrière à droite de 1 degré maintenant s'il vous plaît
+Augmentez la température du siège arrière à droite de 6 degrés maintenant s'il vous plaît
+Diminuez la température du siège arrière à droite de 6 degrés maintenant s'il vous plaît
+Baissez la température du siège arrière à droite de 6 degrés maintenant s'il vous plaît
+Veuillez augmenter la température du siège arrière à droite de 6 degrés maintenant s'il vous plaît
+Veuillez diminuer la température du siège arrière à droite de 6 degrés maintenant s'il vous plaît
+Veuillez baisser la température du siège arrière à droite de 6 degrés maintenant s'il vous plaît
+Augmentez la température des sièges passagers 1 degré maintenant s'il vous plaît
+Diminuez la température des sièges passagers 1 degré maintenant s'il vous plaît
+Baissez la température des sièges passagers 1 degré maintenant s'il vous plaît
+Veuillez augmenter la température des sièges passagers 1 degré maintenant s'il vous plaît
+Veuillez diminuer la température des sièges passagers 1 degré maintenant s'il vous plaît
+Veuillez baisser la température des sièges passagers 1 degré maintenant s'il vous plaît
+Augmentez 1 degré pour la zone passagers maintenant s'il vous plaît
+Diminuez 1 degré pour la zone passagers maintenant s'il vous plaît
+Baissez 1 degré pour la zone passagers maintenant s'il vous plaît
+Veuillez augmenter 1 degré pour la zone passagers maintenant s'il vous plaît
+Veuillez diminuer 1 degré pour la zone passagers maintenant s'il vous plaît
+Veuillez baisser 1 degré pour la zone passagers maintenant s'il vous plaît
+Augmentez 4 degrés pour la zone passagers maintenant s'il vous plaît
+Diminuez 4 degrés pour la zone passagers maintenant s'il vous plaît
+Baissez 4 degrés pour la zone passagers maintenant s'il vous plaît
+Veuillez augmenter 4 degrés pour la zone passagers maintenant s'il vous plaît
+Veuillez diminuer 4 degrés pour la zone passagers maintenant s'il vous plaît
+Veuillez baisser 4 degrés pour la zone passagers maintenant s'il vous plaît
+Augmentez la climatisation dans la zone passagers de 1 degré maintenant s'il vous plaît
+Diminuez la climatisation dans la zone passagers de 1 degré maintenant s'il vous plaît
+Baissez la climatisation dans la zone passagers de 1 degré maintenant s'il vous plaît
+Veuillez augmenter la climatisation dans la zone passagers de 1 degré maintenant s'il vous plaît
+Veuillez diminuer la climatisation dans la zone passagers de 1 degré maintenant s'il vous plaît
+Veuillez baisser la climatisation dans la zone passagers de 1 degré maintenant s'il vous plaît
+Augmentez la climatisation dans la zone passagers de 6 degrés maintenant s'il vous plaît
+Diminuez la climatisation dans la zone passagers de 6 degrés maintenant s'il vous plaît
+Baissez la climatisation dans la zone passagers de 6 degrés maintenant s'il vous plaît
+Veuillez augmenter la climatisation dans la zone passagers de 6 degrés maintenant s'il vous plaît
+Veuillez diminuer la climatisation dans la zone passagers de 6 degrés maintenant s'il vous plaît
+Veuillez baisser la climatisation dans la zone passagers de 6 degrés maintenant s'il vous plaît
+Augmentez 1 degré de la zone passagers maintenant s'il vous plaît
+Diminuez 1 degré de la zone passagers maintenant s'il vous plaît
+Baissez 1 degré de la zone passagers maintenant s'il vous plaît
+Veuillez augmenter 1 degré de la zone passagers maintenant s'il vous plaît
+Veuillez diminuer 1 degré de la zone passagers maintenant s'il vous plaît
+Veuillez baisser 1 degré de la zone passagers maintenant s'il vous plaît
+Augmentez 2 degrés de la zone passagers maintenant s'il vous plaît
+Diminuez 2 degrés de la zone passagers maintenant s'il vous plaît
+Baissez 2 degrés de la zone passagers maintenant s'il vous plaît
+Veuillez augmenter 2 degrés de la zone passagers maintenant s'il vous plaît
+Veuillez diminuer 2 degrés de la zone passagers maintenant s'il vous plaît
+Veuillez baisser 2 degrés de la zone passagers maintenant s'il vous plaît
+Augmentez 3 degrés pour le siège arrière à droite maintenant s'il vous plaît
+Diminuez 3 degrés pour le siège arrière à droite maintenant s'il vous plaît
+Baissez 3 degrés pour le siège arrière à droite maintenant s'il vous plaît
+Veuillez augmenter 3 degrés pour le siège arrière à droite maintenant s'il vous plaît
+Veuillez diminuer 3 degrés pour le siège arrière à droite maintenant s'il vous plaît
+Veuillez baisser 3 degrés pour le siège arrière à droite maintenant s'il vous plaît
+Augmentez 4 degrés pour le siège arrière à droite maintenant s'il vous plaît
+Diminuez 4 degrés pour le siège arrière à droite maintenant s'il vous plaît
+Baissez 4 degrés pour le siège arrière à droite maintenant s'il vous plaît
+Veuillez augmenter 4 degrés pour le siège arrière à droite maintenant s'il vous plaît
+Veuillez diminuer 4 degrés pour le siège arrière à droite maintenant s'il vous plaît
+Veuillez baisser 4 degrés pour le siège arrière à droite maintenant s'il vous plaît
+Augmentez 5 degrés pour les sièges passagers maintenant s'il vous plaît
+Diminuez 5 degrés pour les sièges passagers maintenant s'il vous plaît
+Baissez 5 degrés pour les sièges passagers maintenant s'il vous plaît
+Veuillez augmenter 5 degrés pour les sièges passagers maintenant s'il vous plaît
+Veuillez diminuer 5 degrés pour les sièges passagers maintenant s'il vous plaît
+Veuillez baisser 5 degrés pour les sièges passagers maintenant s'il vous plaît
+Augmentez 1 degré pour les sièges passagers maintenant s'il vous plaît
+Diminuez 1 degré pour les sièges passagers maintenant s'il vous plaît
+Baissez 1 degré pour les sièges passagers maintenant s'il vous plaît
+Veuillez augmenter 1 degré pour les sièges passagers maintenant s'il vous plaît
+Veuillez diminuer 1 degré pour les sièges passagers maintenant s'il vous plaît
+Veuillez baisser 1 degré pour les sièges passagers maintenant s'il vous plaît
+Augmentez la température de la zone conducteur 1 degré tout de suite s'il vous plaît
+Diminuez la température de la zone conducteur 1 degré tout de suite s'il vous plaît
+Baissez la température de la zone conducteur 1 degré tout de suite s'il vous plaît
+Veuillez augmenter la température de la zone conducteur 1 degré tout de suite s'il vous plaît
+Veuillez diminuer la température de la zone conducteur 1 degré tout de suite s'il vous plaît
+Veuillez baisser la température de la zone conducteur 1 degré tout de suite s'il vous plaît
+Augmentez la température de la zone conducteur 2 degrés tout de suite s'il vous plaît
+Diminuez la température de la zone conducteur 2 degrés tout de suite s'il vous plaît
+Baissez la température de la zone conducteur 2 degrés tout de suite s'il vous plaît
+Veuillez augmenter la température de la zone conducteur 2 degrés tout de suite s'il vous plaît
+Veuillez diminuer la température de la zone conducteur 2 degrés tout de suite s'il vous plaît
+Veuillez baisser la température de la zone conducteur 2 degrés tout de suite s'il vous plaît
+Augmentez 1 degré pour la zone conducteur tout de suite s'il vous plaît
+Diminuez 1 degré pour la zone conducteur tout de suite s'il vous plaît
+Baissez 1 degré pour la zone conducteur tout de suite s'il vous plaît
+Veuillez augmenter 1 degré pour la zone conducteur tout de suite s'il vous plaît
+Veuillez diminuer 1 degré pour la zone conducteur tout de suite s'il vous plaît
+Veuillez baisser 1 degré pour la zone conducteur tout de suite s'il vous plaît
+Augmentez 4 degrés pour la zone conducteur tout de suite s'il vous plaît
+Diminuez 4 degrés pour la zone conducteur tout de suite s'il vous plaît
+Baissez 4 degrés pour la zone conducteur tout de suite s'il vous plaît
+Veuillez augmenter 4 degrés pour la zone conducteur tout de suite s'il vous plaît
+Veuillez diminuer 4 degrés pour la zone conducteur tout de suite s'il vous plaît
+Veuillez baisser 4 degrés pour la zone conducteur tout de suite s'il vous plaît
+Augmentez la climatisation dans la zone conducteur de 1 degré tout de suite s'il vous plaît
+Diminuez la climatisation dans la zone conducteur de 1 degré tout de suite s'il vous plaît
+Baissez la climatisation dans la zone conducteur de 1 degré tout de suite s'il vous plaît
+Veuillez augmenter la climatisation dans la zone conducteur de 1 degré tout de suite s'il vous plaît
+Veuillez diminuer la climatisation dans la zone conducteur de 1 degré tout de suite s'il vous plaît
+Veuillez baisser la climatisation dans la zone conducteur de 1 degré tout de suite s'il vous plaît
+Augmentez la climatisation dans la zone conducteur de 2 degrés tout de suite s'il vous plaît
+Diminuez la climatisation dans la zone conducteur de 2 degrés tout de suite s'il vous plaît
+Baissez la climatisation dans la zone conducteur de 2 degrés tout de suite s'il vous plaît
+Veuillez augmenter la climatisation dans la zone conducteur de 2 degrés tout de suite s'il vous plaît
+Veuillez diminuer la climatisation dans la zone conducteur de 2 degrés tout de suite s'il vous plaît
+Veuillez baisser la climatisation dans la zone conducteur de 2 degrés tout de suite s'il vous plaît
+Augmentez 5 degrés pour le siège arrière gauche tout de suite s'il vous plaît
+Diminuez 5 degrés pour le siège arrière gauche tout de suite s'il vous plaît
+Baissez 5 degrés pour le siège arrière gauche tout de suite s'il vous plaît
+Veuillez augmenter 5 degrés pour le siège arrière gauche tout de suite s'il vous plaît
+Veuillez diminuer 5 degrés pour le siège arrière gauche tout de suite s'il vous plaît
+Veuillez baisser 5 degrés pour le siège arrière gauche tout de suite s'il vous plaît
+Augmentez 6 degrés pour le siège arrière gauche tout de suite s'il vous plaît
+Diminuez 6 degrés pour le siège arrière gauche tout de suite s'il vous plaît
+Baissez 6 degrés pour le siège arrière gauche tout de suite s'il vous plaît
+Veuillez augmenter 6 degrés pour le siège arrière gauche tout de suite s'il vous plaît
+Veuillez diminuer 6 degrés pour le siège arrière gauche tout de suite s'il vous plaît
+Veuillez baisser 6 degrés pour le siège arrière gauche tout de suite s'il vous plaît
+Augmentez 1 degré de la zone conducteur tout de suite s'il vous plaît
+Diminuez 1 degré de la zone conducteur tout de suite s'il vous plaît
+Baissez 1 degré de la zone conducteur tout de suite s'il vous plaît
+Veuillez augmenter 1 degré de la zone conducteur tout de suite s'il vous plaît
+Veuillez diminuer 1 degré de la zone conducteur tout de suite s'il vous plaît
+Veuillez baisser 1 degré de la zone conducteur tout de suite s'il vous plaît
+Augmentez 2 degrés de la zone conducteur tout de suite s'il vous plaît
+Diminuez 2 degrés de la zone conducteur tout de suite s'il vous plaît
+Baissez 2 degrés de la zone conducteur tout de suite s'il vous plaît
+Veuillez augmenter 2 degrés de la zone conducteur tout de suite s'il vous plaît
+Veuillez diminuer 2 degrés de la zone conducteur tout de suite s'il vous plaît
+Veuillez baisser 2 degrés de la zone conducteur tout de suite s'il vous plaît
+Augmentez la température de la zone passagers 1 degré tout de suite s'il vous plaît
+Diminuez la température de la zone passagers 1 degré tout de suite s'il vous plaît
+Baissez la température de la zone passagers 1 degré tout de suite s'il vous plaît
+Veuillez augmenter la température de la zone passagers 1 degré tout de suite s'il vous plaît
+Veuillez diminuer la température de la zone passagers 1 degré tout de suite s'il vous plaît
+Veuillez baisser la température de la zone passagers 1 degré tout de suite s'il vous plaît
+Augmentez la température de la zone passagers 4 degrés tout de suite s'il vous plaît
+Diminuez la température de la zone passagers 4 degrés tout de suite s'il vous plaît
+Baissez la température de la zone passagers 4 degrés tout de suite s'il vous plaît
+Veuillez augmenter la température de la zone passagers 4 degrés tout de suite s'il vous plaît
+Veuillez diminuer la température de la zone passagers 4 degrés tout de suite s'il vous plaît
+Veuillez baisser la température de la zone passagers 4 degrés tout de suite s'il vous plaît
+Augmentez la température du siège arrière à droite de 1 degré tout de suite s'il vous plaît
+Diminuez la température du siège arrière à droite de 1 degré tout de suite s'il vous plaît
+Baissez la température du siège arrière à droite de 1 degré tout de suite s'il vous plaît
+Veuillez augmenter la température du siège arrière à droite de 1 degré tout de suite s'il vous plaît
+Veuillez diminuer la température du siège arrière à droite de 1 degré tout de suite s'il vous plaît
+Veuillez baisser la température du siège arrière à droite de 1 degré tout de suite s'il vous plaît
+Augmentez la température du siège arrière à droite de 6 degrés tout de suite s'il vous plaît
+Diminuez la température du siège arrière à droite de 6 degrés tout de suite s'il vous plaît
+Baissez la température du siège arrière à droite de 6 degrés tout de suite s'il vous plaît
+Veuillez augmenter la température du siège arrière à droite de 6 degrés tout de suite s'il vous plaît
+Veuillez diminuer la température du siège arrière à droite de 6 degrés tout de suite s'il vous plaît
+Veuillez baisser la température du siège arrière à droite de 6 degrés tout de suite s'il vous plaît
+Augmentez la température des sièges passagers 1 degré tout de suite s'il vous plaît
+Diminuez la température des sièges passagers 1 degré tout de suite s'il vous plaît
+Baissez la température des sièges passagers 1 degré tout de suite s'il vous plaît
+Veuillez augmenter la température des sièges passagers 1 degré tout de suite s'il vous plaît
+Veuillez diminuer la température des sièges passagers 1 degré tout de suite s'il vous plaît
+Veuillez baisser la température des sièges passagers 1 degré tout de suite s'il vous plaît
+Augmentez 1 degré pour la zone passagers tout de suite s'il vous plaît
+Diminuez 1 degré pour la zone passagers tout de suite s'il vous plaît
+Baissez 1 degré pour la zone passagers tout de suite s'il vous plaît
+Veuillez augmenter 1 degré pour la zone passagers tout de suite s'il vous plaît
+Veuillez diminuer 1 degré pour la zone passagers tout de suite s'il vous plaît
+Veuillez baisser 1 degré pour la zone passagers tout de suite s'il vous plaît
+Augmentez 4 degrés pour la zone passagers tout de suite s'il vous plaît
+Diminuez 4 degrés pour la zone passagers tout de suite s'il vous plaît
+Baissez 4 degrés pour la zone passagers tout de suite s'il vous plaît
+Veuillez augmenter 4 degrés pour la zone passagers tout de suite s'il vous plaît
+Veuillez diminuer 4 degrés pour la zone passagers tout de suite s'il vous plaît
+Veuillez baisser 4 degrés pour la zone passagers tout de suite s'il vous plaît
+Augmentez la climatisation dans la zone passagers de 1 degré tout de suite s'il vous plaît
+Diminuez la climatisation dans la zone passagers de 1 degré tout de suite s'il vous plaît
+Baissez la climatisation dans la zone passagers de 1 degré tout de suite s'il vous plaît
+Veuillez augmenter la climatisation dans la zone passagers de 1 degré tout de suite s'il vous plaît
+Veuillez diminuer la climatisation dans la zone passagers de 1 degré tout de suite s'il vous plaît
+Veuillez baisser la climatisation dans la zone passagers de 1 degré tout de suite s'il vous plaît
+Augmentez la climatisation dans la zone passagers de 6 degrés tout de suite s'il vous plaît
+Diminuez la climatisation dans la zone passagers de 6 degrés tout de suite s'il vous plaît
+Baissez la climatisation dans la zone passagers de 6 degrés tout de suite s'il vous plaît
+Veuillez augmenter la climatisation dans la zone passagers de 6 degrés tout de suite s'il vous plaît
+Veuillez diminuer la climatisation dans la zone passagers de 6 degrés tout de suite s'il vous plaît
+Veuillez baisser la climatisation dans la zone passagers de 6 degrés tout de suite s'il vous plaît
+Augmentez 1 degré de la zone passagers tout de suite s'il vous plaît
+Diminuez 1 degré de la zone passagers tout de suite s'il vous plaît
+Baissez 1 degré de la zone passagers tout de suite s'il vous plaît
+Veuillez augmenter 1 degré de la zone passagers tout de suite s'il vous plaît
+Veuillez diminuer 1 degré de la zone passagers tout de suite s'il vous plaît
+Veuillez baisser 1 degré de la zone passagers tout de suite s'il vous plaît
+Augmentez 2 degrés de la zone passagers tout de suite s'il vous plaît
+Diminuez 2 degrés de la zone passagers tout de suite s'il vous plaît
+Baissez 2 degrés de la zone passagers tout de suite s'il vous plaît
+Veuillez augmenter 2 degrés de la zone passagers tout de suite s'il vous plaît
+Veuillez diminuer 2 degrés de la zone passagers tout de suite s'il vous plaît
+Veuillez baisser 2 degrés de la zone passagers tout de suite s'il vous plaît
+Augmentez 3 degrés pour le siège arrière à droite tout de suite s'il vous plaît
+Diminuez 3 degrés pour le siège arrière à droite tout de suite s'il vous plaît
+Baissez 3 degrés pour le siège arrière à droite tout de suite s'il vous plaît
+Veuillez augmenter 3 degrés pour le siège arrière à droite tout de suite s'il vous plaît
+Veuillez diminuer 3 degrés pour le siège arrière à droite tout de suite s'il vous plaît
+Veuillez baisser 3 degrés pour le siège arrière à droite tout de suite s'il vous plaît
+Augmentez 4 degrés pour le siège arrière à droite tout de suite s'il vous plaît
+Diminuez 4 degrés pour le siège arrière à droite tout de suite s'il vous plaît
+Baissez 4 degrés pour le siège arrière à droite tout de suite s'il vous plaît
+Veuillez augmenter 4 degrés pour le siège arrière à droite tout de suite s'il vous plaît
+Veuillez diminuer 4 degrés pour le siège arrière à droite tout de suite s'il vous plaît
+Veuillez baisser 4 degrés pour le siège arrière à droite tout de suite s'il vous plaît
+Augmentez 5 degrés pour les sièges passagers tout de suite s'il vous plaît
+Diminuez 5 degrés pour les sièges passagers tout de suite s'il vous plaît
+Baissez 5 degrés pour les sièges passagers tout de suite s'il vous plaît
+Veuillez augmenter 5 degrés pour les sièges passagers tout de suite s'il vous plaît
+Veuillez diminuer 5 degrés pour les sièges passagers tout de suite s'il vous plaît
+Veuillez baisser 5 degrés pour les sièges passagers tout de suite s'il vous plaît
+Augmentez 1 degré pour les sièges passagers tout de suite s'il vous plaît
+Diminuez 1 degré pour les sièges passagers tout de suite s'il vous plaît
+Baissez 1 degré pour les sièges passagers tout de suite s'il vous plaît
+Veuillez augmenter 1 degré pour les sièges passagers tout de suite s'il vous plaît
+Veuillez diminuer 1 degré pour les sièges passagers tout de suite s'il vous plaît
+Veuillez baisser 1 degré pour les sièges passagers tout de suite s'il vous plaît
+Augmentez la température de la zone conducteur 1 degré immédiatement s'il vous plaît
+Diminuez la température de la zone conducteur 1 degré immédiatement s'il vous plaît
+Baissez la température de la zone conducteur 1 degré immédiatement s'il vous plaît
+Veuillez augmenter la température de la zone conducteur 1 degré immédiatement s'il vous plaît
+Veuillez diminuer la température de la zone conducteur 1 degré immédiatement s'il vous plaît
+Veuillez baisser la température de la zone conducteur 1 degré immédiatement s'il vous plaît
+Augmentez la température de la zone conducteur 2 degrés immédiatement s'il vous plaît
+Diminuez la température de la zone conducteur 2 degrés immédiatement s'il vous plaît
+Baissez la température de la zone conducteur 2 degrés immédiatement s'il vous plaît
+Veuillez augmenter la température de la zone conducteur 2 degrés immédiatement s'il vous plaît
+Veuillez diminuer la température de la zone conducteur 2 degrés immédiatement s'il vous plaît
+Veuillez baisser la température de la zone conducteur 2 degrés immédiatement s'il vous plaît
+Augmentez 1 degré pour la zone conducteur immédiatement s'il vous plaît
+Diminuez 1 degré pour la zone conducteur immédiatement s'il vous plaît
+Baissez 1 degré pour la zone conducteur immédiatement s'il vous plaît
+Veuillez augmenter 1 degré pour la zone conducteur immédiatement s'il vous plaît
+Veuillez diminuer 1 degré pour la zone conducteur immédiatement s'il vous plaît
+Veuillez baisser 1 degré pour la zone conducteur immédiatement s'il vous plaît
+Augmentez 4 degrés pour la zone conducteur immédiatement s'il vous plaît
+Diminuez 4 degrés pour la zone conducteur immédiatement s'il vous plaît
+Baissez 4 degrés pour la zone conducteur immédiatement s'il vous plaît
+Veuillez augmenter 4 degrés pour la zone conducteur immédiatement s'il vous plaît
+Veuillez diminuer 4 degrés pour la zone conducteur immédiatement s'il vous plaît
+Veuillez baisser 4 degrés pour la zone conducteur immédiatement s'il vous plaît
+Augmentez la climatisation dans la zone conducteur de 1 degré immédiatement s'il vous plaît
+Diminuez la climatisation dans la zone conducteur de 1 degré immédiatement s'il vous plaît
+Baissez la climatisation dans la zone conducteur de 1 degré immédiatement s'il vous plaît
+Veuillez augmenter la climatisation dans la zone conducteur de 1 degré immédiatement s'il vous plaît
+Veuillez diminuer la climatisation dans la zone conducteur de 1 degré immédiatement s'il vous plaît
+Veuillez baisser la climatisation dans la zone conducteur de 1 degré immédiatement s'il vous plaît
+Augmentez la climatisation dans la zone conducteur de 2 degrés immédiatement s'il vous plaît
+Diminuez la climatisation dans la zone conducteur de 2 degrés immédiatement s'il vous plaît
+Baissez la climatisation dans la zone conducteur de 2 degrés immédiatement s'il vous plaît
+Veuillez augmenter la climatisation dans la zone conducteur de 2 degrés immédiatement s'il vous plaît
+Veuillez diminuer la climatisation dans la zone conducteur de 2 degrés immédiatement s'il vous plaît
+Veuillez baisser la climatisation dans la zone conducteur de 2 degrés immédiatement s'il vous plaît
+Augmentez 5 degrés pour le siège arrière gauche immédiatement s'il vous plaît
+Diminuez 5 degrés pour le siège arrière gauche immédiatement s'il vous plaît
+Baissez 5 degrés pour le siège arrière gauche immédiatement s'il vous plaît
+Veuillez augmenter 5 degrés pour le siège arrière gauche immédiatement s'il vous plaît
+Veuillez diminuer 5 degrés pour le siège arrière gauche immédiatement s'il vous plaît
+Veuillez baisser 5 degrés pour le siège arrière gauche immédiatement s'il vous plaît
+Augmentez 6 degrés pour le siège arrière gauche immédiatement s'il vous plaît
+Diminuez 6 degrés pour le siège arrière gauche immédiatement s'il vous plaît
+Baissez 6 degrés pour le siège arrière gauche immédiatement s'il vous plaît
+Veuillez augmenter 6 degrés pour le siège arrière gauche immédiatement s'il vous plaît
+Veuillez diminuer 6 degrés pour le siège arrière gauche immédiatement s'il vous plaît
+Veuillez baisser 6 degrés pour le siège arrière gauche immédiatement s'il vous plaît
+Augmentez 1 degré de la zone conducteur immédiatement s'il vous plaît
+Diminuez 1 degré de la zone conducteur immédiatement s'il vous plaît
+Baissez 1 degré de la zone conducteur immédiatement s'il vous plaît
+Veuillez augmenter 1 degré de la zone conducteur immédiatement s'il vous plaît
+Veuillez diminuer 1 degré de la zone conducteur immédiatement s'il vous plaît
+Veuillez baisser 1 degré de la zone conducteur immédiatement s'il vous plaît
+Augmentez 2 degrés de la zone conducteur immédiatement s'il vous plaît
+Diminuez 2 degrés de la zone conducteur immédiatement s'il vous plaît
+Baissez 2 degrés de la zone conducteur immédiatement s'il vous plaît
+Veuillez augmenter 2 degrés de la zone conducteur immédiatement s'il vous plaît
+Veuillez diminuer 2 degrés de la zone conducteur immédiatement s'il vous plaît
+Veuillez baisser 2 degrés de la zone conducteur immédiatement s'il vous plaît
+Augmentez la température de la zone passagers 1 degré immédiatement s'il vous plaît
+Diminuez la température de la zone passagers 1 degré immédiatement s'il vous plaît
+Baissez la température de la zone passagers 1 degré immédiatement s'il vous plaît
+Veuillez augmenter la température de la zone passagers 1 degré immédiatement s'il vous plaît
+Veuillez diminuer la température de la zone passagers 1 degré immédiatement s'il vous plaît
+Veuillez baisser la température de la zone passagers 1 degré immédiatement s'il vous plaît
+Augmentez la température de la zone passagers 4 degrés immédiatement s'il vous plaît
+Diminuez la température de la zone passagers 4 degrés immédiatement s'il vous plaît
+Baissez la température de la zone passagers 4 degrés immédiatement s'il vous plaît
+Veuillez augmenter la température de la zone passagers 4 degrés immédiatement s'il vous plaît
+Veuillez diminuer la température de la zone passagers 4 degrés immédiatement s'il vous plaît
+Veuillez baisser la température de la zone passagers 4 degrés immédiatement s'il vous plaît
+Augmentez la température du siège arrière à droite de 1 degré immédiatement s'il vous plaît
+Diminuez la température du siège arrière à droite de 1 degré immédiatement s'il vous plaît
+Baissez la température du siège arrière à droite de 1 degré immédiatement s'il vous plaît
+Veuillez augmenter la température du siège arrière à droite de 1 degré immédiatement s'il vous plaît
+Veuillez diminuer la température du siège arrière à droite de 1 degré immédiatement s'il vous plaît
+Veuillez baisser la température du siège arrière à droite de 1 degré immédiatement s'il vous plaît
+Augmentez la température du siège arrière à droite de 6 degrés immédiatement s'il vous plaît
+Diminuez la température du siège arrière à droite de 6 degrés immédiatement s'il vous plaît
+Baissez la température du siège arrière à droite de 6 degrés immédiatement s'il vous plaît
+Veuillez augmenter la température du siège arrière à droite de 6 degrés immédiatement s'il vous plaît
+Veuillez diminuer la température du siège arrière à droite de 6 degrés immédiatement s'il vous plaît
+Veuillez baisser la température du siège arrière à droite de 6 degrés immédiatement s'il vous plaît
+Augmentez la température des sièges passagers 1 degré immédiatement s'il vous plaît
+Diminuez la température des sièges passagers 1 degré immédiatement s'il vous plaît
+Baissez la température des sièges passagers 1 degré immédiatement s'il vous plaît
+Veuillez augmenter la température des sièges passagers 1 degré immédiatement s'il vous plaît
+Veuillez diminuer la température des sièges passagers 1 degré immédiatement s'il vous plaît
+Veuillez baisser la température des sièges passagers 1 degré immédiatement s'il vous plaît
+Augmentez 1 degré pour la zone passagers immédiatement s'il vous plaît
+Diminuez 1 degré pour la zone passagers immédiatement s'il vous plaît
+Baissez 1 degré pour la zone passagers immédiatement s'il vous plaît
+Veuillez augmenter 1 degré pour la zone passagers immédiatement s'il vous plaît
+Veuillez diminuer 1 degré pour la zone passagers immédiatement s'il vous plaît
+Veuillez baisser 1 degré pour la zone passagers immédiatement s'il vous plaît
+Augmentez 4 degrés pour la zone passagers immédiatement s'il vous plaît
+Diminuez 4 degrés pour la zone passagers immédiatement s'il vous plaît
+Baissez 4 degrés pour la zone passagers immédiatement s'il vous plaît
+Veuillez augmenter 4 degrés pour la zone passagers immédiatement s'il vous plaît
+Veuillez diminuer 4 degrés pour la zone passagers immédiatement s'il vous plaît
+Veuillez baisser 4 degrés pour la zone passagers immédiatement s'il vous plaît
+Augmentez la climatisation dans la zone passagers de 1 degré immédiatement s'il vous plaît
+Diminuez la climatisation dans la zone passagers de 1 degré immédiatement s'il vous plaît
+Baissez la climatisation dans la zone passagers de 1 degré immédiatement s'il vous plaît
+Veuillez augmenter la climatisation dans la zone passagers de 1 degré immédiatement s'il vous plaît
+Veuillez diminuer la climatisation dans la zone passagers de 1 degré immédiatement s'il vous plaît
+Veuillez baisser la climatisation dans la zone passagers de 1 degré immédiatement s'il vous plaît
+Augmentez la climatisation dans la zone passagers de 6 degrés immédiatement s'il vous plaît
+Diminuez la climatisation dans la zone passagers de 6 degrés immédiatement s'il vous plaît
+Baissez la climatisation dans la zone passagers de 6 degrés immédiatement s'il vous plaît
+Veuillez augmenter la climatisation dans la zone passagers de 6 degrés immédiatement s'il vous plaît
+Veuillez diminuer la climatisation dans la zone passagers de 6 degrés immédiatement s'il vous plaît
+Veuillez baisser la climatisation dans la zone passagers de 6 degrés immédiatement s'il vous plaît
+Augmentez 1 degré de la zone passagers immédiatement s'il vous plaît
+Diminuez 1 degré de la zone passagers immédiatement s'il vous plaît
+Baissez 1 degré de la zone passagers immédiatement s'il vous plaît
+Veuillez augmenter 1 degré de la zone passagers immédiatement s'il vous plaît
+Veuillez diminuer 1 degré de la zone passagers immédiatement s'il vous plaît
+Veuillez baisser 1 degré de la zone passagers immédiatement s'il vous plaît
+Augmentez 2 degrés de la zone passagers immédiatement s'il vous plaît
+Diminuez 2 degrés de la zone passagers immédiatement s'il vous plaît
+Baissez 2 degrés de la zone passagers immédiatement s'il vous plaît
+Veuillez augmenter 2 degrés de la zone passagers immédiatement s'il vous plaît
+Veuillez diminuer 2 degrés de la zone passagers immédiatement s'il vous plaît
+Veuillez baisser 2 degrés de la zone passagers immédiatement s'il vous plaît
+Augmentez 3 degrés pour le siège arrière à droite immédiatement s'il vous plaît
+Diminuez 3 degrés pour le siège arrière à droite immédiatement s'il vous plaît
+Baissez 3 degrés pour le siège arrière à droite immédiatement s'il vous plaît
+Veuillez augmenter 3 degrés pour le siège arrière à droite immédiatement s'il vous plaît
+Veuillez diminuer 3 degrés pour le siège arrière à droite immédiatement s'il vous plaît
+Veuillez baisser 3 degrés pour le siège arrière à droite immédiatement s'il vous plaît
+Augmentez 4 degrés pour le siège arrière à droite immédiatement s'il vous plaît
+Diminuez 4 degrés pour le siège arrière à droite immédiatement s'il vous plaît
+Baissez 4 degrés pour le siège arrière à droite immédiatement s'il vous plaît
+Veuillez augmenter 4 degrés pour le siège arrière à droite immédiatement s'il vous plaît
+Veuillez diminuer 4 degrés pour le siège arrière à droite immédiatement s'il vous plaît
+Veuillez baisser 4 degrés pour le siège arrière à droite immédiatement s'il vous plaît
+Augmentez 5 degrés pour les sièges passagers immédiatement s'il vous plaît
+Diminuez 5 degrés pour les sièges passagers immédiatement s'il vous plaît
+Baissez 5 degrés pour les sièges passagers immédiatement s'il vous plaît
+Veuillez augmenter 5 degrés pour les sièges passagers immédiatement s'il vous plaît
+Veuillez diminuer 5 degrés pour les sièges passagers immédiatement s'il vous plaît
+Veuillez baisser 5 degrés pour les sièges passagers immédiatement s'il vous plaît
+Augmentez 1 degré pour les sièges passagers immédiatement s'il vous plaît
+Diminuez 1 degré pour les sièges passagers immédiatement s'il vous plaît
+Baissez 1 degré pour les sièges passagers immédiatement s'il vous plaît
+Veuillez augmenter 1 degré pour les sièges passagers immédiatement s'il vous plaît
+Veuillez diminuer 1 degré pour les sièges passagers immédiatement s'il vous plaît
+Veuillez baisser 1 degré pour les sièges passagers immédiatement s'il vous plaît

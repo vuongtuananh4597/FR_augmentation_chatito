@@ -1,0 +1,360 @@
+Augmentez la température 1 degré
+Baissez la température 1 degré
+Diminuez la température 1 degré
+Augmentez la climatisation 1 degré
+Baissez la climatisation 1 degré
+Diminuez la climatisation 1 degré
+Augmentez l'air conditionné 1 degré
+Baissez l'air conditionné 1 degré
+Diminuez l'air conditionné 1 degré
+Augmentez la clim 1 degré
+Baissez la clim 1 degré
+Diminuez la clim 1 degré
+Augmentez la température de l'air conditionné 1 degré
+Baissez la température de l'air conditionné 1 degré
+Diminuez la température de l'air conditionné 1 degré
+Augmentez la température 2 degrés
+Baissez la température 2 degrés
+Diminuez la température 2 degrés
+Augmentez la climatisation 2 degrés
+Baissez la climatisation 2 degrés
+Diminuez la climatisation 2 degrés
+Augmentez l'air conditionné 2 degrés
+Baissez l'air conditionné 2 degrés
+Diminuez l'air conditionné 2 degrés
+Augmentez la clim 2 degrés
+Baissez la clim 2 degrés
+Diminuez la clim 2 degrés
+Augmentez la température de l'air conditionné 2 degrés
+Baissez la température de l'air conditionné 2 degrés
+Diminuez la température de l'air conditionné 2 degrés
+Augmentez la température 1 degré maintenant
+Baissez la température 1 degré maintenant
+Diminuez la température 1 degré maintenant
+Augmentez la climatisation 1 degré maintenant
+Baissez la climatisation 1 degré maintenant
+Diminuez la climatisation 1 degré maintenant
+Augmentez l'air conditionné 1 degré maintenant
+Baissez l'air conditionné 1 degré maintenant
+Diminuez l'air conditionné 1 degré maintenant
+Augmentez la clim 1 degré maintenant
+Baissez la clim 1 degré maintenant
+Diminuez la clim 1 degré maintenant
+Augmentez la température de l'air conditionné 1 degré maintenant
+Baissez la température de l'air conditionné 1 degré maintenant
+Diminuez la température de l'air conditionné 1 degré maintenant
+Augmentez la température 2 degrés maintenant
+Baissez la température 2 degrés maintenant
+Diminuez la température 2 degrés maintenant
+Augmentez la climatisation 2 degrés maintenant
+Baissez la climatisation 2 degrés maintenant
+Diminuez la climatisation 2 degrés maintenant
+Augmentez l'air conditionné 2 degrés maintenant
+Baissez l'air conditionné 2 degrés maintenant
+Diminuez l'air conditionné 2 degrés maintenant
+Augmentez la clim 2 degrés maintenant
+Baissez la clim 2 degrés maintenant
+Diminuez la clim 2 degrés maintenant
+Augmentez la température de l'air conditionné 2 degrés maintenant
+Baissez la température de l'air conditionné 2 degrés maintenant
+Diminuez la température de l'air conditionné 2 degrés maintenant
+Augmentez la température 1 degré tout de suite
+Baissez la température 1 degré tout de suite
+Diminuez la température 1 degré tout de suite
+Augmentez la climatisation 1 degré tout de suite
+Baissez la climatisation 1 degré tout de suite
+Diminuez la climatisation 1 degré tout de suite
+Augmentez l'air conditionné 1 degré tout de suite
+Baissez l'air conditionné 1 degré tout de suite
+Diminuez l'air conditionné 1 degré tout de suite
+Augmentez la clim 1 degré tout de suite
+Baissez la clim 1 degré tout de suite
+Diminuez la clim 1 degré tout de suite
+Augmentez la température de l'air conditionné 1 degré tout de suite
+Baissez la température de l'air conditionné 1 degré tout de suite
+Diminuez la température de l'air conditionné 1 degré tout de suite
+Augmentez la température 2 degrés tout de suite
+Baissez la température 2 degrés tout de suite
+Diminuez la température 2 degrés tout de suite
+Augmentez la climatisation 2 degrés tout de suite
+Baissez la climatisation 2 degrés tout de suite
+Diminuez la climatisation 2 degrés tout de suite
+Augmentez l'air conditionné 2 degrés tout de suite
+Baissez l'air conditionné 2 degrés tout de suite
+Diminuez l'air conditionné 2 degrés tout de suite
+Augmentez la clim 2 degrés tout de suite
+Baissez la clim 2 degrés tout de suite
+Diminuez la clim 2 degrés tout de suite
+Augmentez la température de l'air conditionné 2 degrés tout de suite
+Baissez la température de l'air conditionné 2 degrés tout de suite
+Diminuez la température de l'air conditionné 2 degrés tout de suite
+Augmentez la température 1 degré immédiatement
+Baissez la température 1 degré immédiatement
+Diminuez la température 1 degré immédiatement
+Augmentez la climatisation 1 degré immédiatement
+Baissez la climatisation 1 degré immédiatement
+Diminuez la climatisation 1 degré immédiatement
+Augmentez l'air conditionné 1 degré immédiatement
+Baissez l'air conditionné 1 degré immédiatement
+Diminuez l'air conditionné 1 degré immédiatement
+Augmentez la clim 1 degré immédiatement
+Baissez la clim 1 degré immédiatement
+Diminuez la clim 1 degré immédiatement
+Augmentez la température de l'air conditionné 1 degré immédiatement
+Baissez la température de l'air conditionné 1 degré immédiatement
+Diminuez la température de l'air conditionné 1 degré immédiatement
+Augmentez la température 2 degrés immédiatement
+Baissez la température 2 degrés immédiatement
+Diminuez la température 2 degrés immédiatement
+Augmentez la climatisation 2 degrés immédiatement
+Baissez la climatisation 2 degrés immédiatement
+Diminuez la climatisation 2 degrés immédiatement
+Augmentez l'air conditionné 2 degrés immédiatement
+Baissez l'air conditionné 2 degrés immédiatement
+Diminuez l'air conditionné 2 degrés immédiatement
+Augmentez la clim 2 degrés immédiatement
+Baissez la clim 2 degrés immédiatement
+Diminuez la clim 2 degrés immédiatement
+Augmentez la température de l'air conditionné 2 degrés immédiatement
+Baissez la température de l'air conditionné 2 degrés immédiatement
+Diminuez la température de l'air conditionné 2 degrés immédiatement
+Augmentez la température 1 degré pour moi
+Baissez la température 1 degré pour moi
+Diminuez la température 1 degré pour moi
+Augmentez la climatisation 1 degré pour moi
+Baissez la climatisation 1 degré pour moi
+Diminuez la climatisation 1 degré pour moi
+Augmentez l'air conditionné 1 degré pour moi
+Baissez l'air conditionné 1 degré pour moi
+Diminuez l'air conditionné 1 degré pour moi
+Augmentez la clim 1 degré pour moi
+Baissez la clim 1 degré pour moi
+Diminuez la clim 1 degré pour moi
+Augmentez la température de l'air conditionné 1 degré pour moi
+Baissez la température de l'air conditionné 1 degré pour moi
+Diminuez la température de l'air conditionné 1 degré pour moi
+Augmentez la température 2 degrés pour moi
+Baissez la température 2 degrés pour moi
+Diminuez la température 2 degrés pour moi
+Augmentez la climatisation 2 degrés pour moi
+Baissez la climatisation 2 degrés pour moi
+Diminuez la climatisation 2 degrés pour moi
+Augmentez l'air conditionné 2 degrés pour moi
+Baissez l'air conditionné 2 degrés pour moi
+Diminuez l'air conditionné 2 degrés pour moi
+Augmentez la clim 2 degrés pour moi
+Baissez la clim 2 degrés pour moi
+Diminuez la clim 2 degrés pour moi
+Augmentez la température de l'air conditionné 2 degrés pour moi
+Baissez la température de l'air conditionné 2 degrés pour moi
+Diminuez la température de l'air conditionné 2 degrés pour moi
+Augmentez la température 1 degré maintenant pour moi
+Baissez la température 1 degré maintenant pour moi
+Diminuez la température 1 degré maintenant pour moi
+Augmentez la climatisation 1 degré maintenant pour moi
+Baissez la climatisation 1 degré maintenant pour moi
+Diminuez la climatisation 1 degré maintenant pour moi
+Augmentez l'air conditionné 1 degré maintenant pour moi
+Baissez l'air conditionné 1 degré maintenant pour moi
+Diminuez l'air conditionné 1 degré maintenant pour moi
+Augmentez la clim 1 degré maintenant pour moi
+Baissez la clim 1 degré maintenant pour moi
+Diminuez la clim 1 degré maintenant pour moi
+Augmentez la température de l'air conditionné 1 degré maintenant pour moi
+Baissez la température de l'air conditionné 1 degré maintenant pour moi
+Diminuez la température de l'air conditionné 1 degré maintenant pour moi
+Augmentez la température 2 degrés maintenant pour moi
+Baissez la température 2 degrés maintenant pour moi
+Diminuez la température 2 degrés maintenant pour moi
+Augmentez la climatisation 2 degrés maintenant pour moi
+Baissez la climatisation 2 degrés maintenant pour moi
+Diminuez la climatisation 2 degrés maintenant pour moi
+Augmentez l'air conditionné 2 degrés maintenant pour moi
+Baissez l'air conditionné 2 degrés maintenant pour moi
+Diminuez l'air conditionné 2 degrés maintenant pour moi
+Augmentez la clim 2 degrés maintenant pour moi
+Baissez la clim 2 degrés maintenant pour moi
+Diminuez la clim 2 degrés maintenant pour moi
+Augmentez la température de l'air conditionné 2 degrés maintenant pour moi
+Baissez la température de l'air conditionné 2 degrés maintenant pour moi
+Diminuez la température de l'air conditionné 2 degrés maintenant pour moi
+Augmentez la température 1 degré tout de suite pour moi
+Baissez la température 1 degré tout de suite pour moi
+Diminuez la température 1 degré tout de suite pour moi
+Augmentez la climatisation 1 degré tout de suite pour moi
+Baissez la climatisation 1 degré tout de suite pour moi
+Diminuez la climatisation 1 degré tout de suite pour moi
+Augmentez l'air conditionné 1 degré tout de suite pour moi
+Baissez l'air conditionné 1 degré tout de suite pour moi
+Diminuez l'air conditionné 1 degré tout de suite pour moi
+Augmentez la clim 1 degré tout de suite pour moi
+Baissez la clim 1 degré tout de suite pour moi
+Diminuez la clim 1 degré tout de suite pour moi
+Augmentez la température de l'air conditionné 1 degré tout de suite pour moi
+Baissez la température de l'air conditionné 1 degré tout de suite pour moi
+Diminuez la température de l'air conditionné 1 degré tout de suite pour moi
+Augmentez la température 2 degrés tout de suite pour moi
+Baissez la température 2 degrés tout de suite pour moi
+Diminuez la température 2 degrés tout de suite pour moi
+Augmentez la climatisation 2 degrés tout de suite pour moi
+Baissez la climatisation 2 degrés tout de suite pour moi
+Diminuez la climatisation 2 degrés tout de suite pour moi
+Augmentez l'air conditionné 2 degrés tout de suite pour moi
+Baissez l'air conditionné 2 degrés tout de suite pour moi
+Diminuez l'air conditionné 2 degrés tout de suite pour moi
+Augmentez la clim 2 degrés tout de suite pour moi
+Baissez la clim 2 degrés tout de suite pour moi
+Diminuez la clim 2 degrés tout de suite pour moi
+Augmentez la température de l'air conditionné 2 degrés tout de suite pour moi
+Baissez la température de l'air conditionné 2 degrés tout de suite pour moi
+Diminuez la température de l'air conditionné 2 degrés tout de suite pour moi
+Augmentez la température 1 degré immédiatement pour moi
+Baissez la température 1 degré immédiatement pour moi
+Diminuez la température 1 degré immédiatement pour moi
+Augmentez la climatisation 1 degré immédiatement pour moi
+Baissez la climatisation 1 degré immédiatement pour moi
+Diminuez la climatisation 1 degré immédiatement pour moi
+Augmentez l'air conditionné 1 degré immédiatement pour moi
+Baissez l'air conditionné 1 degré immédiatement pour moi
+Diminuez l'air conditionné 1 degré immédiatement pour moi
+Augmentez la clim 1 degré immédiatement pour moi
+Baissez la clim 1 degré immédiatement pour moi
+Diminuez la clim 1 degré immédiatement pour moi
+Augmentez la température de l'air conditionné 1 degré immédiatement pour moi
+Baissez la température de l'air conditionné 1 degré immédiatement pour moi
+Diminuez la température de l'air conditionné 1 degré immédiatement pour moi
+Augmentez la température 2 degrés immédiatement pour moi
+Baissez la température 2 degrés immédiatement pour moi
+Diminuez la température 2 degrés immédiatement pour moi
+Augmentez la climatisation 2 degrés immédiatement pour moi
+Baissez la climatisation 2 degrés immédiatement pour moi
+Diminuez la climatisation 2 degrés immédiatement pour moi
+Augmentez l'air conditionné 2 degrés immédiatement pour moi
+Baissez l'air conditionné 2 degrés immédiatement pour moi
+Diminuez l'air conditionné 2 degrés immédiatement pour moi
+Augmentez la clim 2 degrés immédiatement pour moi
+Baissez la clim 2 degrés immédiatement pour moi
+Diminuez la clim 2 degrés immédiatement pour moi
+Augmentez la température de l'air conditionné 2 degrés immédiatement pour moi
+Baissez la température de l'air conditionné 2 degrés immédiatement pour moi
+Diminuez la température de l'air conditionné 2 degrés immédiatement pour moi
+Augmentez la température 1 degré s'il vous plaît
+Baissez la température 1 degré s'il vous plaît
+Diminuez la température 1 degré s'il vous plaît
+Augmentez la climatisation 1 degré s'il vous plaît
+Baissez la climatisation 1 degré s'il vous plaît
+Diminuez la climatisation 1 degré s'il vous plaît
+Augmentez l'air conditionné 1 degré s'il vous plaît
+Baissez l'air conditionné 1 degré s'il vous plaît
+Diminuez l'air conditionné 1 degré s'il vous plaît
+Augmentez la clim 1 degré s'il vous plaît
+Baissez la clim 1 degré s'il vous plaît
+Diminuez la clim 1 degré s'il vous plaît
+Augmentez la température de l'air conditionné 1 degré s'il vous plaît
+Baissez la température de l'air conditionné 1 degré s'il vous plaît
+Diminuez la température de l'air conditionné 1 degré s'il vous plaît
+Augmentez la température 2 degrés s'il vous plaît
+Baissez la température 2 degrés s'il vous plaît
+Diminuez la température 2 degrés s'il vous plaît
+Augmentez la climatisation 2 degrés s'il vous plaît
+Baissez la climatisation 2 degrés s'il vous plaît
+Diminuez la climatisation 2 degrés s'il vous plaît
+Augmentez l'air conditionné 2 degrés s'il vous plaît
+Baissez l'air conditionné 2 degrés s'il vous plaît
+Diminuez l'air conditionné 2 degrés s'il vous plaît
+Augmentez la clim 2 degrés s'il vous plaît
+Baissez la clim 2 degrés s'il vous plaît
+Diminuez la clim 2 degrés s'il vous plaît
+Augmentez la température de l'air conditionné 2 degrés s'il vous plaît
+Baissez la température de l'air conditionné 2 degrés s'il vous plaît
+Diminuez la température de l'air conditionné 2 degrés s'il vous plaît
+Augmentez la température 1 degré maintenant s'il vous plaît
+Baissez la température 1 degré maintenant s'il vous plaît
+Diminuez la température 1 degré maintenant s'il vous plaît
+Augmentez la climatisation 1 degré maintenant s'il vous plaît
+Baissez la climatisation 1 degré maintenant s'il vous plaît
+Diminuez la climatisation 1 degré maintenant s'il vous plaît
+Augmentez l'air conditionné 1 degré maintenant s'il vous plaît
+Baissez l'air conditionné 1 degré maintenant s'il vous plaît
+Diminuez l'air conditionné 1 degré maintenant s'il vous plaît
+Augmentez la clim 1 degré maintenant s'il vous plaît
+Baissez la clim 1 degré maintenant s'il vous plaît
+Diminuez la clim 1 degré maintenant s'il vous plaît
+Augmentez la température de l'air conditionné 1 degré maintenant s'il vous plaît
+Baissez la température de l'air conditionné 1 degré maintenant s'il vous plaît
+Diminuez la température de l'air conditionné 1 degré maintenant s'il vous plaît
+Augmentez la température 2 degrés maintenant s'il vous plaît
+Baissez la température 2 degrés maintenant s'il vous plaît
+Diminuez la température 2 degrés maintenant s'il vous plaît
+Augmentez la climatisation 2 degrés maintenant s'il vous plaît
+Baissez la climatisation 2 degrés maintenant s'il vous plaît
+Diminuez la climatisation 2 degrés maintenant s'il vous plaît
+Augmentez l'air conditionné 2 degrés maintenant s'il vous plaît
+Baissez l'air conditionné 2 degrés maintenant s'il vous plaît
+Diminuez l'air conditionné 2 degrés maintenant s'il vous plaît
+Augmentez la clim 2 degrés maintenant s'il vous plaît
+Baissez la clim 2 degrés maintenant s'il vous plaît
+Diminuez la clim 2 degrés maintenant s'il vous plaît
+Augmentez la température de l'air conditionné 2 degrés maintenant s'il vous plaît
+Baissez la température de l'air conditionné 2 degrés maintenant s'il vous plaît
+Diminuez la température de l'air conditionné 2 degrés maintenant s'il vous plaît
+Augmentez la température 1 degré tout de suite s'il vous plaît
+Baissez la température 1 degré tout de suite s'il vous plaît
+Diminuez la température 1 degré tout de suite s'il vous plaît
+Augmentez la climatisation 1 degré tout de suite s'il vous plaît
+Baissez la climatisation 1 degré tout de suite s'il vous plaît
+Diminuez la climatisation 1 degré tout de suite s'il vous plaît
+Augmentez l'air conditionné 1 degré tout de suite s'il vous plaît
+Baissez l'air conditionné 1 degré tout de suite s'il vous plaît
+Diminuez l'air conditionné 1 degré tout de suite s'il vous plaît
+Augmentez la clim 1 degré tout de suite s'il vous plaît
+Baissez la clim 1 degré tout de suite s'il vous plaît
+Diminuez la clim 1 degré tout de suite s'il vous plaît
+Augmentez la température de l'air conditionné 1 degré tout de suite s'il vous plaît
+Baissez la température de l'air conditionné 1 degré tout de suite s'il vous plaît
+Diminuez la température de l'air conditionné 1 degré tout de suite s'il vous plaît
+Augmentez la température 2 degrés tout de suite s'il vous plaît
+Baissez la température 2 degrés tout de suite s'il vous plaît
+Diminuez la température 2 degrés tout de suite s'il vous plaît
+Augmentez la climatisation 2 degrés tout de suite s'il vous plaît
+Baissez la climatisation 2 degrés tout de suite s'il vous plaît
+Diminuez la climatisation 2 degrés tout de suite s'il vous plaît
+Augmentez l'air conditionné 2 degrés tout de suite s'il vous plaît
+Baissez l'air conditionné 2 degrés tout de suite s'il vous plaît
+Diminuez l'air conditionné 2 degrés tout de suite s'il vous plaît
+Augmentez la clim 2 degrés tout de suite s'il vous plaît
+Baissez la clim 2 degrés tout de suite s'il vous plaît
+Diminuez la clim 2 degrés tout de suite s'il vous plaît
+Augmentez la température de l'air conditionné 2 degrés tout de suite s'il vous plaît
+Baissez la température de l'air conditionné 2 degrés tout de suite s'il vous plaît
+Diminuez la température de l'air conditionné 2 degrés tout de suite s'il vous plaît
+Augmentez la température 1 degré immédiatement s'il vous plaît
+Baissez la température 1 degré immédiatement s'il vous plaît
+Diminuez la température 1 degré immédiatement s'il vous plaît
+Augmentez la climatisation 1 degré immédiatement s'il vous plaît
+Baissez la climatisation 1 degré immédiatement s'il vous plaît
+Diminuez la climatisation 1 degré immédiatement s'il vous plaît
+Augmentez l'air conditionné 1 degré immédiatement s'il vous plaît
+Baissez l'air conditionné 1 degré immédiatement s'il vous plaît
+Diminuez l'air conditionné 1 degré immédiatement s'il vous plaît
+Augmentez la clim 1 degré immédiatement s'il vous plaît
+Baissez la clim 1 degré immédiatement s'il vous plaît
+Diminuez la clim 1 degré immédiatement s'il vous plaît
+Augmentez la température de l'air conditionné 1 degré immédiatement s'il vous plaît
+Baissez la température de l'air conditionné 1 degré immédiatement s'il vous plaît
+Diminuez la température de l'air conditionné 1 degré immédiatement s'il vous plaît
+Augmentez la température 2 degrés immédiatement s'il vous plaît
+Baissez la température 2 degrés immédiatement s'il vous plaît
+Diminuez la température 2 degrés immédiatement s'il vous plaît
+Augmentez la climatisation 2 degrés immédiatement s'il vous plaît
+Baissez la climatisation 2 degrés immédiatement s'il vous plaît
+Diminuez la climatisation 2 degrés immédiatement s'il vous plaît
+Augmentez l'air conditionné 2 degrés immédiatement s'il vous plaît
+Baissez l'air conditionné 2 degrés immédiatement s'il vous plaît
+Diminuez l'air conditionné 2 degrés immédiatement s'il vous plaît
+Augmentez la clim 2 degrés immédiatement s'il vous plaît
+Baissez la clim 2 degrés immédiatement s'il vous plaît
+Diminuez la clim 2 degrés immédiatement s'il vous plaît
+Augmentez la température de l'air conditionné 2 degrés immédiatement s'il vous plaît
+Baissez la température de l'air conditionné 2 degrés immédiatement s'il vous plaît
+Diminuez la température de l'air conditionné 2 degrés immédiatement s'il vous plaît

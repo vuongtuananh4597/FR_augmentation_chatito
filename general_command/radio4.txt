@@ -1,0 +1,612 @@
+Ouvre la radio FM
+Allume la radio FM
+Active la radio FM
+Ouvre la radio FM 106.3 MHz
+Allume la radio FM 106.3 MHz
+Active la radio FM 106.3 MHz
+Ouvre la radio FM 96 MHz
+Allume la radio FM 96 MHz
+Active la radio FM 96 MHz
+Ouvre la radio FM 106.7 MHz
+Allume la radio FM 106.7 MHz
+Active la radio FM 106.7 MHz
+Ouvre la radio FM 96.4 MHz
+Allume la radio FM 96.4 MHz
+Active la radio FM 96.4 MHz
+Ouvre la station 107.1 MHz
+Allume la station 107.1 MHz
+Active la station 107.1 MHz
+Ouvre la station 96.9 MHz
+Allume la station 96.9 MHz
+Active la station 96.9 MHz
+Ouvre la station 107.5 MHz
+Allume la station 107.5 MHz
+Active la station 107.5 MHz
+Ouvre la station 97.4 MHz
+Allume la station 97.4 MHz
+Active la station 97.4 MHz
+Ouvre FM 90.4 MHz
+Allume FM 90.4 MHz
+Active FM 90.4 MHz
+Ouvre FM 100.7 MHz
+Allume FM 100.7 MHz
+Active FM 100.7 MHz
+Ouvre FM 91.3 MHz
+Allume FM 91.3 MHz
+Active FM 91.3 MHz
+Ouvre FM 101.1 MHz
+Allume FM 101.1 MHz
+Active FM 101.1 MHz
+Ouvre la radio à 91.7 MHz
+Allume la radio à 91.7 MHz
+Active la radio à 91.7 MHz
+Ouvre la radio à 92.1 MHz
+Allume la radio à 92.1 MHz
+Active la radio à 92.1 MHz
+Ouvre la radio à 101.9 MHz
+Allume la radio à 101.9 MHz
+Active la radio à 101.9 MHz
+Ouvre la radio à 103.9 MHz
+Allume la radio à 103.9 MHz
+Active la radio à 103.9 MHz
+Ouvre la radio FM maintenant
+Allume la radio FM maintenant
+Active la radio FM maintenant
+Ouvre la radio FM 106.3 MHz maintenant
+Allume la radio FM 106.3 MHz maintenant
+Active la radio FM 106.3 MHz maintenant
+Ouvre la radio FM 96 MHz maintenant
+Allume la radio FM 96 MHz maintenant
+Active la radio FM 96 MHz maintenant
+Ouvre la radio FM 106.7 MHz maintenant
+Allume la radio FM 106.7 MHz maintenant
+Active la radio FM 106.7 MHz maintenant
+Ouvre la radio FM 96.4 MHz maintenant
+Allume la radio FM 96.4 MHz maintenant
+Active la radio FM 96.4 MHz maintenant
+Ouvre la station 107.1 MHz maintenant
+Allume la station 107.1 MHz maintenant
+Active la station 107.1 MHz maintenant
+Ouvre la station 96.9 MHz maintenant
+Allume la station 96.9 MHz maintenant
+Active la station 96.9 MHz maintenant
+Ouvre la station 107.5 MHz maintenant
+Allume la station 107.5 MHz maintenant
+Active la station 107.5 MHz maintenant
+Ouvre la station 97.4 MHz maintenant
+Allume la station 97.4 MHz maintenant
+Active la station 97.4 MHz maintenant
+Ouvre FM 90.4 MHz maintenant
+Allume FM 90.4 MHz maintenant
+Active FM 90.4 MHz maintenant
+Ouvre FM 100.7 MHz maintenant
+Allume FM 100.7 MHz maintenant
+Active FM 100.7 MHz maintenant
+Ouvre FM 91.3 MHz maintenant
+Allume FM 91.3 MHz maintenant
+Active FM 91.3 MHz maintenant
+Ouvre FM 101.1 MHz maintenant
+Allume FM 101.1 MHz maintenant
+Active FM 101.1 MHz maintenant
+Ouvre la radio à 91.7 MHz maintenant
+Allume la radio à 91.7 MHz maintenant
+Active la radio à 91.7 MHz maintenant
+Ouvre la radio à 92.1 MHz maintenant
+Allume la radio à 92.1 MHz maintenant
+Active la radio à 92.1 MHz maintenant
+Ouvre la radio à 101.9 MHz maintenant
+Allume la radio à 101.9 MHz maintenant
+Active la radio à 101.9 MHz maintenant
+Ouvre la radio à 103.9 MHz maintenant
+Allume la radio à 103.9 MHz maintenant
+Active la radio à 103.9 MHz maintenant
+Ouvre la radio FM tout de suite
+Allume la radio FM tout de suite
+Active la radio FM tout de suite
+Ouvre la radio FM 106.3 MHz tout de suite
+Allume la radio FM 106.3 MHz tout de suite
+Active la radio FM 106.3 MHz tout de suite
+Ouvre la radio FM 96 MHz tout de suite
+Allume la radio FM 96 MHz tout de suite
+Active la radio FM 96 MHz tout de suite
+Ouvre la radio FM 106.7 MHz tout de suite
+Allume la radio FM 106.7 MHz tout de suite
+Active la radio FM 106.7 MHz tout de suite
+Ouvre la radio FM 96.4 MHz tout de suite
+Allume la radio FM 96.4 MHz tout de suite
+Active la radio FM 96.4 MHz tout de suite
+Ouvre la station 107.1 MHz tout de suite
+Allume la station 107.1 MHz tout de suite
+Active la station 107.1 MHz tout de suite
+Ouvre la station 96.9 MHz tout de suite
+Allume la station 96.9 MHz tout de suite
+Active la station 96.9 MHz tout de suite
+Ouvre la station 107.5 MHz tout de suite
+Allume la station 107.5 MHz tout de suite
+Active la station 107.5 MHz tout de suite
+Ouvre la station 97.4 MHz tout de suite
+Allume la station 97.4 MHz tout de suite
+Active la station 97.4 MHz tout de suite
+Ouvre FM 90.4 MHz tout de suite
+Allume FM 90.4 MHz tout de suite
+Active FM 90.4 MHz tout de suite
+Ouvre FM 100.7 MHz tout de suite
+Allume FM 100.7 MHz tout de suite
+Active FM 100.7 MHz tout de suite
+Ouvre FM 91.3 MHz tout de suite
+Allume FM 91.3 MHz tout de suite
+Active FM 91.3 MHz tout de suite
+Ouvre FM 101.1 MHz tout de suite
+Allume FM 101.1 MHz tout de suite
+Active FM 101.1 MHz tout de suite
+Ouvre la radio à 91.7 MHz tout de suite
+Allume la radio à 91.7 MHz tout de suite
+Active la radio à 91.7 MHz tout de suite
+Ouvre la radio à 92.1 MHz tout de suite
+Allume la radio à 92.1 MHz tout de suite
+Active la radio à 92.1 MHz tout de suite
+Ouvre la radio à 101.9 MHz tout de suite
+Allume la radio à 101.9 MHz tout de suite
+Active la radio à 101.9 MHz tout de suite
+Ouvre la radio à 103.9 MHz tout de suite
+Allume la radio à 103.9 MHz tout de suite
+Active la radio à 103.9 MHz tout de suite
+Ouvre la radio FM immédiatement
+Allume la radio FM immédiatement
+Active la radio FM immédiatement
+Ouvre la radio FM 106.3 MHz immédiatement
+Allume la radio FM 106.3 MHz immédiatement
+Active la radio FM 106.3 MHz immédiatement
+Ouvre la radio FM 96 MHz immédiatement
+Allume la radio FM 96 MHz immédiatement
+Active la radio FM 96 MHz immédiatement
+Ouvre la radio FM 106.7 MHz immédiatement
+Allume la radio FM 106.7 MHz immédiatement
+Active la radio FM 106.7 MHz immédiatement
+Ouvre la radio FM 96.4 MHz immédiatement
+Allume la radio FM 96.4 MHz immédiatement
+Active la radio FM 96.4 MHz immédiatement
+Ouvre la station 107.1 MHz immédiatement
+Allume la station 107.1 MHz immédiatement
+Active la station 107.1 MHz immédiatement
+Ouvre la station 96.9 MHz immédiatement
+Allume la station 96.9 MHz immédiatement
+Active la station 96.9 MHz immédiatement
+Ouvre la station 107.5 MHz immédiatement
+Allume la station 107.5 MHz immédiatement
+Active la station 107.5 MHz immédiatement
+Ouvre la station 97.4 MHz immédiatement
+Allume la station 97.4 MHz immédiatement
+Active la station 97.4 MHz immédiatement
+Ouvre FM 90.4 MHz immédiatement
+Allume FM 90.4 MHz immédiatement
+Active FM 90.4 MHz immédiatement
+Ouvre FM 100.7 MHz immédiatement
+Allume FM 100.7 MHz immédiatement
+Active FM 100.7 MHz immédiatement
+Ouvre FM 91.3 MHz immédiatement
+Allume FM 91.3 MHz immédiatement
+Active FM 91.3 MHz immédiatement
+Ouvre FM 101.1 MHz immédiatement
+Allume FM 101.1 MHz immédiatement
+Active FM 101.1 MHz immédiatement
+Ouvre la radio à 91.7 MHz immédiatement
+Allume la radio à 91.7 MHz immédiatement
+Active la radio à 91.7 MHz immédiatement
+Ouvre la radio à 92.1 MHz immédiatement
+Allume la radio à 92.1 MHz immédiatement
+Active la radio à 92.1 MHz immédiatement
+Ouvre la radio à 101.9 MHz immédiatement
+Allume la radio à 101.9 MHz immédiatement
+Active la radio à 101.9 MHz immédiatement
+Ouvre la radio à 103.9 MHz immédiatement
+Allume la radio à 103.9 MHz immédiatement
+Active la radio à 103.9 MHz immédiatement
+Ouvre la radio FM pour moi
+Allume la radio FM pour moi
+Active la radio FM pour moi
+Ouvre la radio FM 106.3 MHz pour moi
+Allume la radio FM 106.3 MHz pour moi
+Active la radio FM 106.3 MHz pour moi
+Ouvre la radio FM 96 MHz pour moi
+Allume la radio FM 96 MHz pour moi
+Active la radio FM 96 MHz pour moi
+Ouvre la radio FM 106.7 MHz pour moi
+Allume la radio FM 106.7 MHz pour moi
+Active la radio FM 106.7 MHz pour moi
+Ouvre la radio FM 96.4 MHz pour moi
+Allume la radio FM 96.4 MHz pour moi
+Active la radio FM 96.4 MHz pour moi
+Ouvre la station 107.1 MHz pour moi
+Allume la station 107.1 MHz pour moi
+Active la station 107.1 MHz pour moi
+Ouvre la station 96.9 MHz pour moi
+Allume la station 96.9 MHz pour moi
+Active la station 96.9 MHz pour moi
+Ouvre la station 107.5 MHz pour moi
+Allume la station 107.5 MHz pour moi
+Active la station 107.5 MHz pour moi
+Ouvre la station 97.4 MHz pour moi
+Allume la station 97.4 MHz pour moi
+Active la station 97.4 MHz pour moi
+Ouvre FM 90.4 MHz pour moi
+Allume FM 90.4 MHz pour moi
+Active FM 90.4 MHz pour moi
+Ouvre FM 100.7 MHz pour moi
+Allume FM 100.7 MHz pour moi
+Active FM 100.7 MHz pour moi
+Ouvre FM 91.3 MHz pour moi
+Allume FM 91.3 MHz pour moi
+Active FM 91.3 MHz pour moi
+Ouvre FM 101.1 MHz pour moi
+Allume FM 101.1 MHz pour moi
+Active FM 101.1 MHz pour moi
+Ouvre la radio à 91.7 MHz pour moi
+Allume la radio à 91.7 MHz pour moi
+Active la radio à 91.7 MHz pour moi
+Ouvre la radio à 92.1 MHz pour moi
+Allume la radio à 92.1 MHz pour moi
+Active la radio à 92.1 MHz pour moi
+Ouvre la radio à 101.9 MHz pour moi
+Allume la radio à 101.9 MHz pour moi
+Active la radio à 101.9 MHz pour moi
+Ouvre la radio à 103.9 MHz pour moi
+Allume la radio à 103.9 MHz pour moi
+Active la radio à 103.9 MHz pour moi
+Ouvre la radio FM maintenant pour moi
+Allume la radio FM maintenant pour moi
+Active la radio FM maintenant pour moi
+Ouvre la radio FM 106.3 MHz maintenant pour moi
+Allume la radio FM 106.3 MHz maintenant pour moi
+Active la radio FM 106.3 MHz maintenant pour moi
+Ouvre la radio FM 96 MHz maintenant pour moi
+Allume la radio FM 96 MHz maintenant pour moi
+Active la radio FM 96 MHz maintenant pour moi
+Ouvre la radio FM 106.7 MHz maintenant pour moi
+Allume la radio FM 106.7 MHz maintenant pour moi
+Active la radio FM 106.7 MHz maintenant pour moi
+Ouvre la radio FM 96.4 MHz maintenant pour moi
+Allume la radio FM 96.4 MHz maintenant pour moi
+Active la radio FM 96.4 MHz maintenant pour moi
+Ouvre la station 107.1 MHz maintenant pour moi
+Allume la station 107.1 MHz maintenant pour moi
+Active la station 107.1 MHz maintenant pour moi
+Ouvre la station 96.9 MHz maintenant pour moi
+Allume la station 96.9 MHz maintenant pour moi
+Active la station 96.9 MHz maintenant pour moi
+Ouvre la station 107.5 MHz maintenant pour moi
+Allume la station 107.5 MHz maintenant pour moi
+Active la station 107.5 MHz maintenant pour moi
+Ouvre la station 97.4 MHz maintenant pour moi
+Allume la station 97.4 MHz maintenant pour moi
+Active la station 97.4 MHz maintenant pour moi
+Ouvre FM 90.4 MHz maintenant pour moi
+Allume FM 90.4 MHz maintenant pour moi
+Active FM 90.4 MHz maintenant pour moi
+Ouvre FM 100.7 MHz maintenant pour moi
+Allume FM 100.7 MHz maintenant pour moi
+Active FM 100.7 MHz maintenant pour moi
+Ouvre FM 91.3 MHz maintenant pour moi
+Allume FM 91.3 MHz maintenant pour moi
+Active FM 91.3 MHz maintenant pour moi
+Ouvre FM 101.1 MHz maintenant pour moi
+Allume FM 101.1 MHz maintenant pour moi
+Active FM 101.1 MHz maintenant pour moi
+Ouvre la radio à 91.7 MHz maintenant pour moi
+Allume la radio à 91.7 MHz maintenant pour moi
+Active la radio à 91.7 MHz maintenant pour moi
+Ouvre la radio à 92.1 MHz maintenant pour moi
+Allume la radio à 92.1 MHz maintenant pour moi
+Active la radio à 92.1 MHz maintenant pour moi
+Ouvre la radio à 101.9 MHz maintenant pour moi
+Allume la radio à 101.9 MHz maintenant pour moi
+Active la radio à 101.9 MHz maintenant pour moi
+Ouvre la radio à 103.9 MHz maintenant pour moi
+Allume la radio à 103.9 MHz maintenant pour moi
+Active la radio à 103.9 MHz maintenant pour moi
+Ouvre la radio FM tout de suite pour moi
+Allume la radio FM tout de suite pour moi
+Active la radio FM tout de suite pour moi
+Ouvre la radio FM 106.3 MHz tout de suite pour moi
+Allume la radio FM 106.3 MHz tout de suite pour moi
+Active la radio FM 106.3 MHz tout de suite pour moi
+Ouvre la radio FM 96 MHz tout de suite pour moi
+Allume la radio FM 96 MHz tout de suite pour moi
+Active la radio FM 96 MHz tout de suite pour moi
+Ouvre la radio FM 106.7 MHz tout de suite pour moi
+Allume la radio FM 106.7 MHz tout de suite pour moi
+Active la radio FM 106.7 MHz tout de suite pour moi
+Ouvre la radio FM 96.4 MHz tout de suite pour moi
+Allume la radio FM 96.4 MHz tout de suite pour moi
+Active la radio FM 96.4 MHz tout de suite pour moi
+Ouvre la station 107.1 MHz tout de suite pour moi
+Allume la station 107.1 MHz tout de suite pour moi
+Active la station 107.1 MHz tout de suite pour moi
+Ouvre la station 96.9 MHz tout de suite pour moi
+Allume la station 96.9 MHz tout de suite pour moi
+Active la station 96.9 MHz tout de suite pour moi
+Ouvre la station 107.5 MHz tout de suite pour moi
+Allume la station 107.5 MHz tout de suite pour moi
+Active la station 107.5 MHz tout de suite pour moi
+Ouvre la station 97.4 MHz tout de suite pour moi
+Allume la station 97.4 MHz tout de suite pour moi
+Active la station 97.4 MHz tout de suite pour moi
+Ouvre FM 90.4 MHz tout de suite pour moi
+Allume FM 90.4 MHz tout de suite pour moi
+Active FM 90.4 MHz tout de suite pour moi
+Ouvre FM 100.7 MHz tout de suite pour moi
+Allume FM 100.7 MHz tout de suite pour moi
+Active FM 100.7 MHz tout de suite pour moi
+Ouvre FM 91.3 MHz tout de suite pour moi
+Allume FM 91.3 MHz tout de suite pour moi
+Active FM 91.3 MHz tout de suite pour moi
+Ouvre FM 101.1 MHz tout de suite pour moi
+Allume FM 101.1 MHz tout de suite pour moi
+Active FM 101.1 MHz tout de suite pour moi
+Ouvre la radio à 91.7 MHz tout de suite pour moi
+Allume la radio à 91.7 MHz tout de suite pour moi
+Active la radio à 91.7 MHz tout de suite pour moi
+Ouvre la radio à 92.1 MHz tout de suite pour moi
+Allume la radio à 92.1 MHz tout de suite pour moi
+Active la radio à 92.1 MHz tout de suite pour moi
+Ouvre la radio à 101.9 MHz tout de suite pour moi
+Allume la radio à 101.9 MHz tout de suite pour moi
+Active la radio à 101.9 MHz tout de suite pour moi
+Ouvre la radio à 103.9 MHz tout de suite pour moi
+Allume la radio à 103.9 MHz tout de suite pour moi
+Active la radio à 103.9 MHz tout de suite pour moi
+Ouvre la radio FM immédiatement pour moi
+Allume la radio FM immédiatement pour moi
+Active la radio FM immédiatement pour moi
+Ouvre la radio FM 106.3 MHz immédiatement pour moi
+Allume la radio FM 106.3 MHz immédiatement pour moi
+Active la radio FM 106.3 MHz immédiatement pour moi
+Ouvre la radio FM 96 MHz immédiatement pour moi
+Allume la radio FM 96 MHz immédiatement pour moi
+Active la radio FM 96 MHz immédiatement pour moi
+Ouvre la radio FM 106.7 MHz immédiatement pour moi
+Allume la radio FM 106.7 MHz immédiatement pour moi
+Active la radio FM 106.7 MHz immédiatement pour moi
+Ouvre la radio FM 96.4 MHz immédiatement pour moi
+Allume la radio FM 96.4 MHz immédiatement pour moi
+Active la radio FM 96.4 MHz immédiatement pour moi
+Ouvre la station 107.1 MHz immédiatement pour moi
+Allume la station 107.1 MHz immédiatement pour moi
+Active la station 107.1 MHz immédiatement pour moi
+Ouvre la station 96.9 MHz immédiatement pour moi
+Allume la station 96.9 MHz immédiatement pour moi
+Active la station 96.9 MHz immédiatement pour moi
+Ouvre la station 107.5 MHz immédiatement pour moi
+Allume la station 107.5 MHz immédiatement pour moi
+Active la station 107.5 MHz immédiatement pour moi
+Ouvre la station 97.4 MHz immédiatement pour moi
+Allume la station 97.4 MHz immédiatement pour moi
+Active la station 97.4 MHz immédiatement pour moi
+Ouvre FM 90.4 MHz immédiatement pour moi
+Allume FM 90.4 MHz immédiatement pour moi
+Active FM 90.4 MHz immédiatement pour moi
+Ouvre FM 100.7 MHz immédiatement pour moi
+Allume FM 100.7 MHz immédiatement pour moi
+Active FM 100.7 MHz immédiatement pour moi
+Ouvre FM 91.3 MHz immédiatement pour moi
+Allume FM 91.3 MHz immédiatement pour moi
+Active FM 91.3 MHz immédiatement pour moi
+Ouvre FM 101.1 MHz immédiatement pour moi
+Allume FM 101.1 MHz immédiatement pour moi
+Active FM 101.1 MHz immédiatement pour moi
+Ouvre la radio à 91.7 MHz immédiatement pour moi
+Allume la radio à 91.7 MHz immédiatement pour moi
+Active la radio à 91.7 MHz immédiatement pour moi
+Ouvre la radio à 92.1 MHz immédiatement pour moi
+Allume la radio à 92.1 MHz immédiatement pour moi
+Active la radio à 92.1 MHz immédiatement pour moi
+Ouvre la radio à 101.9 MHz immédiatement pour moi
+Allume la radio à 101.9 MHz immédiatement pour moi
+Active la radio à 101.9 MHz immédiatement pour moi
+Ouvre la radio à 103.9 MHz immédiatement pour moi
+Allume la radio à 103.9 MHz immédiatement pour moi
+Active la radio à 103.9 MHz immédiatement pour moi
+Ouvre la radio FM s'il te plaît
+Allume la radio FM s'il te plaît
+Active la radio FM s'il te plaît
+Ouvre la radio FM 106.3 MHz s'il te plaît
+Allume la radio FM 106.3 MHz s'il te plaît
+Active la radio FM 106.3 MHz s'il te plaît
+Ouvre la radio FM 96 MHz s'il te plaît
+Allume la radio FM 96 MHz s'il te plaît
+Active la radio FM 96 MHz s'il te plaît
+Ouvre la radio FM 106.7 MHz s'il te plaît
+Allume la radio FM 106.7 MHz s'il te plaît
+Active la radio FM 106.7 MHz s'il te plaît
+Ouvre la radio FM 96.4 MHz s'il te plaît
+Allume la radio FM 96.4 MHz s'il te plaît
+Active la radio FM 96.4 MHz s'il te plaît
+Ouvre la station 107.1 MHz s'il te plaît
+Allume la station 107.1 MHz s'il te plaît
+Active la station 107.1 MHz s'il te plaît
+Ouvre la station 96.9 MHz s'il te plaît
+Allume la station 96.9 MHz s'il te plaît
+Active la station 96.9 MHz s'il te plaît
+Ouvre la station 107.5 MHz s'il te plaît
+Allume la station 107.5 MHz s'il te plaît
+Active la station 107.5 MHz s'il te plaît
+Ouvre la station 97.4 MHz s'il te plaît
+Allume la station 97.4 MHz s'il te plaît
+Active la station 97.4 MHz s'il te plaît
+Ouvre FM 90.4 MHz s'il te plaît
+Allume FM 90.4 MHz s'il te plaît
+Active FM 90.4 MHz s'il te plaît
+Ouvre FM 100.7 MHz s'il te plaît
+Allume FM 100.7 MHz s'il te plaît
+Active FM 100.7 MHz s'il te plaît
+Ouvre FM 91.3 MHz s'il te plaît
+Allume FM 91.3 MHz s'il te plaît
+Active FM 91.3 MHz s'il te plaît
+Ouvre FM 101.1 MHz s'il te plaît
+Allume FM 101.1 MHz s'il te plaît
+Active FM 101.1 MHz s'il te plaît
+Ouvre la radio à 91.7 MHz s'il te plaît
+Allume la radio à 91.7 MHz s'il te plaît
+Active la radio à 91.7 MHz s'il te plaît
+Ouvre la radio à 92.1 MHz s'il te plaît
+Allume la radio à 92.1 MHz s'il te plaît
+Active la radio à 92.1 MHz s'il te plaît
+Ouvre la radio à 101.9 MHz s'il te plaît
+Allume la radio à 101.9 MHz s'il te plaît
+Active la radio à 101.9 MHz s'il te plaît
+Ouvre la radio à 103.9 MHz s'il te plaît
+Allume la radio à 103.9 MHz s'il te plaît
+Active la radio à 103.9 MHz s'il te plaît
+Ouvre la radio FM maintenant s'il te plaît
+Allume la radio FM maintenant s'il te plaît
+Active la radio FM maintenant s'il te plaît
+Ouvre la radio FM 106.3 MHz maintenant s'il te plaît
+Allume la radio FM 106.3 MHz maintenant s'il te plaît
+Active la radio FM 106.3 MHz maintenant s'il te plaît
+Ouvre la radio FM 96 MHz maintenant s'il te plaît
+Allume la radio FM 96 MHz maintenant s'il te plaît
+Active la radio FM 96 MHz maintenant s'il te plaît
+Ouvre la radio FM 106.7 MHz maintenant s'il te plaît
+Allume la radio FM 106.7 MHz maintenant s'il te plaît
+Active la radio FM 106.7 MHz maintenant s'il te plaît
+Ouvre la radio FM 96.4 MHz maintenant s'il te plaît
+Allume la radio FM 96.4 MHz maintenant s'il te plaît
+Active la radio FM 96.4 MHz maintenant s'il te plaît
+Ouvre la station 107.1 MHz maintenant s'il te plaît
+Allume la station 107.1 MHz maintenant s'il te plaît
+Active la station 107.1 MHz maintenant s'il te plaît
+Ouvre la station 96.9 MHz maintenant s'il te plaît
+Allume la station 96.9 MHz maintenant s'il te plaît
+Active la station 96.9 MHz maintenant s'il te plaît
+Ouvre la station 107.5 MHz maintenant s'il te plaît
+Allume la station 107.5 MHz maintenant s'il te plaît
+Active la station 107.5 MHz maintenant s'il te plaît
+Ouvre la station 97.4 MHz maintenant s'il te plaît
+Allume la station 97.4 MHz maintenant s'il te plaît
+Active la station 97.4 MHz maintenant s'il te plaît
+Ouvre FM 90.4 MHz maintenant s'il te plaît
+Allume FM 90.4 MHz maintenant s'il te plaît
+Active FM 90.4 MHz maintenant s'il te plaît
+Ouvre FM 100.7 MHz maintenant s'il te plaît
+Allume FM 100.7 MHz maintenant s'il te plaît
+Active FM 100.7 MHz maintenant s'il te plaît
+Ouvre FM 91.3 MHz maintenant s'il te plaît
+Allume FM 91.3 MHz maintenant s'il te plaît
+Active FM 91.3 MHz maintenant s'il te plaît
+Ouvre FM 101.1 MHz maintenant s'il te plaît
+Allume FM 101.1 MHz maintenant s'il te plaît
+Active FM 101.1 MHz maintenant s'il te plaît
+Ouvre la radio à 91.7 MHz maintenant s'il te plaît
+Allume la radio à 91.7 MHz maintenant s'il te plaît
+Active la radio à 91.7 MHz maintenant s'il te plaît
+Ouvre la radio à 92.1 MHz maintenant s'il te plaît
+Allume la radio à 92.1 MHz maintenant s'il te plaît
+Active la radio à 92.1 MHz maintenant s'il te plaît
+Ouvre la radio à 101.9 MHz maintenant s'il te plaît
+Allume la radio à 101.9 MHz maintenant s'il te plaît
+Active la radio à 101.9 MHz maintenant s'il te plaît
+Ouvre la radio à 103.9 MHz maintenant s'il te plaît
+Allume la radio à 103.9 MHz maintenant s'il te plaît
+Active la radio à 103.9 MHz maintenant s'il te plaît
+Ouvre la radio FM tout de suite s'il te plaît
+Allume la radio FM tout de suite s'il te plaît
+Active la radio FM tout de suite s'il te plaît
+Ouvre la radio FM 106.3 MHz tout de suite s'il te plaît
+Allume la radio FM 106.3 MHz tout de suite s'il te plaît
+Active la radio FM 106.3 MHz tout de suite s'il te plaît
+Ouvre la radio FM 96 MHz tout de suite s'il te plaît
+Allume la radio FM 96 MHz tout de suite s'il te plaît
+Active la radio FM 96 MHz tout de suite s'il te plaît
+Ouvre la radio FM 106.7 MHz tout de suite s'il te plaît
+Allume la radio FM 106.7 MHz tout de suite s'il te plaît
+Active la radio FM 106.7 MHz tout de suite s'il te plaît
+Ouvre la radio FM 96.4 MHz tout de suite s'il te plaît
+Allume la radio FM 96.4 MHz tout de suite s'il te plaît
+Active la radio FM 96.4 MHz tout de suite s'il te plaît
+Ouvre la station 107.1 MHz tout de suite s'il te plaît
+Allume la station 107.1 MHz tout de suite s'il te plaît
+Active la station 107.1 MHz tout de suite s'il te plaît
+Ouvre la station 96.9 MHz tout de suite s'il te plaît
+Allume la station 96.9 MHz tout de suite s'il te plaît
+Active la station 96.9 MHz tout de suite s'il te plaît
+Ouvre la station 107.5 MHz tout de suite s'il te plaît
+Allume la station 107.5 MHz tout de suite s'il te plaît
+Active la station 107.5 MHz tout de suite s'il te plaît
+Ouvre la station 97.4 MHz tout de suite s'il te plaît
+Allume la station 97.4 MHz tout de suite s'il te plaît
+Active la station 97.4 MHz tout de suite s'il te plaît
+Ouvre FM 90.4 MHz tout de suite s'il te plaît
+Allume FM 90.4 MHz tout de suite s'il te plaît
+Active FM 90.4 MHz tout de suite s'il te plaît
+Ouvre FM 100.7 MHz tout de suite s'il te plaît
+Allume FM 100.7 MHz tout de suite s'il te plaît
+Active FM 100.7 MHz tout de suite s'il te plaît
+Ouvre FM 91.3 MHz tout de suite s'il te plaît
+Allume FM 91.3 MHz tout de suite s'il te plaît
+Active FM 91.3 MHz tout de suite s'il te plaît
+Ouvre FM 101.1 MHz tout de suite s'il te plaît
+Allume FM 101.1 MHz tout de suite s'il te plaît
+Active FM 101.1 MHz tout de suite s'il te plaît
+Ouvre la radio à 91.7 MHz tout de suite s'il te plaît
+Allume la radio à 91.7 MHz tout de suite s'il te plaît
+Active la radio à 91.7 MHz tout de suite s'il te plaît
+Ouvre la radio à 92.1 MHz tout de suite s'il te plaît
+Allume la radio à 92.1 MHz tout de suite s'il te plaît
+Active la radio à 92.1 MHz tout de suite s'il te plaît
+Ouvre la radio à 101.9 MHz tout de suite s'il te plaît
+Allume la radio à 101.9 MHz tout de suite s'il te plaît
+Active la radio à 101.9 MHz tout de suite s'il te plaît
+Ouvre la radio à 103.9 MHz tout de suite s'il te plaît
+Allume la radio à 103.9 MHz tout de suite s'il te plaît
+Active la radio à 103.9 MHz tout de suite s'il te plaît
+Ouvre la radio FM immédiatement s'il te plaît
+Allume la radio FM immédiatement s'il te plaît
+Active la radio FM immédiatement s'il te plaît
+Ouvre la radio FM 106.3 MHz immédiatement s'il te plaît
+Allume la radio FM 106.3 MHz immédiatement s'il te plaît
+Active la radio FM 106.3 MHz immédiatement s'il te plaît
+Ouvre la radio FM 96 MHz immédiatement s'il te plaît
+Allume la radio FM 96 MHz immédiatement s'il te plaît
+Active la radio FM 96 MHz immédiatement s'il te plaît
+Ouvre la radio FM 106.7 MHz immédiatement s'il te plaît
+Allume la radio FM 106.7 MHz immédiatement s'il te plaît
+Active la radio FM 106.7 MHz immédiatement s'il te plaît
+Ouvre la radio FM 96.4 MHz immédiatement s'il te plaît
+Allume la radio FM 96.4 MHz immédiatement s'il te plaît
+Active la radio FM 96.4 MHz immédiatement s'il te plaît
+Ouvre la station 107.1 MHz immédiatement s'il te plaît
+Allume la station 107.1 MHz immédiatement s'il te plaît
+Active la station 107.1 MHz immédiatement s'il te plaît
+Ouvre la station 96.9 MHz immédiatement s'il te plaît
+Allume la station 96.9 MHz immédiatement s'il te plaît
+Active la station 96.9 MHz immédiatement s'il te plaît
+Ouvre la station 107.5 MHz immédiatement s'il te plaît
+Allume la station 107.5 MHz immédiatement s'il te plaît
+Active la station 107.5 MHz immédiatement s'il te plaît
+Ouvre la station 97.4 MHz immédiatement s'il te plaît
+Allume la station 97.4 MHz immédiatement s'il te plaît
+Active la station 97.4 MHz immédiatement s'il te plaît
+Ouvre FM 90.4 MHz immédiatement s'il te plaît
+Allume FM 90.4 MHz immédiatement s'il te plaît
+Active FM 90.4 MHz immédiatement s'il te plaît
+Ouvre FM 100.7 MHz immédiatement s'il te plaît
+Allume FM 100.7 MHz immédiatement s'il te plaît
+Active FM 100.7 MHz immédiatement s'il te plaît
+Ouvre FM 91.3 MHz immédiatement s'il te plaît
+Allume FM 91.3 MHz immédiatement s'il te plaît
+Active FM 91.3 MHz immédiatement s'il te plaît
+Ouvre FM 101.1 MHz immédiatement s'il te plaît
+Allume FM 101.1 MHz immédiatement s'il te plaît
+Active FM 101.1 MHz immédiatement s'il te plaît
+Ouvre la radio à 91.7 MHz immédiatement s'il te plaît
+Allume la radio à 91.7 MHz immédiatement s'il te plaît
+Active la radio à 91.7 MHz immédiatement s'il te plaît
+Ouvre la radio à 92.1 MHz immédiatement s'il te plaît
+Allume la radio à 92.1 MHz immédiatement s'il te plaît
+Active la radio à 92.1 MHz immédiatement s'il te plaît
+Ouvre la radio à 101.9 MHz immédiatement s'il te plaît
+Allume la radio à 101.9 MHz immédiatement s'il te plaît
+Active la radio à 101.9 MHz immédiatement s'il te plaît
+Ouvre la radio à 103.9 MHz immédiatement s'il te plaît
+Allume la radio à 103.9 MHz immédiatement s'il te plaît
+Active la radio à 103.9 MHz immédiatement s'il te plaît
