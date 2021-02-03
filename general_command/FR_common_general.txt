@@ -15,14 +15,6 @@ Peux-tu allumer l'air conditionné
 Je veux activer la climatisation
 Peux-tu activer l'air conditionné
 Pouvez-vous activer l'air conditionné
-
-
-
-
-
-
-
-
 Désactivez la climatisation
 Désactive clim
 Désactive la climatisation
@@ -44,8 +36,6 @@ Peux tu désactiver la clim
 Pouvez vous désactiver l'air conditionné
 Désactivez l'air conditionné
 Désactive l'air conditionné
-
-
 Allumez la clim auto
 Activez la climatisation auto
 Allumez la clim automatique
@@ -56,11 +46,6 @@ Activez la clim automatique
 Régulation automatique de la climatisation
 Active la climatisation automatique
 Je veux activer la climatisation automatique
-
-
-
-
-
 Stop la clim automatique
 Éteignez la clim auto
 Éteins la climatisation automatique
@@ -80,15 +65,6 @@ La clim la plus forte
 Activez la clim au maxi
 Active la climatisation le plus fort possible
 L'air conditionné le plus fort possible
-
-
-
-
-
-
-
-
-
 Désactivez la climatisation au niveau maximum
 Ne mettez plus la clim au niveau maximum
 Désactive la climatisation au niveau maximum
@@ -108,9 +84,6 @@ Peux tu allumer le ventilateur
 La clim est en panne allumez le ventilateur
 Trop humide allumez le ventilateur
 Quelle chaleur Allumez la clim
-
-
-
 Éteins le ventilateur
 Éteignez le ventilateur
 Désactive le ventilateur
@@ -162,8 +135,6 @@ La recirculation d'air à l'intérieur
 Mets la recirculation d'air à l'intérieur
 Mettez la recirculation d'air à l'intérieur
 Peux tu activer la recirculation d'air à l'intérieur
-
-
 Je veux activer la recirculation d'air à l'intérieur
 Pouvez vous activer la recirculation d'air à l'intérieur
 Active la recirculation d'air de l'extérieur
@@ -186,26 +157,26 @@ Mettez la recirculation d'air automatique
 Je veux activer la recirculation d'air automatique
 Pouvez vous activer la recirculation d'air automatique
 Pouvez vous allumer la recirculation d'air automatique
-Active le filtre à air 
+Active le filtre à air
 Activez le filtre à air
-Allumez le filtre à air 
+Allumez le filtre à air
 Allume le filtre à air
 Filtrez l'air
 Filtre ion
 Filtre l'air
-Je veux activer le filtre à air 
+Je veux activer le filtre à air
 Peux tu activer le filtre à air
 Pouvez vous allumer le filtre à air
 Désactive le filtre à air
-Désactivez le filtre à air 
-Éteins le filtre à air 
-Éteignez le filtre à air 
-Stoppe le filtre à air 
-Stoppez le filtre à air 
-Arrête le filtre à air 
-Arrêtez le filtre à air 
-Je veux désactiver le filtre à air 
-Pouvez vous éteindre le filtre à air 
+Désactivez le filtre à air
+Éteins le filtre à air
+Éteignez le filtre à air
+Stoppe le filtre à air
+Stoppez le filtre à air
+Arrête le filtre à air
+Arrêtez le filtre à air
+Je veux désactiver le filtre à air
+Pouvez vous éteindre le filtre à air
 Allume le dégivreur du pare-brise
 Allumez le dégivreur du pare-brise
 Active le dégivreur du pare-brise
@@ -225,24 +196,24 @@ Stoppe le désembuage avant
 Arrête le dégivrage avant
 Arrêtez le dégivrage avant
 Allume le dégivreur arrière
-Allumez le dégivreur arrière 
-Active le dégivreur arrière 
-Activez le dégivreur arrière 
+Allumez le dégivreur arrière
+Active le dégivreur arrière
+Activez le dégivreur arrière
 Active le dégivrage de la lunette arrière
 Dégivre la lunette arrière
 Dégivrez la lunette arrière
 Activez le désembuage de la lunette arrière
-Je veux activer le dégivreur arrière 
+Je veux activer le dégivreur arrière
 Éteins le dégivreur arrière
-Éteignez le dégivreur arrière 
-Désactive le dégivreur arrière 
-Désactivez le dégivreur arrière 
+Éteignez le dégivreur arrière
+Désactive le dégivreur arrière
+Désactivez le dégivreur arrière
 Désactive le dégivrage de la lunette arrière
 Stoppe le dégivrage de la lunette arrière
 Stoppez le dégivrage de la lunette arrière
 Pouvez vous éteindre le dégivreur arrière
 Pouvez vous désactiver le dégivreur arrière
-Air sur les pieds et le pare-brise 
+Air sur les pieds et le pare-brise
 Règle la ventilation sur les pieds et le pare-brise
 Réglez la ventilation sur les pieds et le pare-brise
 Mettez de l'air sur les pieds et le pare-brise
@@ -264,7 +235,6 @@ Du vent sur la face
 Pouvez vous régler la ventilation sur le visage
 Peux tu régler la ventilation sur le visage
 Je veux régler la ventilation sur le visage
-
 Air sur les pieds
 Mettez de l'air sur les pieds
 Réglez la ventilation sur les pieds
@@ -345,7 +315,7 @@ Activez le chauffage de tous les sièges
 Activez tous les sièges chauffants
 Allumez tous les sièges chauffants
 Mettez tous les sièges chauffants en marche
-Réchauffez tous les sièges 
+Réchauffez tous les sièges
 Je veux allumer le chauffage de tous les sièges
 Pouvez vous activez le chauffage de tous les sièges
 Je veux activer tous les sièges chauffants
@@ -366,14 +336,10 @@ Activez le siège chauffant du conducteur
 Allumez le siège chauffant du conducteur
 Mettez le siège chauffant du conducteur en marche
 Réchauffez le siège conducteur
-
-
-
-
 Éteins le chauffage du siège conducteur
 Éteignez le chauffage du siège conducteur
-Désactivez le siège chauffant conducteur 
-Désactive le siège chauffant conducteur 
+Désactivez le siège chauffant conducteur
+Désactive le siège chauffant conducteur
 Arrêtez le siège chauffant conducteur
 Arrête le siège chauffant conducteur
 Stoppez le siège chauffant conducteur
@@ -383,17 +349,15 @@ Allumez le chauffage de siège du passager avant
 Allume le chauffage de siège passager avant
 Activez le chauffage de siège passager avant
 Active le chauffage de siège passager avant
-Activez uniquement le siège chauffant du passager avant 
+Activez uniquement le siège chauffant du passager avant
 Allumez le siège chauffant du passager avant
 Mettez le siège chauffant du passager avant en marche
 Réchauffez le siège passager avant
-
-
 Éteins le chauffage du siège passager avant
 Éteignez le chauffage du siège passager avant
-Désactivez le siège chauffant du passager avant 
-Désactive le siège chauffant du passager avant 
-Arrêtez le siège chauffant du passager avant 
+Désactivez le siège chauffant du passager avant
+Désactive le siège chauffant du passager avant
+Arrêtez le siège chauffant du passager avant
 Arrête le chauffage du siège passager avant
 Stoppez le chauffage du siège passager avant
 Stoppe le chauffage du siège passager avant
@@ -408,16 +372,16 @@ Mettez le siège chauffant du passager arrière à gauche en marche
 Réchauffez le siège du passager arrière à gauche
 Pouvez-vous réchauffer le siège du passager arrière à gauche
 Je veux réchauffer le siège du passager arrière à gauche
-Éteins le chauffage du siège arrière à gauche 
-Éteignez le chauffage du siège arrière à gauche 
-Désactivez le siège chauffant du passager arrière à gauche 
-Désactive le siège chauffant du passager arrière à gauche 
-Arrêtez le siège chauffant du passager arrière à gauche 
-Arrête le chauffage du siège arrière à gauche 
-Stoppez le chauffage du siège arrière à gauche 
-Stoppe le chauffage du siège arrière à gauche 
-Peux-tu arrêter le chauffage du siège arrière à gauche 
-Je veux arrêter le chauffage du siège arrière à gauche 
+Éteins le chauffage du siège arrière à gauche
+Éteignez le chauffage du siège arrière à gauche
+Désactivez le siège chauffant du passager arrière à gauche
+Désactive le siège chauffant du passager arrière à gauche
+Arrêtez le siège chauffant du passager arrière à gauche
+Arrête le chauffage du siège arrière à gauche
+Stoppez le chauffage du siège arrière à gauche
+Stoppe le chauffage du siège arrière à gauche
+Peux-tu arrêter le chauffage du siège arrière à gauche
+Je veux arrêter le chauffage du siège arrière à gauche
 Allumez le chauffage de siège arrière à droite
 Allume le chauffage de siège arrière à droite
 Activez le chauffage de siège arrière à droite
@@ -429,15 +393,15 @@ Réchauffez le siège du passager arrière à droite
 Pouvez-vous allumer le chauffage de siège arrière à droite
 Pouvez-vous activer le chauffage de siège arrière à droite
 Je veux allumer le chauffage de siège arrière à droite
-Éteins le chauffage du siège arrière à droite 
-Éteignez le chauffage du siège arrière à droite 
-Désactivez le siège chauffant du passager arrière à droite 
-Désactive le siège chauffant du passager arrière à droite 
-Arrêtez le siège chauffant du passager arrière à droite 
-Arrête le chauffage du siège arrière à droite 
-Stoppez le chauffage du siège arrière à droite 
-Stoppe le chauffage du siège arrière à droite 
-Peux-tu arrêter le chauffage du siège arrière à droite 
+Éteins le chauffage du siège arrière à droite
+Éteignez le chauffage du siège arrière à droite
+Désactivez le siège chauffant du passager arrière à droite
+Désactive le siège chauffant du passager arrière à droite
+Arrêtez le siège chauffant du passager arrière à droite
+Arrête le chauffage du siège arrière à droite
+Stoppez le chauffage du siège arrière à droite
+Stoppe le chauffage du siège arrière à droite
+Peux-tu arrêter le chauffage du siège arrière à droite
 Je veux arrêter le chauffage du siège arrière à droite
 Allumez le chauffage de tous les sièges au niveau le plus fort
 Activez le chauffage de tous les sièges au niveau moyen
@@ -464,7 +428,6 @@ Chauffage du siège conducteur le plus bas
 Chauffage du siège conducteur le plus fort
 Pouvez-vous activer le chauffage du siège conducteur au niveau haut
 Pouvez-vous allumer le chauffage du siège conducteur au niveau moyen
-
 Allumez le chauffage du siège passager avant au niveau haut
 Allumez le chauffage du siège passager avant au niveau moyen
 Allumez le chauffage du siège passager avant au niveau bas
@@ -479,7 +442,6 @@ Réchauffez le siège passager avant à niveau 3
 Réchauffez le siège passager avant au niveau le plus fort
 Chauffage du siège passager avant le plus bas
 Chauffage du siège passager avant le plus fort
-
 Allumez le chauffage du siège arrière à gauche au niveau haut
 Allumez le chauffage du siège arrière à gauche au niveau moyen
 Allumez le chauffage du siège arrière à gauche au niveau bas
@@ -493,7 +455,6 @@ Réchauffez le siège arrière à gauche à niveau 3
 Réchauffez le siège arrière à gauche au niveau le plus fort
 Chauffage du siège arrière à gauche le plus bas
 Chauffage du siège arrière à gauche le plus fort
-
 Allumez le chauffage du siège arrière à droite au niveau haut
 Allumez le chauffage du siège arrière à droite au niveau moyen
 Allumez le chauffage du siège arrière à droite au niveau bas
@@ -507,15 +468,10 @@ Réchauffez le siège arrière à droite à niveau 3
 Réchauffez le siège arrière à droite au niveau le plus fort
 Chauffage du siège arrière à droite le plus bas
 Chauffage du siège arrière à droite le plus fort
-
 Allume le refroidisseur des sièges
 Allumez les refroidisseurs de siège
 Active le refroidisseur des sièges
 Activez le refroidisseur des sièges
-
-
-
-
 Annule le refroidisseur des sièges
 Annulez tous les refroidisseurs de siège
 Éteins le refroidisseur des sièges
@@ -524,15 +480,12 @@ Stoppe le refroidisseur de tous les sièges
 Stoppez le refroidisseur des sièges
 Arrête le refroidisseur des sièges
 Arrêtez le refroidisseur des sièges
-
 Allume le refroidisseur du siège conducteur
 Allumez le refroidisseur du siège conducteur
-Active la ventilation du siège conducteur 
-Activez la ventilation du siège conducteur 
+Active la ventilation du siège conducteur
+Activez la ventilation du siège conducteur
 Active le refroidisseur du siège conducteur
 Activez le refroidisseur du siège conducteur
-
-
 Annule le refroidisseur du siège conducteur
 Annulez le refroidisseurt du siège conducteur
 Éteins le refroidisseur du siège conducteur
@@ -541,24 +494,21 @@ Stoppe la ventilation du siège conducteur
 Stoppez la ventilation du siège conducteur
 Arrête le refroidisseur du siège conducteur
 Arrêtez le refroidisseur du siège conducteur
-
-Allume le refroidisseur du siège passager avant 
-Allumez le refroidisseur du siège passager avant 
-Active la ventilation du siège passager avant 
-Activez la ventilation du siège passager avant 
+Allume le refroidisseur du siège passager avant
+Allumez le refroidisseur du siège passager avant
+Active la ventilation du siège passager avant
+Activez la ventilation du siège passager avant
 Je veux allumer le refroidisseur du siège passager avant
-Je veux activer la ventilation du siège passager avant 
-
-
-Annule le refroidisseur du siège passager avant 
-Annulez le refroidisseur du siège passager avant 
-Désactive le refroidisseur du siège passager avant 
-Désactivez le refroidisseur du siège passager avant 
-Éteins la ventilation du siège passager avant 
-Éteignez la ventilation du siège passager avant 
-Stoppe la ventilation du siège passager avant 
-Stoppez la ventilation du siège passager avant 
-Arrête le refroidissement du siège passager avant 
+Je veux activer la ventilation du siège passager avant
+Annule le refroidisseur du siège passager avant
+Annulez le refroidisseur du siège passager avant
+Désactive le refroidisseur du siège passager avant
+Désactivez le refroidisseur du siège passager avant
+Éteins la ventilation du siège passager avant
+Éteignez la ventilation du siège passager avant
+Stoppe la ventilation du siège passager avant
+Stoppez la ventilation du siège passager avant
+Arrête le refroidissement du siège passager avant
 Activez la ventilation du siège arrière gauche
 Allumez la ventilation du siège arrière gauche s'il vous plaît
 Pouvez-vous allumer le refroidisseur de siège arrière gauche s'il vous plaît
@@ -568,7 +518,6 @@ Je veux démarrer le refroidisseur de siège arrière gauche
 Pouvez-vous refroidir le siège arrière gauche
 Refroidissez le siège avant à gauche
 J'ai besoin de démarrer la ventilation du siège arrière gauche
-
 Éteignez la ventilation du siège arrière gauche
 Désactivez la ventilation du siège arrière gauche s'il vous plaît
 Pouvez-vous éteindre le refroidisseur de siège arrière gauche s'il vous plaît
@@ -576,29 +525,18 @@ Je veux arrêter le refroidisseur de siège arrière gauche
 Arrêter le refroidisseur du siège avant droit
 Stoppez le refroidisseur de siège arrière gauche
 Pouvez-vous arrêter le refroidisseur de siège arrière gauche
-
-
-
 Activez la ventilation du siège arrière à droite
 Allumez le refroidisseur de siège arrière à droite s'il vous plaît
 Siège arrière à droite refroidi
 Pouvez-vous allumer le refroidisseur de siège arrière à droite s'il vous plaît
 Je veux allumer le refroidisseur de siège arrière à droite
 Démarrez le refroidisseur de siège arrière à droite
-
-
-
-
 Désactivez la ventilation du siège arrière à droite
 Éteignez le refroidisseur du siège arrière à droite
 Pouvez-vous éteindre le refroidisseur arrière à droite s'il vous plaît
 Je veux éteindre le refroidisseur de siège arrière à droite
 Je n'ai plus besoin de refroidisseur de siège arrière à droite
 Arrêtez la ventilation du siège arrière à droite
-
-
-
-
 Réglez tous les refroidisseurs des sièges à un niveau élevé
 Réglez toutes les ventilations des sièges au niveau 3
 Pouvez-vous régler tous les refroidisseurs de siège au niveau le plus bas
@@ -607,43 +545,37 @@ Je veux régler tous les refroidisseurs de siège au niveau moyen
 Tous les refroidisseurs de siège niveau 2
 Mettez tous les refroidisseurs de siège au niveau 3
 Pouvez-vous s'il vous plaît tourner tous les refroidisseurs de siège au niveau bas
-
-
 Réglez le refroidisseur du siège conducteur au niveau élevé
 Réglez le refroidisseur du siège conducteur au niveau élevé s'il vous plaît
 Je veux régler le refroidisseur du siège conducteur au niveau moyen
-Pouvez-vous régler la ventilation du siège conducteur au niveau élevé 
+Pouvez-vous régler la ventilation du siège conducteur au niveau élevé
 Changez la ventilation du siège conducteur au niveau moyen
 Réglez la ventilation du siège conducteur au niveau élevé
 Réglez la ventilation du siège conducteur au niveau bas
 Réglez le refroidisseur du siège conducteur au niveau 1
 Réglez le refroidisseur du siège conducteur au niveau 2
 Réglez le refroidisseur du siège conducteur au niveau 3
-
 Réglez le refroidisseur du siège passager avant au niveau élevé
 Réglez le refroidisseur du siège passager avant au niveau élevé s'il vous plaît
 Je veux régler le refroidisseur du siège passager avant au niveau moyen
-Pouvez-vous régler la ventilation du siège passager avant au niveau élevé 
+Pouvez-vous régler la ventilation du siège passager avant au niveau élevé
 Changez la ventilation du siège passager avant au niveau moyen
 Réglez la ventilation du siège passager avant au niveau élevé
 Réglez le refroidisseur du siège passager avant au niveau 1
 Réglez le refroidisseur du siège passager avant au niveau 2
 Réglez le refroidisseur du siège passager avant au niveau 3
-
-
 Réglez le refroidisseur du siège arrière à gauche au niveau élevé
 Réglez le refroidisseur du siège arrière à gauche au niveau élevé s'il vous plaît
 Je veux régler le refroidisseur du siège arrière à gauche au niveau moyen
-Pouvez-vous régler la ventilation du siège arrière à gauche au niveau élevé 
+Pouvez-vous régler la ventilation du siège arrière à gauche au niveau élevé
 Changez la ventilation du siège arrière à gauche au niveau moyen
 Réglez le refroidisseur du siège arrière à gauche au niveau 1
 Réglez le refroidisseur du siège arrière à gauche au niveau 2
 Réglez le refroidisseur du siège arrière à gauche au niveau 3
-
 Réglez le refroidisseur du siège arrière à droite au niveau élevé
 Réglez le refroidisseur du siège arrière à droite au niveau élevé s'il vous plaît
 Je veux régler le refroidisseur du siège arrière à droite au niveau moyen
-Pouvez-vous régler la ventilation du siège arrière à droite au niveau élevé 
+Pouvez-vous régler la ventilation du siège arrière à droite au niveau élevé
 Changez la ventilation du siège arrière à droite au niveau moyen
 Réglez la ventilation du siège arrière à droite au niveau élevé
 Réglez le refroidisseur du siège arrière à droite au niveau 1
@@ -653,21 +585,19 @@ Allumez le chauffage du volant
 Veuillez allumer le chauffage du volant
 Réchauffez le volant maintenant
 Chauffez le volant s'il vous plaît
-Pouvez-vous allumer le chauffage du volant s'il vous plaît 
+Pouvez-vous allumer le chauffage du volant s'il vous plaît
 Je veux allumer le chauffage du volant
 Activez le chauffage du volant
 Active le chauffage du volant
-
-
 Éteignez le chauffage du volant
 Veuillez éteindre le chauffage du volant
 Arrêtez le chauffage du volant
 Je n'ai plus besoin du chauffage du volant
-Pouvez-vous éteindre le chauffage du volant s'il vous plaît 
+Pouvez-vous éteindre le chauffage du volant s'il vous plaît
 Je veux éteindre le chauffage du volant
 Arrête le chauffage du volant tout de suite
 Je n'ai plus besoin du chauffage du volant
-Pouvez-vous éteindre le chauffage du volant s'il vous plaît 
+Pouvez-vous éteindre le chauffage du volant s'il vous plaît
 Il fait chaud.
 J'ai chaud
 Refroidissez la voiture
@@ -695,14 +625,14 @@ Allume HVAC
 Je veux activer le contrôle de l'air conditionné
 Peux-tu allumer HVAC, s'il te plait
 Pouvez-vous activer le contrôle de l'air conditionné
-Éteignez HVAC 
-Éteignez la recirculation d'air et la ventilation 
-Désactivez HVAC 
-Éteins HVAC 
-Annulez HVAC 
-Éteins HVAC 
-Éteins la recirculation d'air et la ventilation 
-Désactive HVAC 
+Éteignez HVAC
+Éteignez la recirculation d'air et la ventilation
+Désactivez HVAC
+Éteins HVAC
+Annulez HVAC
+Éteins HVAC
+Éteins la recirculation d'air et la ventilation
+Désactive HVAC
 Affichez l'écran du siège chauffant
 Affiche l'écran du siège chauffant
 Je veux voir l'écran du siège chauffant
@@ -713,9 +643,8 @@ Montre-moi l'écran du siège chauffant
 Affiche l'écran du chauffage du siège pour moi
 Je veux voir la température des sièges à l'écran
 Peux-tu montrer l'écran du siège chauffant s'il te plaît
-
 Fermez l'écran du siège chauffant s'il vous plaît
-Ferme l'écran du siège chauffant 
+Ferme l'écran du siège chauffant
 Je veux fermer l'écran du siège chauffant
 Arrêtez l'écran du siège chauffant
 Cachez l'écran du siège chauffant
@@ -774,7 +703,6 @@ Montez le chauffage du siège passager avant maintenant
 Augmente la chaleur du siège passager avant
 Je veux augmenter le chauffage du siège passager avant
 Monte le chauffage du siège passager avant
-
 Baisse le chauffage du siège passager avant
 Diminuez le chauffage du siège passager avant s'il vous plaît
 J'ai besoin de baisser le chauffage du siège passager avant
@@ -789,8 +717,6 @@ Montez le chauffage du siège arrière à gauche maintenant
 Augmente la chaleur du siège arrière à gauche
 Je veux augmenter le chauffage du siège arrière à gauche
 Monte le chauffage du siège arrière à gauche
-
-
 Baisse le chauffage du siège arrière à gauche
 Diminuez le chauffage du siège arrière à gauche s'il vous plaît
 J'ai besoin de baisser le chauffage du siège arrière à gauche
@@ -805,8 +731,6 @@ Montez le chauffage du siège arrière à droite maintenant
 Augmente la chaleur du siège arrière à droite
 Je veux augmenter le chauffage du siège arrière à droite
 Monte le chauffage du siège arrière à droite
-
-
 Baisse le chauffage du siège arrière à droite
 Diminuez le chauffage du siège arrière à droite s'il vous plaît
 J'ai besoin de baisser le chauffage du siège arrière à droite
@@ -823,7 +747,7 @@ Augmente la ventilation du siège conducteur
 Augmente le refroidisseur de siège conducteur s'il vous plaît
 Peux-tu augmenter le refroidisseur de siège conducteur s'il te plaît
 Diminuez le refroidisseur du siège conducteur
-Diminue le refroidisseur du siège conducteur 
+Diminue le refroidisseur du siège conducteur
 Pouvez-vous diminuer le refroidisseur du siège conducteur
 Je veux diminuer la ventilation du siège conducteur
 Baissez la ventilation du siège du conducteur pour moi
@@ -916,16 +840,16 @@ Arrêtez le dégivrage
 Stoppez le dégivreur
 J'ai besoin que tu éteignes le dégivrage
 Peux-tu éteindre le dégivrage
-Augmentez 1 degré pour la zone conducteur 
-Augmentez 2 degrés pour la zone conducteur 
-Augmentez 3 degrés pour la zone conducteur 
+Augmentez 1 degré pour la zone conducteur
+Augmentez 2 degrés pour la zone conducteur
+Augmentez 3 degrés pour la zone conducteur
 Je veux augmenter la température de la zone conducteur de 5 degrés
 Pouvez-vous augmenter la température de la zone conducteur 6 degrés
 Réglez la température de la zone conducteur 6 degrés plus
 Augmentez la température de la zone conducteur 7 degrés
 Augmentez la climatisation dans la zone conducteur de 8 degrés
-Augmentez 9 degrés pour le siège arrière gauche 
-Diminuez 1 degré de la zone du conducteur 
+Augmentez 9 degrés pour le siège arrière gauche
+Diminuez 1 degré de la zone du conducteur
 Baissez la température de la zone conducteur 2 degrés s'il vous plaît
 Diminuez 3 degrés du siège conducteur
 Pouvez-vous diminuer 4 degrés du siège du conducteur
@@ -944,7 +868,7 @@ Réglez la température de la zone passagers 6 degrés plus
 Augmentez la température de la zone passagers 7 degrés
 Augmentez la climatisation dans la zone passagers de 8 degrés
 Augmentez 9 degrés pour le siège arrière à droite
-Augmente 6 degrés pour les sièges passagers 
+Augmente 6 degrés pour les sièges passagers
 Diminuer la température des sièges passagers 1 degré
 Pouvez-vous baisser 2 degrés dans la zone passagers
 Baisse la température des sièges passagers de 3 degrés
@@ -958,20 +882,20 @@ Peux-tu baisser la température de la zone passagers de 10 degrés
 Augmentez la vitesse du ventilateur 1 niveau
 Augmentez la vitesse du ventilateur 2 niveaux s'il vous plaît
 Je veux augmenter la vitesse du ventilateur 3 niveaux
-Augmente la vitesse du ventilateur 
+Augmente la vitesse du ventilateur
 Pouvez-vous augmenter la vitesse du ventilateur 2 niveaux de plus
 Augmentez la vitesse du ventilateur 3 niveaux
-Augmentez la vitesse du ventilateur 
+Augmentez la vitesse du ventilateur
 Peux-tu augmenter le ventilateur 2 niveaux de plus
 Augmentez la vitesse du ventilateur 3 niveaux
 Augmente la vitesse du ventilateur 3 niveaux de plus
 Diminue la vitesse du ventilateur 1 niveau
 Diminuez la vitesse du ventilateur 2 niveaux s'il vous plaît
 Je veux diminuer la vitesse du ventilateur 3 niveaux
-Baissez la vitesse du ventilateur 
+Baissez la vitesse du ventilateur
 Pouvez-vous diminuer la vitesse du ventilateur de 2 niveaux de moins
 Baisse la vitesse du ventilateur 3 niveaux
-Baisse la vitesse du ventilateur 
+Baisse la vitesse du ventilateur
 Peux-tu diminuer la vitesse du ventilateur de 2 niveaux de moins
 Baisse la vitesse du ventilateur 3 niveaux pour moi
 Je veux diminuer le ventilateur 2 niveaux de moins
@@ -983,7 +907,7 @@ Activez le chauffage de tous les sièges passagers
 Veuillez allumer tous les chauffages de siège passagers
 Allume le chauffage de tous les sièges passagers
 Active le chauffage de tous les sièges passagers pour moi
-Peux-tu allumer tous les chauffages de siège passagers 
+Peux-tu allumer tous les chauffages de siège passagers
 Allume le chauffage de tous les sièges passagers
 Éteignez le chauffage de tous les sièges passagers
 Je veux éteindre tous les sièges chauffants passagers
@@ -998,25 +922,25 @@ Annule le chauffage de tous les sièges passagers
 Allumez le chauffage de tous les sièges arrières
 Je veux allumer tous les sièges chauffants arrières
 Pouvez-vous activer tous les chauffages de siège arrière
-Active le chauffage de tous les sièges arrières 
-Activez le chauffage de tous les sièges arrières 
+Active le chauffage de tous les sièges arrières
+Activez le chauffage de tous les sièges arrières
 Veuillez allumer tous les chauffages de siège arrière maintenant
-Allume le chauffage de tous les sièges arrières 
-Peux-tu activer le chauffage de tous les sièges arrières 
+Allume le chauffage de tous les sièges arrières
+Peux-tu activer le chauffage de tous les sièges arrières
 Peux-tu allumer tous les chauffages de siège arrière maintenant
 Active le chauffage de tous les sièges arrières pour moi
 Éteignez le chauffage de tous les sièges arrières
 Je veux éteindre tous les sièges chauffants arrières
 Pouvez-vous éteindre tous les chauffages de siège arrière
-Arrêtez le chauffage de tous les sièges arrières 
-Désactivez le chauffage de tous les sièges arrières 
+Arrêtez le chauffage de tous les sièges arrières
+Désactivez le chauffage de tous les sièges arrières
 Veuillez arrêter tous les chauffages de siège arrière maintenant
-Annulez le chauffage de tous les sièges arrières 
-Désactive le chauffage de tous les sièges arrières 
+Annulez le chauffage de tous les sièges arrières
+Désactive le chauffage de tous les sièges arrières
 Arrête tous les chauffages de siège arrière maintenant
-Annule le chauffage de tous les sièges arrières 
+Annule le chauffage de tous les sièges arrières
 Je veux allumer les refroidisseurs de sièges passagers
-Veuillez activer les refroidisseurs de tous les sièges passagers 
+Veuillez activer les refroidisseurs de tous les sièges passagers
 Activez tous les refroidisseurs de sièges passagers
 Allume les refroidisseurs de tous les sièges passagers
 J'ai besoin des refroidisseurs de sièges passagers
@@ -1026,8 +950,8 @@ Allumez les refroidisseurs de tous les sièges passagers
 Je veux éteindre les refroidisseurs de siège passagers
 Veuillez arrêter les refroidisseurs de tous les sièges passagers
 Éteignez tous les refroidisseurs de siège passagers
-Éteignez les refroidisseurs de tous les sièges passagers 
-Je n'ai plus besoin de refroidisseurs de sièges passagers 
+Éteignez les refroidisseurs de tous les sièges passagers
+Je n'ai plus besoin de refroidisseurs de sièges passagers
 Pouvez-vous éteindre tous les refroidisseurs de sièges passagers
 Arrête les refroidisseurs de tous les sièges passagers
 Éteins tous les refroidisseurs de siège passagers
@@ -1129,7 +1053,6 @@ Démarrez la musique depuis USB
 Joue de la musique sur USB
 Démarre la musique depuis USB
 Peux-tu jouer de la musique depuis USB pour moi
-
 Écoutez de la musique depuis Bluetooth
 Jouez Bluetooth
 Musique de Bluetooth
@@ -1202,7 +1125,6 @@ Rejouez cette chanson
 Répète la lecture de cette chanson
 Répète ce morceau de musique
 Rejoue cette chanson
-
 Désactive la répétition des chansons
 Arrêtez la répétition des chansons
 Annulez la répétition des chansons
@@ -1211,8 +1133,7 @@ Désactive la répétition des chansons
 Arrête la répétition des chansons
 Annule la répétition des chansons
 Ne rejoue pas des chansons
-Ne répétez plus de chansons 
-
+Ne répétez plus de chansons
 Active la lecture aléatoire des chansons
 Activez la lecture aléatoire des chansons
 Jouez ma playlist de manière aléatoire.
@@ -1222,7 +1143,6 @@ Je veux écouter les chansons de manière aléatoire
 Joue ma playlist de manière aléatoire
 Pouvez-vous ouvrir les chansons de manière aléatoire
 Pouvez-vous jouer ma playlist de manière aléatoire
-
 Désactive la lecture aléatoire des chansons
 Désactivez la lecture aléatoire des chansons
 Ne jouez plus ma playlist de manière aléatoire.
@@ -1269,12 +1189,12 @@ Je veux écouter la chanson précédente
 Peux-tu jouer la chanson précédente
 Je voudrais écouter la chanson précédente
 Retourne à la dernière chanson pour moi
-Ouvrez la adio 
+Ouvrez la adio
 Allumez la radio
 Activez la radio
 Je veux allumer la radio
 Je veux écouter la radio
-Ouvre la adio 
+Ouvre la adio
 Allume la radio
 Active la radio
 Peux-tu allumer la radio
@@ -1289,18 +1209,15 @@ Allume Mouv
 Active Europe 1
 Peux-tu allumer RFM
 Peux-tu allumer Fun Radio pour moi
-
-Ouvrez Autoroute Info 
-Allumez Radio Vinci Autoroutes 
+Ouvrez Autoroute Info
+Allumez Radio Vinci Autoroutes
 Activez Autoroute FM
 Je veux allumer SNCF La Radio
-Je veux écouter RFI Musique 
+Je veux écouter RFI Musique
 Ouvre la Radio AM
 Allume la radio AM
 Active France Télévisions
 Peux-tu allumer Radio France
-
-
 Ouvrez la radio à 101 MHz
 Ouvrez la radio à 100 MHz
 Ouvrez la radio 96,5 MHz
@@ -1444,16 +1361,16 @@ Je veux fermer un peu plus la vitre du toit ouvrant maintenant
 Fermez un peu plus le toit ouvrant pour moi
 Ouvrez le toit ouvrant
 Ouvrez le toit ouvrant pour moi
-Aidez-moi à ouvrir le toit ouvrant 
+Aidez-moi à ouvrir le toit ouvrant
 Ouvrez le toit ouvrant s'il vous plaît
 Ouvre le toit ouvrant s'il te plaît
 Ouvre le toit ouvrant tout de suite
 Ouvre le toit ouvrant maintenant pour moi
 Ouvrez immédiatement le toit ouvrant
 Ouvrez le toit ouvrant tout de suite pour moi
-Aide-moi à ouvrir le toit ouvrant 
-Ouvrez un peu le toit ouvrant 
-Ouvrez un peu plus le toit ouvrant 
+Aide-moi à ouvrir le toit ouvrant
+Ouvrez un peu le toit ouvrant
+Ouvrez un peu plus le toit ouvrant
 Le toit ouvrant doit être ouvert un peu plus
 Ouvrez un peu le toit ouvrant s'il vous plaît
 Ouvre un peu le toit ouvrant s'il te plaît
@@ -1479,7 +1396,7 @@ Ferme un peu le toit ouvrant s'il te plaît
 Aidez-moi à fermer un peu le toit ouvrant
 Aidez-moi à fermer un peu plus le toit ouvrant
 Pouvez-vous fermer un peu le toit ouvrant
-Pouvez-vous fermer un peu plus le toit ouvrant 
+Pouvez-vous fermer un peu plus le toit ouvrant
 Aidez-moi à fermer un peu le toit ouvrant s'il vous plaît
 Pouvez-vous fermer un peu plus le toit ouvrant pour moi
 Fermez le rideau de toit ouvrant
@@ -1568,21 +1485,21 @@ Diminue la lumière d'ambiance
 Rends la lumière ambiante un peu plus sombre
 Pouvez-vous baisser la luminosité de la lumière ambiante
 Veuillez allumer la lumière d'ambiance dans la voiture
-Allumez la lumière ambiante 
+Allumez la lumière ambiante
 Allumez la lumière d'ambiance
 Pouvez-vous allumer la lumière d'ambiance
 Allumez la lumière ambiante maintenant
-Allume la lumière ambiante 
+Allume la lumière ambiante
 Allume la lumière d'ambiance
 Peux-tu allumer la lumière d'ambiance
 Allume la lumière ambiante maintenant
 Allume la lumière ambiante un peu plus
 Veuillez éteindre la lumière d'ambiance dans la voiture
-Éteignez la lumière ambiante 
+Éteignez la lumière ambiante
 Éteignez la lumière ambiante
 Pouvez-vous éteindre la lumière d'ambiance
 Éteignez la lumière ambiante maintenant
-Éteins la lumière ambiante 
+Éteins la lumière ambiante
 Je veux éteindre la lumière ambiante
 Peux-tu éteindre la lumière d'ambiance
 Éteignez la lumière ambiante pour moi
@@ -1619,22 +1536,22 @@ Pouvez-vous activer le mode Sport
 Pouvez-vous passer en mode de conduite Sport maintenant
 Pouvez-vous démarrer le mode de conduite Sport
 Activez le HUD
-Ouvrez HUD 
+Ouvrez HUD
 Allumez l'affichage tête haute HUD
 Activez l'affichage tête haute HUD
 Je veux afficher le HUD
 Active le HUD
-Ouvre HUD 
+Ouvre HUD
 Allume l'affichage tête haute HUD
 Active l'affichage tête haute HUD
 Pouvez-vous afficher HUD
 Désactivez le HUD
-Fermez HUD 
+Fermez HUD
 Éteignez l'affichage tête haute HUD
 Fermez l'affichage tête haute HUD
 Je veux arrêter l'affichage tête haute HUD
 Désactive le HUD
-Ferme HUD 
+Ferme HUD
 Éteins l'affichage tête haute HUD
 Ferme l'affichage tête haute HUD
 Pouvez-vous arrêter HUD
@@ -1679,14 +1596,12 @@ Arrêtez d'accéder à Bluetooth
 Je ne veux plus de bluetooth
 Arrêtez la connexion Bluetooth
 Déconnectez avec Bluetooth
-
-
 Ouvrez le toit ouvrant à 10%
 Ouvrez le toit ouvrant à 50%
 Ouvrez 70% du toit ouvrant
 Ouvrez le toit ouvrant 75%
 Pouvez-vous ouvrir le toit ouvrant à 90%
-Veuillez ouvrir tout le toit ouvrant 
+Veuillez ouvrir tout le toit ouvrant
 Ouvrez le toit ouvrant à 10%
 Ouvrez le toit ouvrant à 37%
 Ouvrez le toit ouvrant à 25%
@@ -1701,7 +1616,6 @@ Fermez le toit ouvrant à 10%
 Fermez le toit ouvrant à 37%
 Fermez le toit ouvrant à 25%
 Fermez le toit ouvrant environ 18%
-
 Ouvrez la vitre de toit ouvrant à 10%
 Ouvrez la vitre de toit ouvrant à 50%
 Ouvrez la vitre de toit ouvrant 70% de plus
@@ -1712,7 +1626,6 @@ Ouvrez la vitre de toit ouvrant à 10%
 Ouvrez la vitre de toit ouvrant à 37%
 Ouvrez la vitre de toit ouvrant environ 25%
 Ouvrez la vitre de toit ouvrant environ 18% pour moi
-
 Fermez la vitre de toit ouvrant à 10%
 Fermez la vitre de toit ouvrant à 50%
 Fermez la vitre de toit ouvrant 70% de plus
@@ -1728,7 +1641,7 @@ Ouvrez le rideau de toit ouvrant à 50%
 Ouvrez 70% du rideau de toit ouvrant
 Ouvrez le rideau pare-soleil du toit ouvrant 75%
 Pouvez-vous ouvrir le rideau du toit ouvrant à 90%
-Veuillez ouvrir tout le rideau du toit ouvrant 
+Veuillez ouvrir tout le rideau du toit ouvrant
 Ouvrez le rideau pare-soleil du toit ouvrant à 10%
 Ouvrez le rideau du toit ouvrant à 37%
 Ouvrez le rideau du toit ouvrant à 25%
@@ -1791,18 +1704,18 @@ Activez les paramètres d'affichage
 Active les paramètres d'affichage
 Allumez les paramètres d'affichage
 Allume les paramètres d'affichage
-Peux-tu afficher les paramètres d'affichage 
+Peux-tu afficher les paramètres d'affichage
 Je veux voir les paramètres d'affichage
 Annulez les paramètres d'affichage
 Fermez les paramètres d'affichage
 Cachez les paramètres d'affichage
 Je ne veux plus voir les paramètres d'affichage
 Désactivez les paramètres d'affichage
-Pouvez-vous fermer les paramètres d'affichage 
+Pouvez-vous fermer les paramètres d'affichage
 Annule les paramètres d'affichage
 Ferme les paramètres d'affichage
 Cache les paramètres d'affichage
-Peux-tu fermer les paramètres d'affichage 
+Peux-tu fermer les paramètres d'affichage
 Affichez les paramètres d'éclairage
 Activez les paramètres d'éclairage
 Je veux afficher les paramètres d'éclairage
@@ -1907,7 +1820,7 @@ Ouvrez l'écran des paramètres d'aide à la conduite
 Affichez l'écran des paramètres d'aide à la conduite
 Je veux accéder à l'écran d'aide à la conduite
 Allumez l'écran des paramètres d'aide à la conduite
-Tu peux ouvrir l'écran des paramètres d'aide à la conduite 
+Tu peux ouvrir l'écran des paramètres d'aide à la conduite
 Active l'aide à la conduite
 Ouvre l'écran des paramètres d'aide à la conduite
 Affiche l'écran des paramètres d'aide à la conduite
@@ -1921,7 +1834,7 @@ Ferme l'écran des paramètres d'aide à la conduite
 Annule l'écran des paramètres d'aide à la conduite
 Éteins l'écran des paramètres d'aide à la conduite
 Je ne veux plus voir l'écran d'aide à la conduite
-Vinfast, peux-tu fermer l'écran des paramètres d'aide à la conduite 
+Vinfast, peux-tu fermer l'écran des paramètres d'aide à la conduite
 Ouvrez l'écran de réglage des aides au stationnement
 Activez le réglage des aides au stationnement
 Je veux afficher l'écran de réglage des aides au stationnement
@@ -2030,704 +1943,9 @@ Montrez-moi l'heure, s'il vous plait
 Montre-moi l'heure, s'il te plait
 Dis Vinfast, quelle heure est-il
 Dis Vinfast, il est quelle heure
-
 Nous sommes quel jour aujourd'hui
 Quel jour sommes-nous aujourd'hui
 Dis Vinfast, nous sommes quel jour aujourd'hui
 Dis Vinfast, quel jour sommes-nous aujourd'hui
 Vinfast, peux-tu me dire quel jour nous sommes aujourd'hui
 Vinfast, peux-tu afficher la date
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
