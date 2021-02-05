@@ -1,0 +1,11 @@
+artist_name, album_name
+Ace of Base, Happy Nation
+Alain Souchon, Au ras des paquerettes
+Bruno Mars, Unorthodox Jukebox
+Calogero, Les feux d'artifice
+Céline Dion, Falling Into You
+Christine and the Queens, Chaleur humaine
+Coldplay, Viva la Vida or Death and All His Friends
+Dire Straits, On every street
+Florent Pagny, Ailleurs Land
+Francis Cabrel, Samedi soir sur la terre

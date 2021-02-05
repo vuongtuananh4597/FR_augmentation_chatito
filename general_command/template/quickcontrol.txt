@@ -1,0 +1,400 @@
+Ouvrez le toit ouvrant à <percent> %
+Fermez le toit ouvrant à <percent> %
+Ouvrez <percent> % du toit ouvrant
+Fermez <percent> % du toit ouvrant
+Ouvrez le rideau de toit ouvrant à <percent> %
+Fermez le rideau de toit ouvrant à <percent> %
+Ouvrez le rideau pare-soleil du toit ouvrant à <percent> %
+Fermez le rideau pare-soleil du toit ouvrant à <percent> %
+Ouvrez <percent> % du rideau de toit ouvrant
+Fermez <percent> % du rideau de toit ouvrant
+Ouvrez le toit ouvrant à <percent> % maintenant
+Fermez le toit ouvrant à <percent> % maintenant
+Ouvrez <percent> % du toit ouvrant maintenant
+Fermez <percent> % du toit ouvrant maintenant
+Ouvrez le rideau de toit ouvrant à <percent> % maintenant
+Fermez le rideau de toit ouvrant à <percent> % maintenant
+Ouvrez le rideau pare-soleil du toit ouvrant à <percent> % maintenant
+Fermez le rideau pare-soleil du toit ouvrant à <percent> % maintenant
+Ouvrez <percent> % du rideau de toit ouvrant maintenant
+Fermez <percent> % du rideau de toit ouvrant maintenant
+Ouvrez le toit ouvrant à <percent> % tout de suite
+Fermez le toit ouvrant à <percent> % tout de suite
+Ouvrez <percent> % du toit ouvrant tout de suite
+Fermez <percent> % du toit ouvrant tout de suite
+Ouvrez le rideau de toit ouvrant à <percent> % tout de suite
+Fermez le rideau de toit ouvrant à <percent> % tout de suite
+Ouvrez le rideau pare-soleil du toit ouvrant à <percent> % tout de suite
+Fermez le rideau pare-soleil du toit ouvrant à <percent> % tout de suite
+Ouvrez <percent> % du rideau de toit ouvrant tout de suite
+Fermez <percent> % du rideau de toit ouvrant tout de suite
+Ouvrez le toit ouvrant à <percent> % immédiatement
+Fermez le toit ouvrant à <percent> % immédiatement
+Ouvrez <percent> % du toit ouvrant immédiatement
+Fermez <percent> % du toit ouvrant immédiatement
+Ouvrez le rideau de toit ouvrant à <percent> % immédiatement
+Fermez le rideau de toit ouvrant à <percent> % immédiatement
+Ouvrez le rideau pare-soleil du toit ouvrant à <percent> % immédiatement
+Fermez le rideau pare-soleil du toit ouvrant à <percent> % immédiatement
+Ouvrez <percent> % du rideau de toit ouvrant immédiatement
+Fermez <percent> % du rideau de toit ouvrant immédiatement
+Ouvrez le toit ouvrant à <percent> % pour moi
+Fermez le toit ouvrant à <percent> % pour moi
+Ouvrez <percent> % du toit ouvrant pour moi
+Fermez <percent> % du toit ouvrant pour moi
+Ouvrez le rideau de toit ouvrant à <percent> % pour moi
+Fermez le rideau de toit ouvrant à <percent> % pour moi
+Ouvrez le rideau pare-soleil du toit ouvrant à <percent> % pour moi
+Fermez le rideau pare-soleil du toit ouvrant à <percent> % pour moi
+Ouvrez <percent> % du rideau de toit ouvrant pour moi
+Fermez <percent> % du rideau de toit ouvrant pour moi
+Ouvrez le toit ouvrant à <percent> % maintenant pour moi
+Fermez le toit ouvrant à <percent> % maintenant pour moi
+Ouvrez <percent> % du toit ouvrant maintenant pour moi
+Fermez <percent> % du toit ouvrant maintenant pour moi
+Ouvrez le rideau de toit ouvrant à <percent> % maintenant pour moi
+Fermez le rideau de toit ouvrant à <percent> % maintenant pour moi
+Ouvrez le rideau pare-soleil du toit ouvrant à <percent> % maintenant pour moi
+Fermez le rideau pare-soleil du toit ouvrant à <percent> % maintenant pour moi
+Ouvrez <percent> % du rideau de toit ouvrant maintenant pour moi
+Fermez <percent> % du rideau de toit ouvrant maintenant pour moi
+Ouvrez le toit ouvrant à <percent> % tout de suite pour moi
+Fermez le toit ouvrant à <percent> % tout de suite pour moi
+Ouvrez <percent> % du toit ouvrant tout de suite pour moi
+Fermez <percent> % du toit ouvrant tout de suite pour moi
+Ouvrez le rideau de toit ouvrant à <percent> % tout de suite pour moi
+Fermez le rideau de toit ouvrant à <percent> % tout de suite pour moi
+Ouvrez le rideau pare-soleil du toit ouvrant à <percent> % tout de suite pour moi
+Fermez le rideau pare-soleil du toit ouvrant à <percent> % tout de suite pour moi
+Ouvrez <percent> % du rideau de toit ouvrant tout de suite pour moi
+Fermez <percent> % du rideau de toit ouvrant tout de suite pour moi
+Ouvrez le toit ouvrant à <percent> % immédiatement pour moi
+Fermez le toit ouvrant à <percent> % immédiatement pour moi
+Ouvrez <percent> % du toit ouvrant immédiatement pour moi
+Fermez <percent> % du toit ouvrant immédiatement pour moi
+Ouvrez le rideau de toit ouvrant à <percent> % immédiatement pour moi
+Fermez le rideau de toit ouvrant à <percent> % immédiatement pour moi
+Ouvrez le rideau pare-soleil du toit ouvrant à <percent> % immédiatement pour moi
+Fermez le rideau pare-soleil du toit ouvrant à <percent> % immédiatement pour moi
+Ouvrez <percent> % du rideau de toit ouvrant immédiatement pour moi
+Fermez <percent> % du rideau de toit ouvrant immédiatement pour moi
+Ouvrez le toit ouvrant à <percent> % s'il vous plaît
+Fermez le toit ouvrant à <percent> % s'il vous plaît
+Ouvrez <percent> % du toit ouvrant s'il vous plaît
+Fermez <percent> % du toit ouvrant s'il vous plaît
+Ouvrez le rideau de toit ouvrant à <percent> % s'il vous plaît
+Fermez le rideau de toit ouvrant à <percent> % s'il vous plaît
+Ouvrez le rideau pare-soleil du toit ouvrant à <percent> % s'il vous plaît
+Fermez le rideau pare-soleil du toit ouvrant à <percent> % s'il vous plaît
+Ouvrez <percent> % du rideau de toit ouvrant s'il vous plaît
+Fermez <percent> % du rideau de toit ouvrant s'il vous plaît
+Ouvrez le toit ouvrant à <percent> % maintenant s'il vous plaît
+Fermez le toit ouvrant à <percent> % maintenant s'il vous plaît
+Ouvrez <percent> % du toit ouvrant maintenant s'il vous plaît
+Fermez <percent> % du toit ouvrant maintenant s'il vous plaît
+Ouvrez le rideau de toit ouvrant à <percent> % maintenant s'il vous plaît
+Fermez le rideau de toit ouvrant à <percent> % maintenant s'il vous plaît
+Ouvrez le rideau pare-soleil du toit ouvrant à <percent> % maintenant s'il vous plaît
+Fermez le rideau pare-soleil du toit ouvrant à <percent> % maintenant s'il vous plaît
+Ouvrez <percent> % du rideau de toit ouvrant maintenant s'il vous plaît
+Fermez <percent> % du rideau de toit ouvrant maintenant s'il vous plaît
+Ouvrez le toit ouvrant à <percent> % tout de suite s'il vous plaît
+Fermez le toit ouvrant à <percent> % tout de suite s'il vous plaît
+Ouvrez <percent> % du toit ouvrant tout de suite s'il vous plaît
+Fermez <percent> % du toit ouvrant tout de suite s'il vous plaît
+Ouvrez le rideau de toit ouvrant à <percent> % tout de suite s'il vous plaît
+Fermez le rideau de toit ouvrant à <percent> % tout de suite s'il vous plaît
+Ouvrez le rideau pare-soleil du toit ouvrant à <percent> % tout de suite s'il vous plaît
+Fermez le rideau pare-soleil du toit ouvrant à <percent> % tout de suite s'il vous plaît
+Ouvrez <percent> % du rideau de toit ouvrant tout de suite s'il vous plaît
+Fermez <percent> % du rideau de toit ouvrant tout de suite s'il vous plaît
+Ouvrez le toit ouvrant à <percent> % immédiatement s'il vous plaît
+Fermez le toit ouvrant à <percent> % immédiatement s'il vous plaît
+Ouvrez <percent> % du toit ouvrant immédiatement s'il vous plaît
+Fermez <percent> % du toit ouvrant immédiatement s'il vous plaît
+Ouvrez le rideau de toit ouvrant à <percent> % immédiatement s'il vous plaît
+Fermez le rideau de toit ouvrant à <percent> % immédiatement s'il vous plaît
+Ouvrez le rideau pare-soleil du toit ouvrant à <percent> % immédiatement s'il vous plaît
+Fermez le rideau pare-soleil du toit ouvrant à <percent> % immédiatement s'il vous plaît
+Ouvrez <percent> % du rideau de toit ouvrant immédiatement s'il vous plaît
+Fermez <percent> % du rideau de toit ouvrant immédiatement s'il vous plaît
+Ouvre le toit ouvrant à <percent> %
+Ferme le toit ouvrant à <percent> %
+Ouvre <percent> % du toit ouvrant
+Ferme <percent> % du toit ouvrant
+Ouvre le rideau de toit ouvrant à <percent> %
+Ferme le rideau de toit ouvrant à <percent> %
+Ouvre le rideau pare-soleil du toit ouvrant à <percent> %
+Ferme le rideau pare-soleil du toit ouvrant à <percent> %
+Ouvre <percent> % du rideau de toit ouvrant
+Ferme <percent> % du rideau de toit ouvrant
+Ouvre le toit ouvrant à <percent> % maintenant
+Ferme le toit ouvrant à <percent> % maintenant
+Ouvre <percent> % du toit ouvrant maintenant
+Ferme <percent> % du toit ouvrant maintenant
+Ouvre le rideau de toit ouvrant à <percent> % maintenant
+Ferme le rideau de toit ouvrant à <percent> % maintenant
+Ouvre le rideau pare-soleil du toit ouvrant à <percent> % maintenant
+Ferme le rideau pare-soleil du toit ouvrant à <percent> % maintenant
+Ouvre <percent> % du rideau de toit ouvrant maintenant
+Ferme <percent> % du rideau de toit ouvrant maintenant
+Ouvre le toit ouvrant à <percent> % tout de suite
+Ferme le toit ouvrant à <percent> % tout de suite
+Ouvre <percent> % du toit ouvrant tout de suite
+Ferme <percent> % du toit ouvrant tout de suite
+Ouvre le rideau de toit ouvrant à <percent> % tout de suite
+Ferme le rideau de toit ouvrant à <percent> % tout de suite
+Ouvre le rideau pare-soleil du toit ouvrant à <percent> % tout de suite
+Ferme le rideau pare-soleil du toit ouvrant à <percent> % tout de suite
+Ouvre <percent> % du rideau de toit ouvrant tout de suite
+Ferme <percent> % du rideau de toit ouvrant tout de suite
+Ouvre le toit ouvrant à <percent> % immédiatement
+Ferme le toit ouvrant à <percent> % immédiatement
+Ouvre <percent> % du toit ouvrant immédiatement
+Ferme <percent> % du toit ouvrant immédiatement
+Ouvre le rideau de toit ouvrant à <percent> % immédiatement
+Ferme le rideau de toit ouvrant à <percent> % immédiatement
+Ouvre le rideau pare-soleil du toit ouvrant à <percent> % immédiatement
+Ferme le rideau pare-soleil du toit ouvrant à <percent> % immédiatement
+Ouvre <percent> % du rideau de toit ouvrant immédiatement
+Ferme <percent> % du rideau de toit ouvrant immédiatement
+Ouvre le toit ouvrant à <percent> % pour moi
+Ferme le toit ouvrant à <percent> % pour moi
+Ouvre <percent> % du toit ouvrant pour moi
+Ferme <percent> % du toit ouvrant pour moi
+Ouvre le rideau de toit ouvrant à <percent> % pour moi
+Ferme le rideau de toit ouvrant à <percent> % pour moi
+Ouvre le rideau pare-soleil du toit ouvrant à <percent> % pour moi
+Ferme le rideau pare-soleil du toit ouvrant à <percent> % pour moi
+Ouvre <percent> % du rideau de toit ouvrant pour moi
+Ferme <percent> % du rideau de toit ouvrant pour moi
+Ouvre le toit ouvrant à <percent> % maintenant pour moi
+Ferme le toit ouvrant à <percent> % maintenant pour moi
+Ouvre <percent> % du toit ouvrant maintenant pour moi
+Ferme <percent> % du toit ouvrant maintenant pour moi
+Ouvre le rideau de toit ouvrant à <percent> % maintenant pour moi
+Ferme le rideau de toit ouvrant à <percent> % maintenant pour moi
+Ouvre le rideau pare-soleil du toit ouvrant à <percent> % maintenant pour moi
+Ferme le rideau pare-soleil du toit ouvrant à <percent> % maintenant pour moi
+Ouvre <percent> % du rideau de toit ouvrant maintenant pour moi
+Ferme <percent> % du rideau de toit ouvrant maintenant pour moi
+Ouvre le toit ouvrant à <percent> % tout de suite pour moi
+Ferme le toit ouvrant à <percent> % tout de suite pour moi
+Ouvre <percent> % du toit ouvrant tout de suite pour moi
+Ferme <percent> % du toit ouvrant tout de suite pour moi
+Ouvre le rideau de toit ouvrant à <percent> % tout de suite pour moi
+Ferme le rideau de toit ouvrant à <percent> % tout de suite pour moi
+Ouvre le rideau pare-soleil du toit ouvrant à <percent> % tout de suite pour moi
+Ferme le rideau pare-soleil du toit ouvrant à <percent> % tout de suite pour moi
+Ouvre <percent> % du rideau de toit ouvrant tout de suite pour moi
+Ferme <percent> % du rideau de toit ouvrant tout de suite pour moi
+Ouvre le toit ouvrant à <percent> % immédiatement pour moi
+Ferme le toit ouvrant à <percent> % immédiatement pour moi
+Ouvre <percent> % du toit ouvrant immédiatement pour moi
+Ferme <percent> % du toit ouvrant immédiatement pour moi
+Ouvre le rideau de toit ouvrant à <percent> % immédiatement pour moi
+Ferme le rideau de toit ouvrant à <percent> % immédiatement pour moi
+Ouvre le rideau pare-soleil du toit ouvrant à <percent> % immédiatement pour moi
+Ferme le rideau pare-soleil du toit ouvrant à <percent> % immédiatement pour moi
+Ouvre <percent> % du rideau de toit ouvrant immédiatement pour moi
+Ferme <percent> % du rideau de toit ouvrant immédiatement pour moi
+Ouvre le toit ouvrant à <percent> % s'il te plaît
+Ferme le toit ouvrant à <percent> % s'il te plaît
+Ouvre <percent> % du toit ouvrant s'il te plaît
+Ferme <percent> % du toit ouvrant s'il te plaît
+Ouvre le rideau de toit ouvrant à <percent> % s'il te plaît
+Ferme le rideau de toit ouvrant à <percent> % s'il te plaît
+Ouvre le rideau pare-soleil du toit ouvrant à <percent> % s'il te plaît
+Ferme le rideau pare-soleil du toit ouvrant à <percent> % s'il te plaît
+Ouvre <percent> % du rideau de toit ouvrant s'il te plaît
+Ferme <percent> % du rideau de toit ouvrant s'il te plaît
+Ouvre le toit ouvrant à <percent> % maintenant s'il te plaît
+Ferme le toit ouvrant à <percent> % maintenant s'il te plaît
+Ouvre <percent> % du toit ouvrant maintenant s'il te plaît
+Ferme <percent> % du toit ouvrant maintenant s'il te plaît
+Ouvre le rideau de toit ouvrant à <percent> % maintenant s'il te plaît
+Ferme le rideau de toit ouvrant à <percent> % maintenant s'il te plaît
+Ouvre le rideau pare-soleil du toit ouvrant à <percent> % maintenant s'il te plaît
+Ferme le rideau pare-soleil du toit ouvrant à <percent> % maintenant s'il te plaît
+Ouvre <percent> % du rideau de toit ouvrant maintenant s'il te plaît
+Ferme <percent> % du rideau de toit ouvrant maintenant s'il te plaît
+Ouvre le toit ouvrant à <percent> % tout de suite s'il te plaît
+Ferme le toit ouvrant à <percent> % tout de suite s'il te plaît
+Ouvre <percent> % du toit ouvrant tout de suite s'il te plaît
+Ferme <percent> % du toit ouvrant tout de suite s'il te plaît
+Ouvre le rideau de toit ouvrant à <percent> % tout de suite s'il te plaît
+Ferme le rideau de toit ouvrant à <percent> % tout de suite s'il te plaît
+Ouvre le rideau pare-soleil du toit ouvrant à <percent> % tout de suite s'il te plaît
+Ferme le rideau pare-soleil du toit ouvrant à <percent> % tout de suite s'il te plaît
+Ouvre <percent> % du rideau de toit ouvrant tout de suite s'il te plaît
+Ferme <percent> % du rideau de toit ouvrant tout de suite s'il te plaît
+Ouvre le toit ouvrant à <percent> % immédiatement s'il te plaît
+Ferme le toit ouvrant à <percent> % immédiatement s'il te plaît
+Ouvre <percent> % du toit ouvrant immédiatement s'il te plaît
+Ferme <percent> % du toit ouvrant immédiatement s'il te plaît
+Ouvre le rideau de toit ouvrant à <percent> % immédiatement s'il te plaît
+Ferme le rideau de toit ouvrant à <percent> % immédiatement s'il te plaît
+Ouvre le rideau pare-soleil du toit ouvrant à <percent> % immédiatement s'il te plaît
+Ferme le rideau pare-soleil du toit ouvrant à <percent> % immédiatement s'il te plaît
+Ouvre <percent> % du rideau de toit ouvrant immédiatement s'il te plaît
+Ferme <percent> % du rideau de toit ouvrant immédiatement s'il te plaît
+Peux-tu ouvrir le toit ouvrant à <percent> %
+Peux-tu fermer le toit ouvrant à <percent> %
+Pouvez-vous ouvrir le toit ouvrant à <percent> %
+Pouvez-vous fermer le toit ouvrant à <percent> %
+Peux-tu ouvrir <percent> % du toit ouvrant
+Peux-tu fermer <percent> % du toit ouvrant
+Pouvez-vous ouvrir <percent> % du toit ouvrant
+Pouvez-vous fermer <percent> % du toit ouvrant
+Peux-tu ouvrir le rideau de toit ouvrant à <percent> %
+Peux-tu fermer le rideau de toit ouvrant à <percent> %
+Pouvez-vous ouvrir le rideau de toit ouvrant à <percent> %
+Pouvez-vous fermer le rideau de toit ouvrant à <percent> %
+Peux-tu ouvrir le rideau pare-soleil du toit ouvrant à <percent> %
+Peux-tu fermer le rideau pare-soleil du toit ouvrant à <percent> %
+Pouvez-vous ouvrir le rideau pare-soleil du toit ouvrant à <percent> %
+Pouvez-vous fermer le rideau pare-soleil du toit ouvrant à <percent> %
+Peux-tu ouvrir <percent> % du rideau de toit ouvrant
+Peux-tu fermer <percent> % du rideau de toit ouvrant
+Pouvez-vous ouvrir <percent> % du rideau de toit ouvrant
+Pouvez-vous fermer <percent> % du rideau de toit ouvrant
+Peux-tu ouvrir le toit ouvrant à <percent> % maintenant
+Peux-tu fermer le toit ouvrant à <percent> % maintenant
+Pouvez-vous ouvrir le toit ouvrant à <percent> % maintenant
+Pouvez-vous fermer le toit ouvrant à <percent> % maintenant
+Peux-tu ouvrir <percent> % du toit ouvrant maintenant
+Peux-tu fermer <percent> % du toit ouvrant maintenant
+Pouvez-vous ouvrir <percent> % du toit ouvrant maintenant
+Pouvez-vous fermer <percent> % du toit ouvrant maintenant
+Peux-tu ouvrir le rideau de toit ouvrant à <percent> % maintenant
+Peux-tu fermer le rideau de toit ouvrant à <percent> % maintenant
+Pouvez-vous ouvrir le rideau de toit ouvrant à <percent> % maintenant
+Pouvez-vous fermer le rideau de toit ouvrant à <percent> % maintenant
+Peux-tu ouvrir le rideau pare-soleil du toit ouvrant à <percent> % maintenant
+Peux-tu fermer le rideau pare-soleil du toit ouvrant à <percent> % maintenant
+Pouvez-vous ouvrir le rideau pare-soleil du toit ouvrant à <percent> % maintenant
+Pouvez-vous fermer le rideau pare-soleil du toit ouvrant à <percent> % maintenant
+Peux-tu ouvrir <percent> % du rideau de toit ouvrant maintenant
+Peux-tu fermer <percent> % du rideau de toit ouvrant maintenant
+Pouvez-vous ouvrir <percent> % du rideau de toit ouvrant maintenant
+Pouvez-vous fermer <percent> % du rideau de toit ouvrant maintenant
+Peux-tu ouvrir le toit ouvrant à <percent> % tout de suite
+Peux-tu fermer le toit ouvrant à <percent> % tout de suite
+Pouvez-vous ouvrir le toit ouvrant à <percent> % tout de suite
+Pouvez-vous fermer le toit ouvrant à <percent> % tout de suite
+Peux-tu ouvrir <percent> % du toit ouvrant tout de suite
+Peux-tu fermer <percent> % du toit ouvrant tout de suite
+Pouvez-vous ouvrir <percent> % du toit ouvrant tout de suite
+Pouvez-vous fermer <percent> % du toit ouvrant tout de suite
+Peux-tu ouvrir le rideau de toit ouvrant à <percent> % tout de suite
+Peux-tu fermer le rideau de toit ouvrant à <percent> % tout de suite
+Pouvez-vous ouvrir le rideau de toit ouvrant à <percent> % tout de suite
+Pouvez-vous fermer le rideau de toit ouvrant à <percent> % tout de suite
+Peux-tu ouvrir le rideau pare-soleil du toit ouvrant à <percent> % tout de suite
+Peux-tu fermer le rideau pare-soleil du toit ouvrant à <percent> % tout de suite
+Pouvez-vous ouvrir le rideau pare-soleil du toit ouvrant à <percent> % tout de suite
+Pouvez-vous fermer le rideau pare-soleil du toit ouvrant à <percent> % tout de suite
+Peux-tu ouvrir <percent> % du rideau de toit ouvrant tout de suite
+Peux-tu fermer <percent> % du rideau de toit ouvrant tout de suite
+Pouvez-vous ouvrir <percent> % du rideau de toit ouvrant tout de suite
+Pouvez-vous fermer <percent> % du rideau de toit ouvrant tout de suite
+Peux-tu ouvrir le toit ouvrant à <percent> % immédiatement
+Peux-tu fermer le toit ouvrant à <percent> % immédiatement
+Pouvez-vous ouvrir le toit ouvrant à <percent> % immédiatement
+Pouvez-vous fermer le toit ouvrant à <percent> % immédiatement
+Peux-tu ouvrir <percent> % du toit ouvrant immédiatement
+Peux-tu fermer <percent> % du toit ouvrant immédiatement
+Pouvez-vous ouvrir <percent> % du toit ouvrant immédiatement
+Pouvez-vous fermer <percent> % du toit ouvrant immédiatement
+Peux-tu ouvrir le rideau de toit ouvrant à <percent> % immédiatement
+Peux-tu fermer le rideau de toit ouvrant à <percent> % immédiatement
+Pouvez-vous ouvrir le rideau de toit ouvrant à <percent> % immédiatement
+Pouvez-vous fermer le rideau de toit ouvrant à <percent> % immédiatement
+Peux-tu ouvrir le rideau pare-soleil du toit ouvrant à <percent> % immédiatement
+Peux-tu fermer le rideau pare-soleil du toit ouvrant à <percent> % immédiatement
+Pouvez-vous ouvrir le rideau pare-soleil du toit ouvrant à <percent> % immédiatement
+Pouvez-vous fermer le rideau pare-soleil du toit ouvrant à <percent> % immédiatement
+Peux-tu ouvrir <percent> % du rideau de toit ouvrant immédiatement
+Peux-tu fermer <percent> % du rideau de toit ouvrant immédiatement
+Pouvez-vous ouvrir <percent> % du rideau de toit ouvrant immédiatement
+Pouvez-vous fermer <percent> % du rideau de toit ouvrant immédiatement
+Peux-tu ouvrir le toit ouvrant à <percent> % pour moi
+Peux-tu fermer le toit ouvrant à <percent> % pour moi
+Pouvez-vous ouvrir le toit ouvrant à <percent> % pour moi
+Pouvez-vous fermer le toit ouvrant à <percent> % pour moi
+Peux-tu ouvrir <percent> % du toit ouvrant pour moi
+Peux-tu fermer <percent> % du toit ouvrant pour moi
+Pouvez-vous ouvrir <percent> % du toit ouvrant pour moi
+Pouvez-vous fermer <percent> % du toit ouvrant pour moi
+Peux-tu ouvrir le rideau de toit ouvrant à <percent> % pour moi
+Peux-tu fermer le rideau de toit ouvrant à <percent> % pour moi
+Pouvez-vous ouvrir le rideau de toit ouvrant à <percent> % pour moi
+Pouvez-vous fermer le rideau de toit ouvrant à <percent> % pour moi
+Peux-tu ouvrir le rideau pare-soleil du toit ouvrant à <percent> % pour moi
+Peux-tu fermer le rideau pare-soleil du toit ouvrant à <percent> % pour moi
+Pouvez-vous ouvrir le rideau pare-soleil du toit ouvrant à <percent> % pour moi
+Pouvez-vous fermer le rideau pare-soleil du toit ouvrant à <percent> % pour moi
+Peux-tu ouvrir <percent> % du rideau de toit ouvrant pour moi
+Peux-tu fermer <percent> % du rideau de toit ouvrant pour moi
+Pouvez-vous ouvrir <percent> % du rideau de toit ouvrant pour moi
+Pouvez-vous fermer <percent> % du rideau de toit ouvrant pour moi
+Peux-tu ouvrir le toit ouvrant à <percent> % maintenant pour moi
+Peux-tu fermer le toit ouvrant à <percent> % maintenant pour moi
+Pouvez-vous ouvrir le toit ouvrant à <percent> % maintenant pour moi
+Pouvez-vous fermer le toit ouvrant à <percent> % maintenant pour moi
+Peux-tu ouvrir <percent> % du toit ouvrant maintenant pour moi
+Peux-tu fermer <percent> % du toit ouvrant maintenant pour moi
+Pouvez-vous ouvrir <percent> % du toit ouvrant maintenant pour moi
+Pouvez-vous fermer <percent> % du toit ouvrant maintenant pour moi
+Peux-tu ouvrir le rideau de toit ouvrant à <percent> % maintenant pour moi
+Peux-tu fermer le rideau de toit ouvrant à <percent> % maintenant pour moi
+Pouvez-vous ouvrir le rideau de toit ouvrant à <percent> % maintenant pour moi
+Pouvez-vous fermer le rideau de toit ouvrant à <percent> % maintenant pour moi
+Peux-tu ouvrir le rideau pare-soleil du toit ouvrant à <percent> % maintenant pour moi
+Peux-tu fermer le rideau pare-soleil du toit ouvrant à <percent> % maintenant pour moi
+Pouvez-vous ouvrir le rideau pare-soleil du toit ouvrant à <percent> % maintenant pour moi
+Pouvez-vous fermer le rideau pare-soleil du toit ouvrant à <percent> % maintenant pour moi
+Peux-tu ouvrir <percent> % du rideau de toit ouvrant maintenant pour moi
+Peux-tu fermer <percent> % du rideau de toit ouvrant maintenant pour moi
+Pouvez-vous ouvrir <percent> % du rideau de toit ouvrant maintenant pour moi
+Pouvez-vous fermer <percent> % du rideau de toit ouvrant maintenant pour moi
+Peux-tu ouvrir le toit ouvrant à <percent> % tout de suite pour moi
+Peux-tu fermer le toit ouvrant à <percent> % tout de suite pour moi
+Pouvez-vous ouvrir le toit ouvrant à <percent> % tout de suite pour moi
+Pouvez-vous fermer le toit ouvrant à <percent> % tout de suite pour moi
+Peux-tu ouvrir <percent> % du toit ouvrant tout de suite pour moi
+Peux-tu fermer <percent> % du toit ouvrant tout de suite pour moi
+Pouvez-vous ouvrir <percent> % du toit ouvrant tout de suite pour moi
+Pouvez-vous fermer <percent> % du toit ouvrant tout de suite pour moi
+Peux-tu ouvrir le rideau de toit ouvrant à <percent> % tout de suite pour moi
+Peux-tu fermer le rideau de toit ouvrant à <percent> % tout de suite pour moi
+Pouvez-vous ouvrir le rideau de toit ouvrant à <percent> % tout de suite pour moi
+Pouvez-vous fermer le rideau de toit ouvrant à <percent> % tout de suite pour moi
+Peux-tu ouvrir le rideau pare-soleil du toit ouvrant à <percent> % tout de suite pour moi
+Peux-tu fermer le rideau pare-soleil du toit ouvrant à <percent> % tout de suite pour moi
+Pouvez-vous ouvrir le rideau pare-soleil du toit ouvrant à <percent> % tout de suite pour moi
+Pouvez-vous fermer le rideau pare-soleil du toit ouvrant à <percent> % tout de suite pour moi
+Peux-tu ouvrir <percent> % du rideau de toit ouvrant tout de suite pour moi
+Peux-tu fermer <percent> % du rideau de toit ouvrant tout de suite pour moi
+Pouvez-vous ouvrir <percent> % du rideau de toit ouvrant tout de suite pour moi
+Pouvez-vous fermer <percent> % du rideau de toit ouvrant tout de suite pour moi
+Peux-tu ouvrir le toit ouvrant à <percent> % immédiatement pour moi
+Peux-tu fermer le toit ouvrant à <percent> % immédiatement pour moi
+Pouvez-vous ouvrir le toit ouvrant à <percent> % immédiatement pour moi
+Pouvez-vous fermer le toit ouvrant à <percent> % immédiatement pour moi
+Peux-tu ouvrir <percent> % du toit ouvrant immédiatement pour moi
+Peux-tu fermer <percent> % du toit ouvrant immédiatement pour moi
+Pouvez-vous ouvrir <percent> % du toit ouvrant immédiatement pour moi
+Pouvez-vous fermer <percent> % du toit ouvrant immédiatement pour moi
+Peux-tu ouvrir le rideau de toit ouvrant à <percent> % immédiatement pour moi
+Peux-tu fermer le rideau de toit ouvrant à <percent> % immédiatement pour moi
+Pouvez-vous ouvrir le rideau de toit ouvrant à <percent> % immédiatement pour moi
+Pouvez-vous fermer le rideau de toit ouvrant à <percent> % immédiatement pour moi
+Peux-tu ouvrir le rideau pare-soleil du toit ouvrant à <percent> % immédiatement pour moi
+Peux-tu fermer le rideau pare-soleil du toit ouvrant à <percent> % immédiatement pour moi
+Pouvez-vous ouvrir le rideau pare-soleil du toit ouvrant à <percent> % immédiatement pour moi
+Pouvez-vous fermer le rideau pare-soleil du toit ouvrant à <percent> % immédiatement pour moi
+Peux-tu ouvrir <percent> % du rideau de toit ouvrant immédiatement pour moi
+Peux-tu fermer <percent> % du rideau de toit ouvrant immédiatement pour moi
+Pouvez-vous ouvrir <percent> % du rideau de toit ouvrant immédiatement pour moi
+Pouvez-vous fermer <percent> % du rideau de toit ouvrant immédiatement pour moi

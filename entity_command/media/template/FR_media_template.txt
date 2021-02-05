@@ -1,0 +1,844 @@
+Jouez de la musique préférée É
+Éez de la musique préférée 
+La musique préférée 
+Jouez de la musique joyeuses
+Jouez de la musique amusante
+la musique joyeuses
+la musique amusante
+Jouez de la musique triste
+la musique triste 
+Jouez de la musique d'humeur
+la musique d'humeur
+Jouez de la musique du chanteur
+Définissez la musique préférée
+Ouvrez le lecteur de musique
+Ouvrez l'application de musique
+Ouvrez le lecteur de musique
+Ouvrez la chanson <song>
+Allumez la chanson <song>
+Activez la chanson <song>
+Commencez la chanson <song>
+Jouez la chanson <song>
+Ecoutez la chanson <song>
+Ouvrez la chanson <song> maintenant
+Allumez la chanson <song> maintenant
+Activez la chanson <song> maintenant
+Commencez la chanson <song> maintenant
+Jouez la chanson <song> maintenant
+Ecoutez la chanson <song> maintenant
+Ouvrez la chanson <song> tout de suite
+Allumez la chanson <song> tout de suite
+Activez la chanson <song> tout de suite
+Commencez la chanson <song> tout de suite
+Jouez la chanson <song> tout de suite
+Ecoutez la chanson <song> tout de suite
+Ouvrez la chanson <song> immédiatement
+Allumez la chanson <song> immédiatement
+Activez la chanson <song> immédiatement
+Commencez la chanson <song> immédiatement
+Jouez la chanson <song> immédiatement
+Ecoutez la chanson <song> immédiatement
+Ouvrez la chanson <song> pour moi
+Allumez la chanson <song> pour moi
+Activez la chanson <song> pour moi
+Commencez la chanson <song> pour moi
+Jouez la chanson <song> pour moi
+Ecoutez la chanson <song> pour moi
+Ouvrez la chanson <song> maintenant pour moi
+Allumez la chanson <song> maintenant pour moi
+Activez la chanson <song> maintenant pour moi
+Commencez la chanson <song> maintenant pour moi
+Jouez la chanson <song> maintenant pour moi
+Ecoutez la chanson <song> maintenant pour moi
+Ouvrez la chanson <song> tout de suite pour moi
+Allumez la chanson <song> tout de suite pour moi
+Activez la chanson <song> tout de suite pour moi
+Commencez la chanson <song> tout de suite pour moi
+Jouez la chanson <song> tout de suite pour moi
+Ecoutez la chanson <song> tout de suite pour moi
+Ouvrez la chanson <song> immédiatement pour moi
+Allumez la chanson <song> immédiatement pour moi
+Activez la chanson <song> immédiatement pour moi
+Commencez la chanson <song> immédiatement pour moi
+Jouez la chanson <song> immédiatement pour moi
+Ecoutez la chanson <song> immédiatement pour moi
+Ouvrez la chanson <song> s'il vous plaît
+Allumez la chanson <song> s'il vous plaît
+Activez la chanson <song> s'il vous plaît
+Commencez la chanson <song> s'il vous plaît
+Jouez la chanson <song> s'il vous plaît
+Ecoutez la chanson <song> s'il vous plaît
+Ouvrez la chanson <song> maintenant s'il vous plaît
+Allumez la chanson <song> maintenant s'il vous plaît
+Activez la chanson <song> maintenant s'il vous plaît
+Commencez la chanson <song> maintenant s'il vous plaît
+Jouez la chanson <song> maintenant s'il vous plaît
+Ecoutez la chanson <song> maintenant s'il vous plaît
+Ouvrez la chanson <song> tout de suite s'il vous plaît
+Allumez la chanson <song> tout de suite s'il vous plaît
+Activez la chanson <song> tout de suite s'il vous plaît
+Commencez la chanson <song> tout de suite s'il vous plaît
+Jouez la chanson <song> tout de suite s'il vous plaît
+Ecoutez la chanson <song> tout de suite s'il vous plaît
+Ouvrez la chanson <song> immédiatement s'il vous plaît
+Allumez la chanson <song> immédiatement s'il vous plaît
+Activez la chanson <song> immédiatement s'il vous plaît
+Commencez la chanson <song> immédiatement s'il vous plaît
+Jouez la chanson <song> immédiatement s'il vous plaît
+Ecoutez la chanson <song> immédiatement s'il vous plaît
+Ouvre la chanson <song>
+Allume la chanson <song>
+Active la chanson <song>
+Ecoute la chanson <song>
+Joue la chanson <song>
+Commence la chanson <song>
+Ouvre la chanson <song> maintenant
+Allume la chanson <song> maintenant
+Active la chanson <song> maintenant
+Ecoute la chanson <song> maintenant
+Joue la chanson <song> maintenant
+Commence la chanson <song> maintenant
+Ouvre la chanson <song> tout de suite
+Allume la chanson <song> tout de suite
+Active la chanson <song> tout de suite
+Ecoute la chanson <song> tout de suite
+Joue la chanson <song> tout de suite
+Commence la chanson <song> tout de suite
+Ouvre la chanson <song> immédiatement
+Allume la chanson <song> immédiatement
+Active la chanson <song> immédiatement
+Ecoute la chanson <song> immédiatement
+Joue la chanson <song> immédiatement
+Commence la chanson <song> immédiatement
+Ouvre la chanson <song> pour moi
+Allume la chanson <song> pour moi
+Active la chanson <song> pour moi
+Ecoute la chanson <song> pour moi
+Joue la chanson <song> pour moi
+Commence la chanson <song> pour moi
+Ouvre la chanson <song> maintenant pour moi
+Allume la chanson <song> maintenant pour moi
+Active la chanson <song> maintenant pour moi
+Ecoute la chanson <song> maintenant pour moi
+Joue la chanson <song> maintenant pour moi
+Commence la chanson <song> maintenant pour moi
+Ouvre la chanson <song> tout de suite pour moi
+Allume la chanson <song> tout de suite pour moi
+Active la chanson <song> tout de suite pour moi
+Ecoute la chanson <song> tout de suite pour moi
+Joue la chanson <song> tout de suite pour moi
+Commence la chanson <song> tout de suite pour moi
+Ouvre la chanson <song> immédiatement pour moi
+Allume la chanson <song> immédiatement pour moi
+Active la chanson <song> immédiatement pour moi
+Ecoute la chanson <song> immédiatement pour moi
+Joue la chanson <song> immédiatement pour moi
+Commence la chanson <song> immédiatement pour moi
+Ouvre la chanson <song> s'il te plaît
+Allume la chanson <song> s'il te plaît
+Active la chanson <song> s'il te plaît
+Ecoute la chanson <song> s'il te plaît
+Joue la chanson <song> s'il te plaît
+Commence la chanson <song> s'il te plaît
+Ouvre la chanson <song> maintenant s'il te plaît
+Allume la chanson <song> maintenant s'il te plaît
+Active la chanson <song> maintenant s'il te plaît
+Ecoute la chanson <song> maintenant s'il te plaît
+Joue la chanson <song> maintenant s'il te plaît
+Commence la chanson <song> maintenant s'il te plaît
+Ouvre la chanson <song> tout de suite s'il te plaît
+Allume la chanson <song> tout de suite s'il te plaît
+Active la chanson <song> tout de suite s'il te plaît
+Ecoute la chanson <song> tout de suite s'il te plaît
+Joue la chanson <song> tout de suite s'il te plaît
+Commence la chanson <song> tout de suite s'il te plaît
+Ouvre la chanson <song> immédiatement s'il te plaît
+Allume la chanson <song> immédiatement s'il te plaît
+Active la chanson <song> immédiatement s'il te plaît
+Ecoute la chanson <song> immédiatement s'il te plaît
+Joue la chanson <song> immédiatement s'il te plaît
+Commence la chanson <song> immédiatement s'il te plaît
+Peux-tu ouvrir la chanson <song>
+Peux-tu allumer la chanson <song>
+Peux-tu activer la chanson <song>
+Peux-tu commencer la chanson <song>
+Peux-tu jouer la chanson <song>
+Peux-tu ouvrir la chanson <song> maintenant
+Peux-tu allumer la chanson <song> maintenant
+Peux-tu activer la chanson <song> maintenant
+Peux-tu commencer la chanson <song> maintenant
+Peux-tu jouer la chanson <song> maintenant
+Peux-tu ouvrir la chanson <song> tout de suite
+Peux-tu allumer la chanson <song> tout de suite
+Peux-tu activer la chanson <song> tout de suite
+Peux-tu commencer la chanson <song> tout de suite
+Peux-tu jouer la chanson <song> tout de suite
+Peux-tu ouvrir la chanson <song> immédiatement
+Peux-tu allumer la chanson <song> immédiatement
+Peux-tu activer la chanson <song> immédiatement
+Peux-tu commencer la chanson <song> immédiatement
+Peux-tu jouer la chanson <song> immédiatement
+Peux-tu ouvrir la chanson <song> pour moi
+Peux-tu allumer la chanson <song> pour moi
+Peux-tu activer la chanson <song> pour moi
+Peux-tu commencer la chanson <song> pour moi
+Peux-tu jouer la chanson <song> pour moi
+Peux-tu ouvrir la chanson <song> maintenant pour moi
+Peux-tu allumer la chanson <song> maintenant pour moi
+Peux-tu activer la chanson <song> maintenant pour moi
+Peux-tu commencer la chanson <song> maintenant pour moi
+Peux-tu jouer la chanson <song> maintenant pour moi
+Peux-tu ouvrir la chanson <song> tout de suite pour moi
+Peux-tu allumer la chanson <song> tout de suite pour moi
+Peux-tu activer la chanson <song> tout de suite pour moi
+Peux-tu commencer la chanson <song> tout de suite pour moi
+Peux-tu jouer la chanson <song> tout de suite pour moi
+Peux-tu ouvrir la chanson <song> immédiatement pour moi
+Peux-tu allumer la chanson <song> immédiatement pour moi
+Peux-tu activer la chanson <song> immédiatement pour moi
+Peux-tu commencer la chanson <song> immédiatement pour moi
+Peux-tu jouer la chanson <song> immédiatement pour moi
+Je veux ouvrir la chanson <song>
+Je veux allumer la chanson <song>
+Je veux jouer la chanson <song>
+Je veux commencer la chanson <song>
+Je veux activer la chanson <song>
+Je veux ouvrir la chanson <song> maintenant
+Je veux allumer la chanson <song> maintenant
+Je veux jouer la chanson <song> maintenant
+Je veux commencer la chanson <song> maintenant
+Je veux activer la chanson <song> maintenant
+Je veux ouvrir la chanson <song> tout de suite
+Je veux allumer la chanson <song> tout de suite
+Je veux jouer la chanson <song> tout de suite
+Je veux commencer la chanson <song> tout de suite
+Je veux activer la chanson <song> tout de suite
+Je veux ouvrir la chanson <song> immédiatement
+Je veux allumer la chanson <song> immédiatement
+Je veux jouer la chanson <song> immédiatement
+Je veux commencer la chanson <song> immédiatement
+Je veux activer la chanson <song> immédiatement
+Jouez la chanson <song> de <artist>
+Ouvrez la chanson <song> de <artist>
+Activez la chanson <song> de <artist>
+Démarrez la chanson <song> de <artist>
+Jouez les chansons de <artist>
+Ouvrez les chansons de <artist>
+Activez les chansons de <artist>
+Démarrez les chansons de <artist>
+Jouez l'album <album>
+Ouvrez l'album <album>
+Activez l'album <album>
+Démarrez l'album <album>
+Jouez la chanson <song> de <artist> maintenant
+Ouvrez la chanson <song> de <artist> maintenant
+Activez la chanson <song> de <artist> maintenant
+Démarrez la chanson <song> de <artist> maintenant
+Jouez les chansons de <artist> maintenant
+Ouvrez les chansons de <artist> maintenant
+Activez les chansons de <artist> maintenant
+Démarrez les chansons de <artist> maintenant
+Jouez l'album <album> maintenant
+Ouvrez l'album <album> maintenant
+Activez l'album <album> maintenant
+Démarrez l'album <album> maintenant
+Jouez la chanson <song> de <artist> tout de suite
+Ouvrez la chanson <song> de <artist> tout de suite
+Activez la chanson <song> de <artist> tout de suite
+Démarrez la chanson <song> de <artist> tout de suite
+Jouez les chansons de <artist> tout de suite
+Ouvrez les chansons de <artist> tout de suite
+Activez les chansons de <artist> tout de suite
+Démarrez les chansons de <artist> tout de suite
+Jouez l'album <album> tout de suite
+Ouvrez l'album <album> tout de suite
+Activez l'album <album> tout de suite
+Démarrez l'album <album> tout de suite
+Jouez la chanson <song> de <artist> immédiatement
+Ouvrez la chanson <song> de <artist> immédiatement
+Activez la chanson <song> de <artist> immédiatement
+Démarrez la chanson <song> de <artist> immédiatement
+Jouez les chansons de <artist> immédiatement
+Ouvrez les chansons de <artist> immédiatement
+Activez les chansons de <artist> immédiatement
+Démarrez les chansons de <artist> immédiatement
+Jouez l'album <album> immédiatement
+Ouvrez l'album <album> immédiatement
+Activez l'album <album> immédiatement
+Démarrez l'album <album> immédiatement
+Jouez la chanson <song> de <artist> pour moi
+Ouvrez la chanson <song> de <artist> pour moi
+Activez la chanson <song> de <artist> pour moi
+Démarrez la chanson <song> de <artist> pour moi
+Jouez les chansons de <artist> pour moi
+Ouvrez les chansons de <artist> pour moi
+Activez les chansons de <artist> pour moi
+Démarrez les chansons de <artist> pour moi
+Jouez l'album <album> pour moi
+Ouvrez l'album <album> pour moi
+Activez l'album <album> pour moi
+Démarrez l'album <album> pour moi
+Jouez la chanson <song> de <artist> maintenant pour moi
+Ouvrez la chanson <song> de <artist> maintenant pour moi
+Activez la chanson <song> de <artist> maintenant pour moi
+Démarrez la chanson <song> de <artist> maintenant pour moi
+Jouez les chansons de <artist> maintenant pour moi
+Ouvrez les chansons de <artist> maintenant pour moi
+Activez les chansons de <artist> maintenant pour moi
+Démarrez les chansons de <artist> maintenant pour moi
+Jouez l'album <album> maintenant pour moi
+Ouvrez l'album <album> maintenant pour moi
+Activez l'album <album> maintenant pour moi
+Démarrez l'album <album> maintenant pour moi
+Jouez la chanson <song> de <artist> tout de suite pour moi
+Ouvrez la chanson <song> de <artist> tout de suite pour moi
+Activez la chanson <song> de <artist> tout de suite pour moi
+Démarrez la chanson <song> de <artist> tout de suite pour moi
+Jouez les chansons de <artist> tout de suite pour moi
+Ouvrez les chansons de <artist> tout de suite pour moi
+Activez les chansons de <artist> tout de suite pour moi
+Démarrez les chansons de <artist> tout de suite pour moi
+Jouez l'album <album> tout de suite pour moi
+Ouvrez l'album <album> tout de suite pour moi
+Activez l'album <album> tout de suite pour moi
+Démarrez l'album <album> tout de suite pour moi
+Jouez la chanson <song> de <artist> immédiatement pour moi
+Ouvrez la chanson <song> de <artist> immédiatement pour moi
+Activez la chanson <song> de <artist> immédiatement pour moi
+Démarrez la chanson <song> de <artist> immédiatement pour moi
+Jouez les chansons de <artist> immédiatement pour moi
+Ouvrez les chansons de <artist> immédiatement pour moi
+Activez les chansons de <artist> immédiatement pour moi
+Démarrez les chansons de <artist> immédiatement pour moi
+Jouez l'album <album> immédiatement pour moi
+Ouvrez l'album <album> immédiatement pour moi
+Activez l'album <album> immédiatement pour moi
+Démarrez l'album <album> immédiatement pour moi
+Jouez la chanson <song> de <artist> s'il vous plaît
+Ouvrez la chanson <song> de <artist> s'il vous plaît
+Activez la chanson <song> de <artist> s'il vous plaît
+Démarrez la chanson <song> de <artist> s'il vous plaît
+Jouez les chansons de <artist> s'il vous plaît
+Ouvrez les chansons de <artist> s'il vous plaît
+Activez les chansons de <artist> s'il vous plaît
+Démarrez les chansons de <artist> s'il vous plaît
+Jouez l'album <album> s'il vous plaît
+Ouvrez l'album <album> s'il vous plaît
+Activez l'album <album> s'il vous plaît
+Démarrez l'album <album> s'il vous plaît
+Jouez la chanson <song> de <artist> maintenant s'il vous plaît
+Ouvrez la chanson <song> de <artist> maintenant s'il vous plaît
+Activez la chanson <song> de <artist> maintenant s'il vous plaît
+Démarrez la chanson <song> de <artist> maintenant s'il vous plaît
+Jouez les chansons de <artist> maintenant s'il vous plaît
+Ouvrez les chansons de <artist> maintenant s'il vous plaît
+Activez les chansons de <artist> maintenant s'il vous plaît
+Démarrez les chansons de <artist> maintenant s'il vous plaît
+Jouez l'album <album> maintenant s'il vous plaît
+Ouvrez l'album <album> maintenant s'il vous plaît
+Activez l'album <album> maintenant s'il vous plaît
+Démarrez l'album <album> maintenant s'il vous plaît
+Jouez la chanson <song> de <artist> tout de suite s'il vous plaît
+Ouvrez la chanson <song> de <artist> tout de suite s'il vous plaît
+Activez la chanson <song> de <artist> tout de suite s'il vous plaît
+Démarrez la chanson <song> de <artist> tout de suite s'il vous plaît
+Jouez les chansons de <artist> tout de suite s'il vous plaît
+Ouvrez les chansons de <artist> tout de suite s'il vous plaît
+Activez les chansons de <artist> tout de suite s'il vous plaît
+Démarrez les chansons de <artist> tout de suite s'il vous plaît
+Jouez l'album <album> tout de suite s'il vous plaît
+Ouvrez l'album <album> tout de suite s'il vous plaît
+Activez l'album <album> tout de suite s'il vous plaît
+Démarrez l'album <album> tout de suite s'il vous plaît
+Jouez la chanson <song> de <artist> immédiatement s'il vous plaît
+Ouvrez la chanson <song> de <artist> immédiatement s'il vous plaît
+Activez la chanson <song> de <artist> immédiatement s'il vous plaît
+Démarrez la chanson <song> de <artist> immédiatement s'il vous plaît
+Jouez les chansons de <artist> immédiatement s'il vous plaît
+Ouvrez les chansons de <artist> immédiatement s'il vous plaît
+Activez les chansons de <artist> immédiatement s'il vous plaît
+Démarrez les chansons de <artist> immédiatement s'il vous plaît
+Jouez l'album <album> immédiatement s'il vous plaît
+Ouvrez l'album <album> immédiatement s'il vous plaît
+Activez l'album <album> immédiatement s'il vous plaît
+Démarrez l'album <album> immédiatement s'il vous plaît
+Joue la chanson <song> de <artist>
+Ouvre la chanson <song> de <artist>
+Active la chanson <song> de <artist>
+Démarre la chanson <song> de <artist>
+Joue les chansons de <artist>
+Ouvre les chansons de <artist>
+Active les chansons de <artist>
+Démarre les chansons de <artist>
+Joue l'album <album>
+Ouvre l'album <album>
+Active l'album <album>
+Démarre l'album <album>
+Joue la chanson <song> de <artist> maintenant
+Ouvre la chanson <song> de <artist> maintenant
+Active la chanson <song> de <artist> maintenant
+Démarre la chanson <song> de <artist> maintenant
+Joue les chansons de <artist> maintenant
+Ouvre les chansons de <artist> maintenant
+Active les chansons de <artist> maintenant
+Démarre les chansons de <artist> maintenant
+Joue l'album <album> maintenant
+Ouvre l'album <album> maintenant
+Active l'album <album> maintenant
+Démarre l'album <album> maintenant
+Joue la chanson <song> de <artist> tout de suite
+Ouvre la chanson <song> de <artist> tout de suite
+Active la chanson <song> de <artist> tout de suite
+Démarre la chanson <song> de <artist> tout de suite
+Joue les chansons de <artist> tout de suite
+Ouvre les chansons de <artist> tout de suite
+Active les chansons de <artist> tout de suite
+Démarre les chansons de <artist> tout de suite
+Joue l'album <album> tout de suite
+Ouvre l'album <album> tout de suite
+Active l'album <album> tout de suite
+Démarre l'album <album> tout de suite
+Joue la chanson <song> de <artist> immédiatement
+Ouvre la chanson <song> de <artist> immédiatement
+Active la chanson <song> de <artist> immédiatement
+Démarre la chanson <song> de <artist> immédiatement
+Joue les chansons de <artist> immédiatement
+Ouvre les chansons de <artist> immédiatement
+Active les chansons de <artist> immédiatement
+Démarre les chansons de <artist> immédiatement
+Joue l'album <album> immédiatement
+Ouvre l'album <album> immédiatement
+Active l'album <album> immédiatement
+Démarre l'album <album> immédiatement
+Joue la chanson <song> de <artist> pour moi
+Ouvre la chanson <song> de <artist> pour moi
+Active la chanson <song> de <artist> pour moi
+Démarre la chanson <song> de <artist> pour moi
+Joue les chansons de <artist> pour moi
+Ouvre les chansons de <artist> pour moi
+Active les chansons de <artist> pour moi
+Démarre les chansons de <artist> pour moi
+Joue l'album <album> pour moi
+Ouvre l'album <album> pour moi
+Active l'album <album> pour moi
+Démarre l'album <album> pour moi
+Joue la chanson <song> de <artist> maintenant pour moi
+Ouvre la chanson <song> de <artist> maintenant pour moi
+Active la chanson <song> de <artist> maintenant pour moi
+Démarre la chanson <song> de <artist> maintenant pour moi
+Joue les chansons de <artist> maintenant pour moi
+Ouvre les chansons de <artist> maintenant pour moi
+Active les chansons de <artist> maintenant pour moi
+Démarre les chansons de <artist> maintenant pour moi
+Joue l'album <album> maintenant pour moi
+Ouvre l'album <album> maintenant pour moi
+Active l'album <album> maintenant pour moi
+Démarre l'album <album> maintenant pour moi
+Joue la chanson <song> de <artist> tout de suite pour moi
+Ouvre la chanson <song> de <artist> tout de suite pour moi
+Active la chanson <song> de <artist> tout de suite pour moi
+Démarre la chanson <song> de <artist> tout de suite pour moi
+Joue les chansons de <artist> tout de suite pour moi
+Ouvre les chansons de <artist> tout de suite pour moi
+Active les chansons de <artist> tout de suite pour moi
+Démarre les chansons de <artist> tout de suite pour moi
+Joue l'album <album> tout de suite pour moi
+Ouvre l'album <album> tout de suite pour moi
+Active l'album <album> tout de suite pour moi
+Démarre l'album <album> tout de suite pour moi
+Joue la chanson <song> de <artist> immédiatement pour moi
+Ouvre la chanson <song> de <artist> immédiatement pour moi
+Active la chanson <song> de <artist> immédiatement pour moi
+Démarre la chanson <song> de <artist> immédiatement pour moi
+Joue les chansons de <artist> immédiatement pour moi
+Ouvre les chansons de <artist> immédiatement pour moi
+Active les chansons de <artist> immédiatement pour moi
+Démarre les chansons de <artist> immédiatement pour moi
+Joue l'album <album> immédiatement pour moi
+Ouvre l'album <album> immédiatement pour moi
+Active l'album <album> immédiatement pour moi
+Démarre l'album <album> immédiatement pour moi
+Joue la chanson <song> de <artist> s'il te plaît
+Ouvre la chanson <song> de <artist> s'il te plaît
+Active la chanson <song> de <artist> s'il te plaît
+Démarre la chanson <song> de <artist> s'il te plaît
+Joue les chansons de <artist> s'il te plaît
+Ouvre les chansons de <artist> s'il te plaît
+Active les chansons de <artist> s'il te plaît
+Démarre les chansons de <artist> s'il te plaît
+Joue l'album <album> s'il te plaît
+Ouvre l'album <album> s'il te plaît
+Active l'album <album> s'il te plaît
+Démarre l'album <album> s'il te plaît
+Joue la chanson <song> de <artist> maintenant s'il te plaît
+Ouvre la chanson <song> de <artist> maintenant s'il te plaît
+Active la chanson <song> de <artist> maintenant s'il te plaît
+Démarre la chanson <song> de <artist> maintenant s'il te plaît
+Joue les chansons de <artist> maintenant s'il te plaît
+Ouvre les chansons de <artist> maintenant s'il te plaît
+Active les chansons de <artist> maintenant s'il te plaît
+Démarre les chansons de <artist> maintenant s'il te plaît
+Joue l'album <album> maintenant s'il te plaît
+Ouvre l'album <album> maintenant s'il te plaît
+Active l'album <album> maintenant s'il te plaît
+Démarre l'album <album> maintenant s'il te plaît
+Joue la chanson <song> de <artist> tout de suite s'il te plaît
+Ouvre la chanson <song> de <artist> tout de suite s'il te plaît
+Active la chanson <song> de <artist> tout de suite s'il te plaît
+Démarre la chanson <song> de <artist> tout de suite s'il te plaît
+Joue les chansons de <artist> tout de suite s'il te plaît
+Ouvre les chansons de <artist> tout de suite s'il te plaît
+Active les chansons de <artist> tout de suite s'il te plaît
+Démarre les chansons de <artist> tout de suite s'il te plaît
+Joue l'album <album> tout de suite s'il te plaît
+Ouvre l'album <album> tout de suite s'il te plaît
+Active l'album <album> tout de suite s'il te plaît
+Démarre l'album <album> tout de suite s'il te plaît
+Joue la chanson <song> de <artist> immédiatement s'il te plaît
+Ouvre la chanson <song> de <artist> immédiatement s'il te plaît
+Active la chanson <song> de <artist> immédiatement s'il te plaît
+Démarre la chanson <song> de <artist> immédiatement s'il te plaît
+Joue les chansons de <artist> immédiatement s'il te plaît
+Ouvre les chansons de <artist> immédiatement s'il te plaît
+Active les chansons de <artist> immédiatement s'il te plaît
+Démarre les chansons de <artist> immédiatement s'il te plaît
+Joue l'album <album> immédiatement s'il te plaît
+Ouvre l'album <album> immédiatement s'il te plaît
+Active l'album <album> immédiatement s'il te plaît
+Démarre l'album <album> immédiatement s'il te plaît
+Peux-tu jouer la chanson <song> de <artist>
+Peux-tu ouvrir la chanson <song> de <artist>
+Peux-tu activer la chanson <song> de <artist>
+Peux-tu démarrer la chanson <song> de <artist>
+Pouvez-vous jouer la chanson <song> de <artist>
+Pouvez-vous ouvrir la chanson <song> de <artist>
+Pouvez-vous activer la chanson <song> de <artist>
+Pouvez-vous démarrer la chanson <song> de <artist>
+Peux-tu jouer les chansons de <artist>
+Peux-tu ouvrir les chansons de <artist>
+Peux-tu activer les chansons de <artist>
+Peux-tu démarrer les chansons de <artist>
+Pouvez-vous jouer les chansons de <artist>
+Pouvez-vous ouvrir les chansons de <artist>
+Pouvez-vous activer les chansons de <artist>
+Pouvez-vous démarrer les chansons de <artist>
+Peux-tu jouer l'album <album>
+Peux-tu ouvrir l'album <album>
+Peux-tu activer l'album <album>
+Peux-tu démarrer l'album <album>
+Pouvez-vous jouer l'album <album>
+Pouvez-vous ouvrir l'album <album>
+Pouvez-vous activer l'album <album>
+Pouvez-vous démarrer l'album <album>
+Peux-tu jouer la chanson <song> de <artist> maintenant
+Peux-tu ouvrir la chanson <song> de <artist> maintenant
+Peux-tu activer la chanson <song> de <artist> maintenant
+Peux-tu démarrer la chanson <song> de <artist> maintenant
+Pouvez-vous jouer la chanson <song> de <artist> maintenant
+Pouvez-vous ouvrir la chanson <song> de <artist> maintenant
+Pouvez-vous activer la chanson <song> de <artist> maintenant
+Pouvez-vous démarrer la chanson <song> de <artist> maintenant
+Peux-tu jouer les chansons de <artist> maintenant
+Peux-tu ouvrir les chansons de <artist> maintenant
+Peux-tu activer les chansons de <artist> maintenant
+Peux-tu démarrer les chansons de <artist> maintenant
+Pouvez-vous jouer les chansons de <artist> maintenant
+Pouvez-vous ouvrir les chansons de <artist> maintenant
+Pouvez-vous activer les chansons de <artist> maintenant
+Pouvez-vous démarrer les chansons de <artist> maintenant
+Peux-tu jouer l'album <album> maintenant
+Peux-tu ouvrir l'album <album> maintenant
+Peux-tu activer l'album <album> maintenant
+Peux-tu démarrer l'album <album> maintenant
+Pouvez-vous jouer l'album <album> maintenant
+Pouvez-vous ouvrir l'album <album> maintenant
+Pouvez-vous activer l'album <album> maintenant
+Pouvez-vous démarrer l'album <album> maintenant
+Peux-tu jouer la chanson <song> de <artist> tout de suite
+Peux-tu ouvrir la chanson <song> de <artist> tout de suite
+Peux-tu activer la chanson <song> de <artist> tout de suite
+Peux-tu démarrer la chanson <song> de <artist> tout de suite
+Pouvez-vous jouer la chanson <song> de <artist> tout de suite
+Pouvez-vous ouvrir la chanson <song> de <artist> tout de suite
+Pouvez-vous activer la chanson <song> de <artist> tout de suite
+Pouvez-vous démarrer la chanson <song> de <artist> tout de suite
+Peux-tu jouer les chansons de <artist> tout de suite
+Peux-tu ouvrir les chansons de <artist> tout de suite
+Peux-tu activer les chansons de <artist> tout de suite
+Peux-tu démarrer les chansons de <artist> tout de suite
+Pouvez-vous jouer les chansons de <artist> tout de suite
+Pouvez-vous ouvrir les chansons de <artist> tout de suite
+Pouvez-vous activer les chansons de <artist> tout de suite
+Pouvez-vous démarrer les chansons de <artist> tout de suite
+Peux-tu jouer l'album <album> tout de suite
+Peux-tu ouvrir l'album <album> tout de suite
+Peux-tu activer l'album <album> tout de suite
+Peux-tu démarrer l'album <album> tout de suite
+Pouvez-vous jouer l'album <album> tout de suite
+Pouvez-vous ouvrir l'album <album> tout de suite
+Pouvez-vous activer l'album <album> tout de suite
+Pouvez-vous démarrer l'album <album> tout de suite
+Peux-tu jouer la chanson <song> de <artist> immédiatement
+Peux-tu ouvrir la chanson <song> de <artist> immédiatement
+Peux-tu activer la chanson <song> de <artist> immédiatement
+Peux-tu démarrer la chanson <song> de <artist> immédiatement
+Pouvez-vous jouer la chanson <song> de <artist> immédiatement
+Pouvez-vous ouvrir la chanson <song> de <artist> immédiatement
+Pouvez-vous activer la chanson <song> de <artist> immédiatement
+Pouvez-vous démarrer la chanson <song> de <artist> immédiatement
+Peux-tu jouer les chansons de <artist> immédiatement
+Peux-tu ouvrir les chansons de <artist> immédiatement
+Peux-tu activer les chansons de <artist> immédiatement
+Peux-tu démarrer les chansons de <artist> immédiatement
+Pouvez-vous jouer les chansons de <artist> immédiatement
+Pouvez-vous ouvrir les chansons de <artist> immédiatement
+Pouvez-vous activer les chansons de <artist> immédiatement
+Pouvez-vous démarrer les chansons de <artist> immédiatement
+Peux-tu jouer l'album <album> immédiatement
+Peux-tu ouvrir l'album <album> immédiatement
+Peux-tu activer l'album <album> immédiatement
+Peux-tu démarrer l'album <album> immédiatement
+Pouvez-vous jouer l'album <album> immédiatement
+Pouvez-vous ouvrir l'album <album> immédiatement
+Pouvez-vous activer l'album <album> immédiatement
+Pouvez-vous démarrer l'album <album> immédiatement
+Peux-tu jouer la chanson <song> de <artist> pour moi
+Peux-tu ouvrir la chanson <song> de <artist> pour moi
+Peux-tu activer la chanson <song> de <artist> pour moi
+Peux-tu démarrer la chanson <song> de <artist> pour moi
+Pouvez-vous jouer la chanson <song> de <artist> pour moi
+Pouvez-vous ouvrir la chanson <song> de <artist> pour moi
+Pouvez-vous activer la chanson <song> de <artist> pour moi
+Pouvez-vous démarrer la chanson <song> de <artist> pour moi
+Peux-tu jouer les chansons de <artist> pour moi
+Peux-tu ouvrir les chansons de <artist> pour moi
+Peux-tu activer les chansons de <artist> pour moi
+Peux-tu démarrer les chansons de <artist> pour moi
+Pouvez-vous jouer les chansons de <artist> pour moi
+Pouvez-vous ouvrir les chansons de <artist> pour moi
+Pouvez-vous activer les chansons de <artist> pour moi
+Pouvez-vous démarrer les chansons de <artist> pour moi
+Peux-tu jouer l'album <album> pour moi
+Peux-tu ouvrir l'album <album> pour moi
+Peux-tu activer l'album <album> pour moi
+Peux-tu démarrer l'album <album> pour moi
+Pouvez-vous jouer l'album <album> pour moi
+Pouvez-vous ouvrir l'album <album> pour moi
+Pouvez-vous activer l'album <album> pour moi
+Pouvez-vous démarrer l'album <album> pour moi
+Peux-tu jouer la chanson <song> de <artist> maintenant pour moi
+Peux-tu ouvrir la chanson <song> de <artist> maintenant pour moi
+Peux-tu activer la chanson <song> de <artist> maintenant pour moi
+Peux-tu démarrer la chanson <song> de <artist> maintenant pour moi
+Pouvez-vous jouer la chanson <song> de <artist> maintenant pour moi
+Pouvez-vous ouvrir la chanson <song> de <artist> maintenant pour moi
+Pouvez-vous activer la chanson <song> de <artist> maintenant pour moi
+Pouvez-vous démarrer la chanson <song> de <artist> maintenant pour moi
+Peux-tu jouer les chansons de <artist> maintenant pour moi
+Peux-tu ouvrir les chansons de <artist> maintenant pour moi
+Peux-tu activer les chansons de <artist> maintenant pour moi
+Peux-tu démarrer les chansons de <artist> maintenant pour moi
+Pouvez-vous jouer les chansons de <artist> maintenant pour moi
+Pouvez-vous ouvrir les chansons de <artist> maintenant pour moi
+Pouvez-vous activer les chansons de <artist> maintenant pour moi
+Pouvez-vous démarrer les chansons de <artist> maintenant pour moi
+Peux-tu jouer l'album <album> maintenant pour moi
+Peux-tu ouvrir l'album <album> maintenant pour moi
+Peux-tu activer l'album <album> maintenant pour moi
+Peux-tu démarrer l'album <album> maintenant pour moi
+Pouvez-vous jouer l'album <album> maintenant pour moi
+Pouvez-vous ouvrir l'album <album> maintenant pour moi
+Pouvez-vous activer l'album <album> maintenant pour moi
+Pouvez-vous démarrer l'album <album> maintenant pour moi
+Peux-tu jouer la chanson <song> de <artist> tout de suite pour moi
+Peux-tu ouvrir la chanson <song> de <artist> tout de suite pour moi
+Peux-tu activer la chanson <song> de <artist> tout de suite pour moi
+Peux-tu démarrer la chanson <song> de <artist> tout de suite pour moi
+Pouvez-vous jouer la chanson <song> de <artist> tout de suite pour moi
+Pouvez-vous ouvrir la chanson <song> de <artist> tout de suite pour moi
+Pouvez-vous activer la chanson <song> de <artist> tout de suite pour moi
+Pouvez-vous démarrer la chanson <song> de <artist> tout de suite pour moi
+Peux-tu jouer les chansons de <artist> tout de suite pour moi
+Peux-tu ouvrir les chansons de <artist> tout de suite pour moi
+Peux-tu activer les chansons de <artist> tout de suite pour moi
+Peux-tu démarrer les chansons de <artist> tout de suite pour moi
+Pouvez-vous jouer les chansons de <artist> tout de suite pour moi
+Pouvez-vous ouvrir les chansons de <artist> tout de suite pour moi
+Pouvez-vous activer les chansons de <artist> tout de suite pour moi
+Pouvez-vous démarrer les chansons de <artist> tout de suite pour moi
+Peux-tu jouer l'album <album> tout de suite pour moi
+Peux-tu ouvrir l'album <album> tout de suite pour moi
+Peux-tu activer l'album <album> tout de suite pour moi
+Peux-tu démarrer l'album <album> tout de suite pour moi
+Pouvez-vous jouer l'album <album> tout de suite pour moi
+Pouvez-vous ouvrir l'album <album> tout de suite pour moi
+Pouvez-vous activer l'album <album> tout de suite pour moi
+Pouvez-vous démarrer l'album <album> tout de suite pour moi
+Peux-tu jouer la chanson <song> de <artist> immédiatement pour moi
+Peux-tu ouvrir la chanson <song> de <artist> immédiatement pour moi
+Peux-tu activer la chanson <song> de <artist> immédiatement pour moi
+Peux-tu démarrer la chanson <song> de <artist> immédiatement pour moi
+Pouvez-vous jouer la chanson <song> de <artist> immédiatement pour moi
+Pouvez-vous ouvrir la chanson <song> de <artist> immédiatement pour moi
+Pouvez-vous activer la chanson <song> de <artist> immédiatement pour moi
+Pouvez-vous démarrer la chanson <song> de <artist> immédiatement pour moi
+Peux-tu jouer les chansons de <artist> immédiatement pour moi
+Peux-tu ouvrir les chansons de <artist> immédiatement pour moi
+Peux-tu activer les chansons de <artist> immédiatement pour moi
+Peux-tu démarrer les chansons de <artist> immédiatement pour moi
+Pouvez-vous jouer les chansons de <artist> immédiatement pour moi
+Pouvez-vous ouvrir les chansons de <artist> immédiatement pour moi
+Pouvez-vous activer les chansons de <artist> immédiatement pour moi
+Pouvez-vous démarrer les chansons de <artist> immédiatement pour moi
+Peux-tu jouer l'album <album> immédiatement pour moi
+Peux-tu ouvrir l'album <album> immédiatement pour moi
+Peux-tu activer l'album <album> immédiatement pour moi
+Peux-tu démarrer l'album <album> immédiatement pour moi
+Pouvez-vous jouer l'album <album> immédiatement pour moi
+Pouvez-vous ouvrir l'album <album> immédiatement pour moi
+Pouvez-vous activer l'album <album> immédiatement pour moi
+Pouvez-vous démarrer l'album <album> immédiatement pour moi
+Je veux jouer la chanson <song> de <artist>
+Je veux ouvrir la chanson <song> de <artist>
+Je veux activer la chanson <song> de <artist>
+Je veux démarrer la chanson <song> de <artist>
+Aidez-moi à jouer la chanson <song> de <artist>
+Aidez-moi à ouvrir la chanson <song> de <artist>
+Aidez-moi à activer la chanson <song> de <artist>
+Aidez-moi à démarrer la chanson <song> de <artist>
+Aide-moi à jouer la chanson <song> de <artist>
+Aide-moi à ouvrir la chanson <song> de <artist>
+Aide-moi à activer la chanson <song> de <artist>
+Aide-moi à démarrer la chanson <song> de <artist>
+Je veux jouer les chansons de <artist>
+Je veux ouvrir les chansons de <artist>
+Je veux activer les chansons de <artist>
+Je veux démarrer les chansons de <artist>
+Aidez-moi à jouer les chansons de <artist>
+Aidez-moi à ouvrir les chansons de <artist>
+Aidez-moi à activer les chansons de <artist>
+Aidez-moi à démarrer les chansons de <artist>
+Aide-moi à jouer les chansons de <artist>
+Aide-moi à ouvrir les chansons de <artist>
+Aide-moi à activer les chansons de <artist>
+Aide-moi à démarrer les chansons de <artist>
+Je veux jouer l'album <album>
+Je veux ouvrir l'album <album>
+Je veux activer l'album <album>
+Je veux démarrer l'album <album>
+Aidez-moi à jouer l'album <album>
+Aidez-moi à ouvrir l'album <album>
+Aidez-moi à activer l'album <album>
+Aidez-moi à démarrer l'album <album>
+Aide-moi à jouer l'album <album>
+Aide-moi à ouvrir l'album <album>
+Aide-moi à activer l'album <album>
+Aide-moi à démarrer l'album <album>
+Je veux jouer la chanson <song> de <artist> maintenant
+Je veux ouvrir la chanson <song> de <artist> maintenant
+Je veux activer la chanson <song> de <artist> maintenant
+Je veux démarrer la chanson <song> de <artist> maintenant
+Aidez-moi à jouer la chanson <song> de <artist> maintenant
+Aidez-moi à ouvrir la chanson <song> de <artist> maintenant
+Aidez-moi à activer la chanson <song> de <artist> maintenant
+Aidez-moi à démarrer la chanson <song> de <artist> maintenant
+Aide-moi à jouer la chanson <song> de <artist> maintenant
+Aide-moi à ouvrir la chanson <song> de <artist> maintenant
+Aide-moi à activer la chanson <song> de <artist> maintenant
+Aide-moi à démarrer la chanson <song> de <artist> maintenant
+Je veux jouer les chansons de <artist> maintenant
+Je veux ouvrir les chansons de <artist> maintenant
+Je veux activer les chansons de <artist> maintenant
+Je veux démarrer les chansons de <artist> maintenant
+Aidez-moi à jouer les chansons de <artist> maintenant
+Aidez-moi à ouvrir les chansons de <artist> maintenant
+Aidez-moi à activer les chansons de <artist> maintenant
+Aidez-moi à démarrer les chansons de <artist> maintenant
+Aide-moi à jouer les chansons de <artist> maintenant
+Aide-moi à ouvrir les chansons de <artist> maintenant
+Aide-moi à activer les chansons de <artist> maintenant
+Aide-moi à démarrer les chansons de <artist> maintenant
+Je veux jouer l'album <album> maintenant
+Je veux ouvrir l'album <album> maintenant
+Je veux activer l'album <album> maintenant
+Je veux démarrer l'album <album> maintenant
+Aidez-moi à jouer l'album <album> maintenant
+Aidez-moi à ouvrir l'album <album> maintenant
+Aidez-moi à activer l'album <album> maintenant
+Aidez-moi à démarrer l'album <album> maintenant
+Aide-moi à jouer l'album <album> maintenant
+Aide-moi à ouvrir l'album <album> maintenant
+Aide-moi à activer l'album <album> maintenant
+Aide-moi à démarrer l'album <album> maintenant
+Je veux jouer la chanson <song> de <artist> tout de suite
+Je veux ouvrir la chanson <song> de <artist> tout de suite
+Je veux activer la chanson <song> de <artist> tout de suite
+Je veux démarrer la chanson <song> de <artist> tout de suite
+Aidez-moi à jouer la chanson <song> de <artist> tout de suite
+Aidez-moi à ouvrir la chanson <song> de <artist> tout de suite
+Aidez-moi à activer la chanson <song> de <artist> tout de suite
+Aidez-moi à démarrer la chanson <song> de <artist> tout de suite
+Aide-moi à jouer la chanson <song> de <artist> tout de suite
+Aide-moi à ouvrir la chanson <song> de <artist> tout de suite
+Aide-moi à activer la chanson <song> de <artist> tout de suite
+Aide-moi à démarrer la chanson <song> de <artist> tout de suite
+Je veux jouer les chansons de <artist> tout de suite
+Je veux ouvrir les chansons de <artist> tout de suite
+Je veux activer les chansons de <artist> tout de suite
+Je veux démarrer les chansons de <artist> tout de suite
+Aidez-moi à jouer les chansons de <artist> tout de suite
+Aidez-moi à ouvrir les chansons de <artist> tout de suite
+Aidez-moi à activer les chansons de <artist> tout de suite
+Aidez-moi à démarrer les chansons de <artist> tout de suite
+Aide-moi à jouer les chansons de <artist> tout de suite
+Aide-moi à ouvrir les chansons de <artist> tout de suite
+Aide-moi à activer les chansons de <artist> tout de suite
+Aide-moi à démarrer les chansons de <artist> tout de suite
+Je veux jouer l'album <album> tout de suite
+Je veux ouvrir l'album <album> tout de suite
+Je veux activer l'album <album> tout de suite
+Je veux démarrer l'album <album> tout de suite
+Aidez-moi à jouer l'album <album> tout de suite
+Aidez-moi à ouvrir l'album <album> tout de suite
+Aidez-moi à activer l'album <album> tout de suite
+Aidez-moi à démarrer l'album <album> tout de suite
+Aide-moi à jouer l'album <album> tout de suite
+Aide-moi à ouvrir l'album <album> tout de suite
+Aide-moi à activer l'album <album> tout de suite
+Aide-moi à démarrer l'album <album> tout de suite
+Je veux jouer la chanson <song> de <artist> immédiatement
+Je veux ouvrir la chanson <song> de <artist> immédiatement
+Je veux activer la chanson <song> de <artist> immédiatement
+Je veux démarrer la chanson <song> de <artist> immédiatement
+Aidez-moi à jouer la chanson <song> de <artist> immédiatement
+Aidez-moi à ouvrir la chanson <song> de <artist> immédiatement
+Aidez-moi à activer la chanson <song> de <artist> immédiatement
+Aidez-moi à démarrer la chanson <song> de <artist> immédiatement
+Aide-moi à jouer la chanson <song> de <artist> immédiatement
+Aide-moi à ouvrir la chanson <song> de <artist> immédiatement
+Aide-moi à activer la chanson <song> de <artist> immédiatement
+Aide-moi à démarrer la chanson <song> de <artist> immédiatement
+Je veux jouer les chansons de <artist> immédiatement
+Je veux ouvrir les chansons de <artist> immédiatement
+Je veux activer les chansons de <artist> immédiatement
+Je veux démarrer les chansons de <artist> immédiatement
+Aidez-moi à jouer les chansons de <artist> immédiatement
+Aidez-moi à ouvrir les chansons de <artist> immédiatement
+Aidez-moi à activer les chansons de <artist> immédiatement
+Aidez-moi à démarrer les chansons de <artist> immédiatement
+Aide-moi à jouer les chansons de <artist> immédiatement
+Aide-moi à ouvrir les chansons de <artist> immédiatement
+Aide-moi à activer les chansons de <artist> immédiatement
+Aide-moi à démarrer les chansons de <artist> immédiatement
+Je veux jouer l'album <album> immédiatement
+Je veux ouvrir l'album <album> immédiatement
+Je veux activer l'album <album> immédiatement
+Je veux démarrer l'album <album> immédiatement
+Aidez-moi à jouer l'album <album> immédiatement
+Aidez-moi à ouvrir l'album <album> immédiatement
+Aidez-moi à activer l'album <album> immédiatement
+Aidez-moi à démarrer l'album <album> immédiatement
+Aide-moi à jouer l'album <album> immédiatement
+Aide-moi à ouvrir l'album <album> immédiatement
+Aide-moi à activer l'album <album> immédiatement
+Aide-moi à démarrer l'album <album> immédiatement

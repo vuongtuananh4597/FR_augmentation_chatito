@@ -1,0 +1,632 @@
+[
+    {
+        "Street": "12 Quai des Belges",
+        "City": "Meaux",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "97 rue Lenotre",
+        "City": "Rennes",
+        "State/province/area": "Bretagne"
+    },
+    {
+        "Street": "41 rue Beauvau",
+        "City": "Marseille",
+        "State/province/area": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "Street": "59 rue de Lille",
+        "City": "ArmentiÈres",
+        "State/province/area": "Nord-Pas-de-Calais"
+    },
+    {
+        "Street": "28 rue Victor Hugo",
+        "City": "CompiÈgne",
+        "State/province/area": "Picardie"
+    },
+    {
+        "Street": "87 Chemin des Bateliers",
+        "City": "Aix-les-bains",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "47 rue Gontier-Patin",
+        "City": "Agen",
+        "State/province/area": "Aquitaine"
+    },
+    {
+        "Street": "23 Chemin Du Lavarin Sud",
+        "City": "Cagnes-sur-mer",
+        "State/province/area": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "Street": "2 Rue Frédéric Chopin",
+        "City": "Vertou",
+        "State/province/area": "Pays de la Loire"
+    },
+    {
+        "Street": "41 rue des Soeurs",
+        "City": "La Celle-saint-cloud",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "33 boulevard Amiral Courbet",
+        "City": "Oullins",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "51 rue du Paillle en queue",
+        "City": "Les Ulis",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "70 Place du Jeu de Paume",
+        "City": "Vigneux-sur-seine",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "2 rue des Coudriers",
+        "City": "Moulins",
+        "State/province/area": "Auvergne"
+    },
+    {
+        "Street": "74 cours Franklin Roosevelt",
+        "City": "Marseille",
+        "State/province/area": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "Street": "16 rue Grande Fusterie",
+        "City": "Brunoy",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "33 rue Gouin de Beauchesne",
+        "City": "Saint-nazaire",
+        "State/province/area": "Pays de la Loire"
+    },
+    {
+        "Street": "66 Avenue des Pr'es",
+        "City": "Montigny-lÈs-metz",
+        "State/province/area": "Lorraine"
+    },
+    {
+        "Street": "69 Place du Jeu de Paume",
+        "City": "Vierzon",
+        "State/province/area": "Centre"
+    },
+    {
+        "Street": "45 avenue de Bouvines",
+        "City": "Sevran",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "84 rue du Clair Bocage",
+        "City": "La Roche-sur-yon",
+        "State/province/area": "Pays de la Loire"
+    },
+    {
+        "Street": "53 Rue Frédéric Chopin",
+        "City": "Versailles",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "45 avenue Ferdinand de Lesseps",
+        "City": "Grenoble",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "8 rue du Général Ailleret",
+        "City": "Les Abymes",
+        "State/province/area": "Guadeloupe"
+    },
+    {
+        "Street": "98 rue Ernest Renan",
+        "City": "Choisy-le-roi",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "59 Rue Hubert de Lisle",
+        "City": "Lons-le-saunier",
+        "State/province/area": "Franche-Comté"
+    },
+    {
+        "Street": "71 Place Charles de Gaulle",
+        "City": "Villemomble",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "18 rue de Groussay",
+        "City": "Romans-sur-isÈre",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "62 rue Grande Fusterie",
+        "City": "BrÉtigny-sur-orge",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "37 rue Nationale",
+        "City": "Paris",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "21 Place de la Madeleine",
+        "City": "Paris",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "57 rue des Nations Unies",
+        "City": "Saint-brieuc",
+        "State/province/area": "Bretagne"
+    },
+    {
+        "Street": "21 rue Pierre Motte",
+        "City": "Saint-denis",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "93 rue du Paillle en queue",
+        "City": "Les Ulis",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "80 place de Miremont",
+        "City": "Villepinte",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "61 boulevard de la Liberation",
+        "City": "Marseille",
+        "State/province/area": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "Street": "40 boulevard d'Alsace",
+        "City": "Verdun",
+        "State/province/area": "Lorraine"
+    },
+    {
+        "Street": "74 rue de l'Aigle",
+        "City": "La Garenne-colombes",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "84 Rue du Palais",
+        "City": "Ermont",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "41 boulevard Bryas",
+        "City": "Dammarie-les-lys",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "35 avenue Jules Ferry",
+        "City": "Stains",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "78 rue Descartes",
+        "City": "Suresnes",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "46 place de Miremont",
+        "City": "Villeneuve-la-garenne",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "95 rue Grande Fusterie",
+        "City": "Bron",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "11 rue Sébastopol",
+        "City": "Saint-Étienne",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "98 route de Lyon",
+        "City": "Issy-les-moulineaux",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "15 rue Petite Fusterie",
+        "City": "Bourgoin-jallieu",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "99 Avenue des Pr'es",
+        "City": "MontluÇon",
+        "State/province/area": "Auvergne"
+    },
+    {
+        "Street": "40 rue du Paillle en queue",
+        "City": "L'haŸ-les-roses",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "10 Rue Joseph Vernet",
+        "City": "Bar-le-duc",
+        "State/province/area": "Lorraine"
+    },
+    {
+        "Street": "94 rue Gouin de Beauchesne",
+        "City": "Saint-ouen",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "27 rue Gustave Eiffel",
+        "City": "RezÉ",
+        "State/province/area": "Pays de la Loire"
+    },
+    {
+        "Street": "94 rue Lenotre",
+        "City": "Rennes",
+        "State/province/area": "Bretagne"
+    },
+    {
+        "Street": "44 rue Lenotre",
+        "City": "Rennes",
+        "State/province/area": "Bretagne"
+    },
+    {
+        "Street": "77 rue de la Mare aux Carats",
+        "City": "Montrouge",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "70 Faubourg Saint Honoré",
+        "City": "Paris",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "81 rue Pierre De Coubertin",
+        "City": "Toulouse",
+        "State/province/area": "Midi-Pyrénées"
+    },
+    {
+        "Street": "29 Rue de Strasbourg",
+        "City": "Clamart",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "33 rue Nationale",
+        "City": "Paris",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "7 rue Gouin de Beauchesne",
+        "City": "Saint-ouen",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "57 Chemin des Bateliers",
+        "City": "Aix-les-bains",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "9 rue des Chaligny",
+        "City": "Nice",
+        "State/province/area": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "Street": "4 Rue St Ferréol",
+        "City": "Meudon",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "21 boulevard Albin Durand",
+        "City": "ChÂlons-en-champagne",
+        "State/province/area": "Champagne-Ardenne"
+    },
+    {
+        "Street": "51 rue Banaudon",
+        "City": "Lyon",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "40 Quai des Belges",
+        "City": "Marseille",
+        "State/province/area": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "Street": "49 avenue de Bouvines",
+        "City": "Sevran",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "94 rue du Château",
+        "City": "Saint-Étienne-du-rouvray",
+        "State/province/area": "Haute-Normandie"
+    },
+    {
+        "Street": "15 rue de Geneve",
+        "City": "Alfortville",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "16 Rue St Ferréol",
+        "City": "Meyzieu",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "5 Avenue Millies Lacroix",
+        "City": "Eaubonne",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "38 rue Pierre Motte",
+        "City": "Sainte-anne",
+        "State/province/area": "Guadeloupe"
+    },
+    {
+        "Street": "91 boulevard Aristide Briand",
+        "City": "Le Creusot",
+        "State/province/area": "Bourgogne"
+    },
+    {
+        "Street": "18 Rue St Ferréol",
+        "City": "Meyzieu",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "57 route de Lyon",
+        "City": "Illkirch-graffenstaden",
+        "State/province/area": "Alsace"
+    },
+    {
+        "Street": "73 avenue de Bouvines",
+        "City": "Sens",
+        "State/province/area": "Bourgogne"
+    },
+    {
+        "Street": "34 Rue Bonnet",
+        "City": "Vitrolles",
+        "State/province/area": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "Street": "37 rue de la Mare aux Carats",
+        "City": "Montpellier",
+        "State/province/area": "Languedoc-Roussillon"
+    },
+    {
+        "Street": "80 avenue Jules Ferry",
+        "City": "SÈvres",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "61 Cours Marechal-Joffre",
+        "City": "Deuil-la-barre",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "43 rue Saint Germain",
+        "City": "Garges-lÈs-gonesse",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "3 Chemin Du Lavarin Sud",
+        "City": "Cahors",
+        "State/province/area": "Midi-Pyrénées"
+    },
+    {
+        "Street": "56 rue de la République",
+        "City": "Lyon",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "96 rue de Geneve",
+        "City": "Amiens",
+        "State/province/area": "Picardie"
+    },
+    {
+        "Street": "71 cours Jean Jaures",
+        "City": "Bordeaux",
+        "State/province/area": "Aquitaine"
+    },
+    {
+        "Street": "48 quai Saint-Nicolas",
+        "City": "Tours",
+        "State/province/area": "Centre"
+    },
+    {
+        "Street": "29 rue du Château",
+        "City": "Saint-herblain",
+        "State/province/area": "Pays de la Loire"
+    },
+    {
+        "Street": "4 avenue de Provence",
+        "City": "Vandoeuvre-lÈs-nancy",
+        "State/province/area": "Lorraine"
+    },
+    {
+        "Street": "72 rue du Château",
+        "City": "Saint-herblain",
+        "State/province/area": "Pays de la Loire"
+    },
+    {
+        "Street": "43 rue Isambard",
+        "City": "Franconville-la-garenne",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "10 rue des lieutemants Thomazo",
+        "City": "Dijon",
+        "State/province/area": "Bourgogne"
+    },
+    {
+        "Street": "74 Place de la Gare",
+        "City": "Cognac",
+        "State/province/area": "Poitou-Charentes"
+    },
+    {
+        "Street": "49 rue de Penthièvre",
+        "City": "Quimper",
+        "State/province/area": "Bretagne"
+    },
+    {
+        "Street": "78 avenue du Marechal Juin",
+        "City": "Saint-laurent-du-var",
+        "State/province/area": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "Street": "29 boulevard de Prague",
+        "City": "NÎmes",
+        "State/province/area": "Languedoc-Roussillon"
+    },
+    {
+        "Street": "49 rue des Soeurs",
+        "City": "La Celle-saint-cloud",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "35 Rue Frédéric Chopin",
+        "City": "Vertou",
+        "State/province/area": "Pays de la Loire"
+    },
+    {
+        "Street": "68 rue Grande Fusterie",
+        "City": "Bron",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "14 rue Marguerite",
+        "City": "Viry-chÂtillon",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "66 rue Descartes",
+        "City": "Strasbourg",
+        "State/province/area": "Alsace"
+    },
+    {
+        "Street": "60 rue Lenotre",
+        "City": "Rennes",
+        "State/province/area": "Bretagne"
+    },
+    {
+        "Street": "60 Place de la Madeleine",
+        "City": "Paris",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "85 rue de la Mare aux Carats",
+        "City": "Montpellier",
+        "State/province/area": "Languedoc-Roussillon"
+    },
+    {
+        "Street": "12 route de Lyon",
+        "City": "Ivry-sur-seine",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "26 Cours Marechal-Joffre",
+        "City": "Dax",
+        "State/province/area": "Aquitaine"
+    },
+    {
+        "Street": "94 Square de la Couronne",
+        "City": "Palaiseau",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "19 rue des Soeurs",
+        "City": "La Celle-saint-cloud",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "57 avenue Jules Ferry",
+        "City": "Six-fours-les-plages",
+        "State/province/area": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "Street": "48 Avenue Millies Lacroix",
+        "City": "Eaubonne",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "17 rue Banaudon",
+        "City": "Lyon",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "10 boulevard Amiral Courbet",
+        "City": "Oyonnax",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "2 Rue Roussy",
+        "City": "Orange",
+        "State/province/area": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+        "Street": "99 rue des Chaligny",
+        "City": "Nevers",
+        "State/province/area": "Bourgogne"
+    },
+    {
+        "Street": "44 Cours Marechal-Joffre",
+        "City": "DÉcines-charpieu",
+        "State/province/area": "Rhône-Alpes"
+    },
+    {
+        "Street": "98 Avenue des Tuileries",
+        "City": "Grigny",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "83 rue Goya",
+        "City": "Le Moule",
+        "State/province/area": "Guadeloupe"
+    },
+    {
+        "Street": "2 Rue Joseph Vernet",
+        "City": "Bar-le-duc",
+        "State/province/area": "Lorraine"
+    },
+    {
+        "Street": "5 rue Marguerite",
+        "City": "Villiers-le-bel",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "78 avenue de l'Amandier",
+        "City": "Bobigny",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "54 rue Jean-Monnet",
+        "City": "Goussainville",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "94 rue du Paillle en queue",
+        "City": "L'haŸ-les-roses",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "18 boulevard Amiral Courbet",
+        "City": "OrlÉans",
+        "State/province/area": "Centre"
+    },
+    {
+        "Street": "93 rue Michel Ange",
+        "City": "Le Havre",
+        "State/province/area": "Haute-Normandie"
+    },
+    {
+        "Street": "25 rue Clement Marot",
+        "City": "Perpignan",
+        "State/province/area": "Languedoc-Roussillon"
+    },
+    {
+        "Street": "48 boulevard Aristide Briand",
+        "City": "Le Chesnay",
+        "State/province/area": "Île-de-France"
+    },
+    {
+        "Street": "96 Avenue des Pr'es",
+        "City": "Montpellier",
+        "State/province/area": "Languedoc-Roussillon"
+    }
+]

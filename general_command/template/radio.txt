@@ -1,0 +1,796 @@
+Ouvre la radio FM
+Allume la radio FM
+Active la radio FM
+Ouvre la radio FM <frequency>
+Allume la radio FM <frequency>
+Active la radio FM <frequency>
+Ouvre la station <frequency>
+Allume la station <frequency>
+Active la station <frequency>
+Ouvre FM <frequency>
+Allume FM <frequency>
+Active FM <frequency>
+Ouvre la radio à <frequency>
+Allume la radio à <frequency>
+Active la radio à <frequency>
+Ouvre la radio FM maintenant
+Allume la radio FM maintenant
+Active la radio FM maintenant
+Ouvre la radio FM <frequency> maintenant
+Allume la radio FM <frequency> maintenant
+Active la radio FM <frequency> maintenant
+Ouvre la station <frequency> maintenant
+Allume la station <frequency> maintenant
+Active la station <frequency> maintenant
+Ouvre FM <frequency> maintenant
+Allume FM <frequency> maintenant
+Active FM <frequency> maintenant
+Ouvre la radio à <frequency> maintenant
+Allume la radio à <frequency> maintenant
+Active la radio à <frequency> maintenant
+Ouvre la radio FM tout de suite
+Allume la radio FM tout de suite
+Active la radio FM tout de suite
+Ouvre la radio FM <frequency> tout de suite
+Allume la radio FM <frequency> tout de suite
+Active la radio FM <frequency> tout de suite
+Ouvre la station <frequency> tout de suite
+Allume la station <frequency> tout de suite
+Active la station <frequency> tout de suite
+Ouvre FM <frequency> tout de suite
+Allume FM <frequency> tout de suite
+Active FM <frequency> tout de suite
+Ouvre la radio à <frequency> tout de suite
+Allume la radio à <frequency> tout de suite
+Active la radio à <frequency> tout de suite
+Ouvre la radio FM immédiatement
+Allume la radio FM immédiatement
+Active la radio FM immédiatement
+Ouvre la radio FM <frequency> immédiatement
+Allume la radio FM <frequency> immédiatement
+Active la radio FM <frequency> immédiatement
+Ouvre la station <frequency> immédiatement
+Allume la station <frequency> immédiatement
+Active la station <frequency> immédiatement
+Ouvre FM <frequency> immédiatement
+Allume FM <frequency> immédiatement
+Active FM <frequency> immédiatement
+Ouvre la radio à <frequency> immédiatement
+Allume la radio à <frequency> immédiatement
+Active la radio à <frequency> immédiatement
+Ouvre la radio FM pour moi
+Allume la radio FM pour moi
+Active la radio FM pour moi
+Ouvre la radio FM <frequency> pour moi
+Allume la radio FM <frequency> pour moi
+Active la radio FM <frequency> pour moi
+Ouvre la station <frequency> pour moi
+Allume la station <frequency> pour moi
+Active la station <frequency> pour moi
+Ouvre FM <frequency> pour moi
+Allume FM <frequency> pour moi
+Active FM <frequency> pour moi
+Ouvre la radio à <frequency> pour moi
+Allume la radio à <frequency> pour moi
+Active la radio à <frequency> pour moi
+Ouvre la radio FM maintenant pour moi
+Allume la radio FM maintenant pour moi
+Active la radio FM maintenant pour moi
+Ouvre la radio FM <frequency> maintenant pour moi
+Allume la radio FM <frequency> maintenant pour moi
+Active la radio FM <frequency> maintenant pour moi
+Ouvre la station <frequency> maintenant pour moi
+Allume la station <frequency> maintenant pour moi
+Active la station <frequency> maintenant pour moi
+Ouvre FM <frequency> maintenant pour moi
+Allume FM <frequency> maintenant pour moi
+Active FM <frequency> maintenant pour moi
+Ouvre la radio à <frequency> maintenant pour moi
+Allume la radio à <frequency> maintenant pour moi
+Active la radio à <frequency> maintenant pour moi
+Ouvre la radio FM tout de suite pour moi
+Allume la radio FM tout de suite pour moi
+Active la radio FM tout de suite pour moi
+Ouvre la radio FM <frequency> tout de suite pour moi
+Allume la radio FM <frequency> tout de suite pour moi
+Active la radio FM <frequency> tout de suite pour moi
+Ouvre la station <frequency> tout de suite pour moi
+Allume la station <frequency> tout de suite pour moi
+Active la station <frequency> tout de suite pour moi
+Ouvre FM <frequency> tout de suite pour moi
+Allume FM <frequency> tout de suite pour moi
+Active FM <frequency> tout de suite pour moi
+Ouvre la radio à <frequency> tout de suite pour moi
+Allume la radio à <frequency> tout de suite pour moi
+Active la radio à <frequency> tout de suite pour moi
+Ouvre la radio FM immédiatement pour moi
+Allume la radio FM immédiatement pour moi
+Active la radio FM immédiatement pour moi
+Ouvre la radio FM <frequency> immédiatement pour moi
+Allume la radio FM <frequency> immédiatement pour moi
+Active la radio FM <frequency> immédiatement pour moi
+Ouvre la station <frequency> immédiatement pour moi
+Allume la station <frequency> immédiatement pour moi
+Active la station <frequency> immédiatement pour moi
+Ouvre FM <frequency> immédiatement pour moi
+Allume FM <frequency> immédiatement pour moi
+Active FM <frequency> immédiatement pour moi
+Ouvre la radio à <frequency> immédiatement pour moi
+Allume la radio à <frequency> immédiatement pour moi
+Active la radio à <frequency> immédiatement pour moi
+Ouvre la radio FM s'il te plaît
+Allume la radio FM s'il te plaît
+Active la radio FM s'il te plaît
+Ouvre la radio FM <frequency> s'il te plaît
+Allume la radio FM <frequency> s'il te plaît
+Active la radio FM <frequency> s'il te plaît
+Ouvre la station <frequency> s'il te plaît
+Allume la station <frequency> s'il te plaît
+Active la station <frequency> s'il te plaît
+Ouvre FM <frequency> s'il te plaît
+Allume FM <frequency> s'il te plaît
+Active FM <frequency> s'il te plaît
+Ouvre la radio à <frequency> s'il te plaît
+Allume la radio à <frequency> s'il te plaît
+Active la radio à <frequency> s'il te plaît
+Ouvre la radio FM maintenant s'il te plaît
+Allume la radio FM maintenant s'il te plaît
+Active la radio FM maintenant s'il te plaît
+Ouvre la radio FM <frequency> maintenant s'il te plaît
+Allume la radio FM <frequency> maintenant s'il te plaît
+Active la radio FM <frequency> maintenant s'il te plaît
+Ouvre la station <frequency> maintenant s'il te plaît
+Allume la station <frequency> maintenant s'il te plaît
+Active la station <frequency> maintenant s'il te plaît
+Ouvre FM <frequency> maintenant s'il te plaît
+Allume FM <frequency> maintenant s'il te plaît
+Active FM <frequency> maintenant s'il te plaît
+Ouvre la radio à <frequency> maintenant s'il te plaît
+Allume la radio à <frequency> maintenant s'il te plaît
+Active la radio à <frequency> maintenant s'il te plaît
+Ouvre la radio FM tout de suite s'il te plaît
+Allume la radio FM tout de suite s'il te plaît
+Active la radio FM tout de suite s'il te plaît
+Ouvre la radio FM <frequency> tout de suite s'il te plaît
+Allume la radio FM <frequency> tout de suite s'il te plaît
+Active la radio FM <frequency> tout de suite s'il te plaît
+Ouvre la station <frequency> tout de suite s'il te plaît
+Allume la station <frequency> tout de suite s'il te plaît
+Active la station <frequency> tout de suite s'il te plaît
+Ouvre FM <frequency> tout de suite s'il te plaît
+Allume FM <frequency> tout de suite s'il te plaît
+Active FM <frequency> tout de suite s'il te plaît
+Ouvre la radio à <frequency> tout de suite s'il te plaît
+Allume la radio à <frequency> tout de suite s'il te plaît
+Active la radio à <frequency> tout de suite s'il te plaît
+Ouvre la radio FM immédiatement s'il te plaît
+Allume la radio FM immédiatement s'il te plaît
+Active la radio FM immédiatement s'il te plaît
+Ouvre la radio FM <frequency> immédiatement s'il te plaît
+Allume la radio FM <frequency> immédiatement s'il te plaît
+Active la radio FM <frequency> immédiatement s'il te plaît
+Ouvre la station <frequency> immédiatement s'il te plaît
+Allume la station <frequency> immédiatement s'il te plaît
+Active la station <frequency> immédiatement s'il te plaît
+Ouvre FM <frequency> immédiatement s'il te plaît
+Allume FM <frequency> immédiatement s'il te plaît
+Active FM <frequency> immédiatement s'il te plaît
+Ouvre la radio à <frequency> immédiatement s'il te plaît
+Allume la radio à <frequency> immédiatement s'il te plaît
+Active la radio à <frequency> immédiatement s'il te plaît
+Peux-tu ouvrir la radio FM
+Peux-tu allumer la radio FM
+Peux-tu activer la radio FM
+Peux-tu ouvrir la radio FM <frequency>
+Peux-tu allumer la radio FM <frequency>
+Peux-tu activer la radio FM <frequency>
+Peux-tu ouvrir la station <frequency>
+Peux-tu allumer la station <frequency>
+Peux-tu activer la station <frequency>
+Peux-tu ouvrir FM <frequency>
+Peux-tu allumer FM <frequency>
+Peux-tu activer FM <frequency>
+Peux-tu ouvrir la radio à (FREQ)
+Peux-tu allumer la radio à (FREQ)
+Peux-tu activer la radio à (FREQ)
+Peux-tu ouvrir <channel>
+Peux-tu allumer <channel>
+Peux-tu activer <channel>
+Peux-tu ouvrir la station channel
+Peux-tu allumer la station channel
+Peux-tu activer la station channel
+Peux-tu ouvrir la radio FM maintenant
+Peux-tu allumer la radio FM maintenant
+Peux-tu activer la radio FM maintenant
+Peux-tu ouvrir la radio FM <frequency> maintenant
+Peux-tu allumer la radio FM <frequency> maintenant
+Peux-tu activer la radio FM <frequency> maintenant
+Peux-tu ouvrir la station <frequency> maintenant
+Peux-tu allumer la station <frequency> maintenant
+Peux-tu activer la station <frequency> maintenant
+Peux-tu ouvrir FM <frequency> maintenant
+Peux-tu allumer FM <frequency> maintenant
+Peux-tu activer FM <frequency> maintenant
+Peux-tu ouvrir la radio à (FREQ) maintenant
+Peux-tu allumer la radio à (FREQ) maintenant
+Peux-tu activer la radio à (FREQ) maintenant
+Peux-tu ouvrir <channel> maintenant
+Peux-tu allumer <channel> maintenant
+Peux-tu activer <channel> maintenant
+Peux-tu ouvrir la station channel maintenant
+Peux-tu allumer la station channel maintenant
+Peux-tu activer la station channel maintenant
+Peux-tu ouvrir la radio FM tout de suite
+Peux-tu allumer la radio FM tout de suite
+Peux-tu activer la radio FM tout de suite
+Peux-tu ouvrir la radio FM <frequency> tout de suite
+Peux-tu allumer la radio FM <frequency> tout de suite
+Peux-tu activer la radio FM <frequency> tout de suite
+Peux-tu ouvrir la station <frequency> tout de suite
+Peux-tu allumer la station <frequency> tout de suite
+Peux-tu activer la station <frequency> tout de suite
+Peux-tu ouvrir FM <frequency> tout de suite
+Peux-tu allumer FM <frequency> tout de suite
+Peux-tu activer FM <frequency> tout de suite
+Peux-tu ouvrir la radio à (FREQ) tout de suite
+Peux-tu allumer la radio à (FREQ) tout de suite
+Peux-tu activer la radio à (FREQ) tout de suite
+Peux-tu ouvrir <channel> tout de suite
+Peux-tu allumer <channel> tout de suite
+Peux-tu activer <channel> tout de suite
+Peux-tu ouvrir la station channel tout de suite
+Peux-tu allumer la station channel tout de suite
+Peux-tu activer la station channel tout de suite
+Peux-tu ouvrir la radio FM immédiatement
+Peux-tu allumer la radio FM immédiatement
+Peux-tu activer la radio FM immédiatement
+Peux-tu ouvrir la radio FM <frequency> immédiatement
+Peux-tu allumer la radio FM <frequency> immédiatement
+Peux-tu activer la radio FM <frequency> immédiatement
+Peux-tu ouvrir la station <frequency> immédiatement
+Peux-tu allumer la station <frequency> immédiatement
+Peux-tu activer la station <frequency> immédiatement
+Peux-tu ouvrir FM <frequency> immédiatement
+Peux-tu allumer FM <frequency> immédiatement
+Peux-tu activer FM <frequency> immédiatement
+Peux-tu ouvrir la radio à (FREQ) immédiatement
+Peux-tu allumer la radio à (FREQ) immédiatement
+Peux-tu activer la radio à (FREQ) immédiatement
+Peux-tu ouvrir <channel> immédiatement
+Peux-tu allumer <channel> immédiatement
+Peux-tu activer <channel> immédiatement
+Peux-tu ouvrir la station channel immédiatement
+Peux-tu allumer la station channel immédiatement
+Peux-tu activer la station channel immédiatement
+Peux-tu ouvrir la radio FM pour moi
+Peux-tu allumer la radio FM pour moi
+Peux-tu activer la radio FM pour moi
+Peux-tu ouvrir la radio FM <frequency> pour moi
+Peux-tu allumer la radio FM <frequency> pour moi
+Peux-tu activer la radio FM <frequency> pour moi
+Peux-tu ouvrir la station <frequency> pour moi
+Peux-tu allumer la station <frequency> pour moi
+Peux-tu activer la station <frequency> pour moi
+Peux-tu ouvrir FM <frequency> pour moi
+Peux-tu allumer FM <frequency> pour moi
+Peux-tu activer FM <frequency> pour moi
+Peux-tu ouvrir la radio à (FREQ) pour moi
+Peux-tu allumer la radio à (FREQ) pour moi
+Peux-tu activer la radio à (FREQ) pour moi
+Peux-tu ouvrir <channel> pour moi
+Peux-tu allumer <channel> pour moi
+Peux-tu activer <channel> pour moi
+Peux-tu ouvrir la station channel pour moi
+Peux-tu allumer la station channel pour moi
+Peux-tu activer la station channel pour moi
+Peux-tu ouvrir la radio FM maintenant pour moi
+Peux-tu allumer la radio FM maintenant pour moi
+Peux-tu activer la radio FM maintenant pour moi
+Peux-tu ouvrir la radio FM <frequency> maintenant pour moi
+Peux-tu allumer la radio FM <frequency> maintenant pour moi
+Peux-tu activer la radio FM <frequency> maintenant pour moi
+Peux-tu ouvrir la station <frequency> maintenant pour moi
+Peux-tu allumer la station <frequency> maintenant pour moi
+Peux-tu activer la station <frequency> maintenant pour moi
+Peux-tu ouvrir FM <frequency> maintenant pour moi
+Peux-tu allumer FM <frequency> maintenant pour moi
+Peux-tu activer FM <frequency> maintenant pour moi
+Peux-tu ouvrir la radio à (FREQ) maintenant pour moi
+Peux-tu allumer la radio à (FREQ) maintenant pour moi
+Peux-tu activer la radio à (FREQ) maintenant pour moi
+Peux-tu ouvrir <channel> maintenant pour moi
+Peux-tu allumer <channel> maintenant pour moi
+Peux-tu activer <channel> maintenant pour moi
+Peux-tu ouvrir la station channel maintenant pour moi
+Peux-tu allumer la station channel maintenant pour moi
+Peux-tu activer la station channel maintenant pour moi
+Peux-tu ouvrir la radio FM tout de suite pour moi
+Peux-tu allumer la radio FM tout de suite pour moi
+Peux-tu activer la radio FM tout de suite pour moi
+Peux-tu ouvrir la radio FM <frequency> tout de suite pour moi
+Peux-tu allumer la radio FM <frequency> tout de suite pour moi
+Peux-tu activer la radio FM <frequency> tout de suite pour moi
+Peux-tu ouvrir la station <frequency> tout de suite pour moi
+Peux-tu allumer la station <frequency> tout de suite pour moi
+Peux-tu activer la station <frequency> tout de suite pour moi
+Peux-tu ouvrir FM <frequency> tout de suite pour moi
+Peux-tu allumer FM <frequency> tout de suite pour moi
+Peux-tu activer FM <frequency> tout de suite pour moi
+Peux-tu ouvrir la radio à (FREQ) tout de suite pour moi
+Peux-tu allumer la radio à (FREQ) tout de suite pour moi
+Peux-tu activer la radio à (FREQ) tout de suite pour moi
+Peux-tu ouvrir <channel> tout de suite pour moi
+Peux-tu allumer <channel> tout de suite pour moi
+Peux-tu activer <channel> tout de suite pour moi
+Peux-tu ouvrir la station channel tout de suite pour moi
+Peux-tu allumer la station channel tout de suite pour moi
+Peux-tu activer la station channel tout de suite pour moi
+Peux-tu ouvrir la radio FM immédiatement pour moi
+Peux-tu allumer la radio FM immédiatement pour moi
+Peux-tu activer la radio FM immédiatement pour moi
+Peux-tu ouvrir la radio FM <frequency> immédiatement pour moi
+Peux-tu allumer la radio FM <frequency> immédiatement pour moi
+Peux-tu activer la radio FM <frequency> immédiatement pour moi
+Peux-tu ouvrir la station <frequency> immédiatement pour moi
+Peux-tu allumer la station <frequency> immédiatement pour moi
+Peux-tu activer la station <frequency> immédiatement pour moi
+Peux-tu ouvrir FM <frequency> immédiatement pour moi
+Peux-tu allumer FM <frequency> immédiatement pour moi
+Peux-tu activer FM <frequency> immédiatement pour moi
+Peux-tu ouvrir la radio à (FREQ) immédiatement pour moi
+Peux-tu allumer la radio à (FREQ) immédiatement pour moi
+Peux-tu activer la radio à (FREQ) immédiatement pour moi
+Peux-tu ouvrir <channel> immédiatement pour moi
+Peux-tu allumer <channel> immédiatement pour moi
+Peux-tu activer <channel> immédiatement pour moi
+Peux-tu ouvrir la station channel immédiatement pour moi
+Peux-tu allumer la station channel immédiatement pour moi
+Peux-tu activer la station channel immédiatement pour moi
+Ouvrez la radio FM
+Allumez la radio FM
+Activez la radio FM
+Ecoutez la radio FM
+Ouvrez la radio FM <frequency>
+Allumez la radio FM <frequency>
+Activez la radio FM <frequency>
+Ecoutez la radio FM <frequency>
+Ouvrez la station <frequency>
+Allumez la station <frequency>
+Activez la station <frequency>
+Ecoutez la station <frequency>
+Ouvrez FM <frequency>
+Allumez FM <frequency>
+Activez FM <frequency>
+Ecoutez FM <frequency>
+Ouvrez la radio à <frequency>
+Allumez la radio à <frequency>
+Activez la radio à <frequency>
+Ecoutez la radio à <frequency>
+Ouvrez <channel>
+Allumez <channel>
+Activez <channel>
+Ecoutez <channel>
+Ouvrez la station <channel>
+Allumez la station <channel>
+Activez la station <channel>
+Ecoutez la station <channel>
+Ouvrez la radio FM maintenant
+Allumez la radio FM maintenant
+Activez la radio FM maintenant
+Ecoutez la radio FM maintenant
+Ouvrez la radio FM <frequency> maintenant
+Allumez la radio FM <frequency> maintenant
+Activez la radio FM <frequency> maintenant
+Ecoutez la radio FM <frequency> maintenant
+Ouvrez la station <frequency> maintenant
+Allumez la station <frequency> maintenant
+Activez la station <frequency> maintenant
+Ecoutez la station <frequency> maintenant
+Ouvrez FM <frequency> maintenant
+Allumez FM <frequency> maintenant
+Activez FM <frequency> maintenant
+Ecoutez FM <frequency> maintenant
+Ouvrez la radio à <frequency> maintenant
+Allumez la radio à <frequency> maintenant
+Activez la radio à <frequency> maintenant
+Ecoutez la radio à <frequency> maintenant
+Ouvrez <channel> maintenant
+Allumez <channel> maintenant
+Activez <channel> maintenant
+Ecoutez <channel> maintenant
+Ouvrez la station <channel> maintenant
+Allumez la station <channel> maintenant
+Activez la station <channel> maintenant
+Ecoutez la station <channel> maintenant
+Ouvrez la radio FM tout de suite
+Allumez la radio FM tout de suite
+Activez la radio FM tout de suite
+Ecoutez la radio FM tout de suite
+Ouvrez la radio FM <frequency> tout de suite
+Allumez la radio FM <frequency> tout de suite
+Activez la radio FM <frequency> tout de suite
+Ecoutez la radio FM <frequency> tout de suite
+Ouvrez la station <frequency> tout de suite
+Allumez la station <frequency> tout de suite
+Activez la station <frequency> tout de suite
+Ecoutez la station <frequency> tout de suite
+Ouvrez FM <frequency> tout de suite
+Allumez FM <frequency> tout de suite
+Activez FM <frequency> tout de suite
+Ecoutez FM <frequency> tout de suite
+Ouvrez la radio à <frequency> tout de suite
+Allumez la radio à <frequency> tout de suite
+Activez la radio à <frequency> tout de suite
+Ecoutez la radio à <frequency> tout de suite
+Ouvrez <channel> tout de suite
+Allumez <channel> tout de suite
+Activez <channel> tout de suite
+Ecoutez <channel> tout de suite
+Ouvrez la station <channel> tout de suite
+Allumez la station <channel> tout de suite
+Activez la station <channel> tout de suite
+Ecoutez la station <channel> tout de suite
+Ouvrez la radio FM immédiatement
+Allumez la radio FM immédiatement
+Activez la radio FM immédiatement
+Ecoutez la radio FM immédiatement
+Ouvrez la radio FM <frequency> immédiatement
+Allumez la radio FM <frequency> immédiatement
+Activez la radio FM <frequency> immédiatement
+Ecoutez la radio FM <frequency> immédiatement
+Ouvrez la station <frequency> immédiatement
+Allumez la station <frequency> immédiatement
+Activez la station <frequency> immédiatement
+Ecoutez la station <frequency> immédiatement
+Ouvrez FM <frequency> immédiatement
+Allumez FM <frequency> immédiatement
+Activez FM <frequency> immédiatement
+Ecoutez FM <frequency> immédiatement
+Ouvrez la radio à <frequency> immédiatement
+Allumez la radio à <frequency> immédiatement
+Activez la radio à <frequency> immédiatement
+Ecoutez la radio à <frequency> immédiatement
+Ouvrez <channel> immédiatement
+Allumez <channel> immédiatement
+Activez <channel> immédiatement
+Ecoutez <channel> immédiatement
+Ouvrez la station <channel> immédiatement
+Allumez la station <channel> immédiatement
+Activez la station <channel> immédiatement
+Ecoutez la station <channel> immédiatement
+Ouvrez la radio FM pour moi
+Allumez la radio FM pour moi
+Activez la radio FM pour moi
+Ecoutez la radio FM pour moi
+Ouvrez la radio FM <frequency> pour moi
+Allumez la radio FM <frequency> pour moi
+Activez la radio FM <frequency> pour moi
+Ecoutez la radio FM <frequency> pour moi
+Ouvrez la station <frequency> pour moi
+Allumez la station <frequency> pour moi
+Activez la station <frequency> pour moi
+Ecoutez la station <frequency> pour moi
+Ouvrez FM <frequency> pour moi
+Allumez FM <frequency> pour moi
+Activez FM <frequency> pour moi
+Ecoutez FM <frequency> pour moi
+Ouvrez la radio à <frequency> pour moi
+Allumez la radio à <frequency> pour moi
+Activez la radio à <frequency> pour moi
+Ecoutez la radio à <frequency> pour moi
+Ouvrez <channel> pour moi
+Allumez <channel> pour moi
+Activez <channel> pour moi
+Ecoutez <channel> pour moi
+Ouvrez la station <channel> pour moi
+Allumez la station <channel> pour moi
+Activez la station <channel> pour moi
+Ecoutez la station <channel> pour moi
+Ouvrez la radio FM maintenant pour moi
+Allumez la radio FM maintenant pour moi
+Activez la radio FM maintenant pour moi
+Ecoutez la radio FM maintenant pour moi
+Ouvrez la radio FM <frequency> maintenant pour moi
+Allumez la radio FM <frequency> maintenant pour moi
+Activez la radio FM <frequency> maintenant pour moi
+Ecoutez la radio FM <frequency> maintenant pour moi
+Ouvrez la station <frequency> maintenant pour moi
+Allumez la station <frequency> maintenant pour moi
+Activez la station <frequency> maintenant pour moi
+Ecoutez la station <frequency> maintenant pour moi
+Ouvrez FM <frequency> maintenant pour moi
+Allumez FM <frequency> maintenant pour moi
+Activez FM <frequency> maintenant pour moi
+Ecoutez FM <frequency> maintenant pour moi
+Ouvrez la radio à <frequency> maintenant pour moi
+Allumez la radio à <frequency> maintenant pour moi
+Activez la radio à <frequency> maintenant pour moi
+Ecoutez la radio à <frequency> maintenant pour moi
+Ouvrez <channel> maintenant pour moi
+Allumez <channel> maintenant pour moi
+Activez <channel> maintenant pour moi
+Ecoutez <channel> maintenant pour moi
+Ouvrez la station <channel> maintenant pour moi
+Allumez la station <channel> maintenant pour moi
+Activez la station <channel> maintenant pour moi
+Ecoutez la station <channel> maintenant pour moi
+Ouvrez la radio FM tout de suite pour moi
+Allumez la radio FM tout de suite pour moi
+Activez la radio FM tout de suite pour moi
+Ecoutez la radio FM tout de suite pour moi
+Ouvrez la radio FM <frequency> tout de suite pour moi
+Allumez la radio FM <frequency> tout de suite pour moi
+Activez la radio FM <frequency> tout de suite pour moi
+Ecoutez la radio FM <frequency> tout de suite pour moi
+Ouvrez la station <frequency> tout de suite pour moi
+Allumez la station <frequency> tout de suite pour moi
+Activez la station <frequency> tout de suite pour moi
+Ecoutez la station <frequency> tout de suite pour moi
+Ouvrez FM <frequency> tout de suite pour moi
+Allumez FM <frequency> tout de suite pour moi
+Activez FM <frequency> tout de suite pour moi
+Ecoutez FM <frequency> tout de suite pour moi
+Ouvrez la radio à <frequency> tout de suite pour moi
+Allumez la radio à <frequency> tout de suite pour moi
+Activez la radio à <frequency> tout de suite pour moi
+Ecoutez la radio à <frequency> tout de suite pour moi
+Ouvrez <channel> tout de suite pour moi
+Allumez <channel> tout de suite pour moi
+Activez <channel> tout de suite pour moi
+Ecoutez <channel> tout de suite pour moi
+Ouvrez la station <channel> tout de suite pour moi
+Allumez la station <channel> tout de suite pour moi
+Activez la station <channel> tout de suite pour moi
+Ecoutez la station <channel> tout de suite pour moi
+Ouvrez la radio FM immédiatement pour moi
+Allumez la radio FM immédiatement pour moi
+Activez la radio FM immédiatement pour moi
+Ecoutez la radio FM immédiatement pour moi
+Ouvrez la radio FM <frequency> immédiatement pour moi
+Allumez la radio FM <frequency> immédiatement pour moi
+Activez la radio FM <frequency> immédiatement pour moi
+Ecoutez la radio FM <frequency> immédiatement pour moi
+Ouvrez la station <frequency> immédiatement pour moi
+Allumez la station <frequency> immédiatement pour moi
+Activez la station <frequency> immédiatement pour moi
+Ecoutez la station <frequency> immédiatement pour moi
+Ouvrez FM <frequency> immédiatement pour moi
+Allumez FM <frequency> immédiatement pour moi
+Activez FM <frequency> immédiatement pour moi
+Ecoutez FM <frequency> immédiatement pour moi
+Ouvrez la radio à <frequency> immédiatement pour moi
+Allumez la radio à <frequency> immédiatement pour moi
+Activez la radio à <frequency> immédiatement pour moi
+Ecoutez la radio à <frequency> immédiatement pour moi
+Ouvrez <channel> immédiatement pour moi
+Allumez <channel> immédiatement pour moi
+Activez <channel> immédiatement pour moi
+Ecoutez <channel> immédiatement pour moi
+Ouvrez la station <channel> immédiatement pour moi
+Allumez la station <channel> immédiatement pour moi
+Activez la station <channel> immédiatement pour moi
+Ecoutez la station <channel> immédiatement pour moi
+Ouvrez la radio FM s'il vous plaît
+Allumez la radio FM s'il vous plaît
+Activez la radio FM s'il vous plaît
+Ecoutez la radio FM s'il vous plaît
+Ouvrez la radio FM <frequency> s'il vous plaît
+Allumez la radio FM <frequency> s'il vous plaît
+Activez la radio FM <frequency> s'il vous plaît
+Ecoutez la radio FM <frequency> s'il vous plaît
+Ouvrez la station <frequency> s'il vous plaît
+Allumez la station <frequency> s'il vous plaît
+Activez la station <frequency> s'il vous plaît
+Ecoutez la station <frequency> s'il vous plaît
+Ouvrez FM <frequency> s'il vous plaît
+Allumez FM <frequency> s'il vous plaît
+Activez FM <frequency> s'il vous plaît
+Ecoutez FM <frequency> s'il vous plaît
+Ouvrez la radio à <frequency> s'il vous plaît
+Allumez la radio à <frequency> s'il vous plaît
+Activez la radio à <frequency> s'il vous plaît
+Ecoutez la radio à <frequency> s'il vous plaît
+Ouvrez <channel> s'il vous plaît
+Allumez <channel> s'il vous plaît
+Activez <channel> s'il vous plaît
+Ecoutez <channel> s'il vous plaît
+Ouvrez la station <channel> s'il vous plaît
+Allumez la station <channel> s'il vous plaît
+Activez la station <channel> s'il vous plaît
+Ecoutez la station <channel> s'il vous plaît
+Ouvrez la radio FM maintenant s'il vous plaît
+Allumez la radio FM maintenant s'il vous plaît
+Activez la radio FM maintenant s'il vous plaît
+Ecoutez la radio FM maintenant s'il vous plaît
+Ouvrez la radio FM <frequency> maintenant s'il vous plaît
+Allumez la radio FM <frequency> maintenant s'il vous plaît
+Activez la radio FM <frequency> maintenant s'il vous plaît
+Ecoutez la radio FM <frequency> maintenant s'il vous plaît
+Ouvrez la station <frequency> maintenant s'il vous plaît
+Allumez la station <frequency> maintenant s'il vous plaît
+Activez la station <frequency> maintenant s'il vous plaît
+Ecoutez la station <frequency> maintenant s'il vous plaît
+Ouvrez FM <frequency> maintenant s'il vous plaît
+Allumez FM <frequency> maintenant s'il vous plaît
+Activez FM <frequency> maintenant s'il vous plaît
+Ecoutez FM <frequency> maintenant s'il vous plaît
+Ouvrez la radio à <frequency> maintenant s'il vous plaît
+Allumez la radio à <frequency> maintenant s'il vous plaît
+Activez la radio à <frequency> maintenant s'il vous plaît
+Ecoutez la radio à <frequency> maintenant s'il vous plaît
+Ouvrez <channel> maintenant s'il vous plaît
+Allumez <channel> maintenant s'il vous plaît
+Activez <channel> maintenant s'il vous plaît
+Ecoutez <channel> maintenant s'il vous plaît
+Ouvrez la station <channel> maintenant s'il vous plaît
+Allumez la station <channel> maintenant s'il vous plaît
+Activez la station <channel> maintenant s'il vous plaît
+Ecoutez la station <channel> maintenant s'il vous plaît
+Ouvrez la radio FM tout de suite s'il vous plaît
+Allumez la radio FM tout de suite s'il vous plaît
+Activez la radio FM tout de suite s'il vous plaît
+Ecoutez la radio FM tout de suite s'il vous plaît
+Ouvrez la radio FM <frequency> tout de suite s'il vous plaît
+Allumez la radio FM <frequency> tout de suite s'il vous plaît
+Activez la radio FM <frequency> tout de suite s'il vous plaît
+Ecoutez la radio FM <frequency> tout de suite s'il vous plaît
+Ouvrez la station <frequency> tout de suite s'il vous plaît
+Allumez la station <frequency> tout de suite s'il vous plaît
+Activez la station <frequency> tout de suite s'il vous plaît
+Ecoutez la station <frequency> tout de suite s'il vous plaît
+Ouvrez FM <frequency> tout de suite s'il vous plaît
+Allumez FM <frequency> tout de suite s'il vous plaît
+Activez FM <frequency> tout de suite s'il vous plaît
+Ecoutez FM <frequency> tout de suite s'il vous plaît
+Ouvrez la radio à <frequency> tout de suite s'il vous plaît
+Allumez la radio à <frequency> tout de suite s'il vous plaît
+Activez la radio à <frequency> tout de suite s'il vous plaît
+Ecoutez la radio à <frequency> tout de suite s'il vous plaît
+Ouvrez <channel> tout de suite s'il vous plaît
+Allumez <channel> tout de suite s'il vous plaît
+Activez <channel> tout de suite s'il vous plaît
+Ecoutez <channel> tout de suite s'il vous plaît
+Ouvrez la station <channel> tout de suite s'il vous plaît
+Allumez la station <channel> tout de suite s'il vous plaît
+Activez la station <channel> tout de suite s'il vous plaît
+Ecoutez la station <channel> tout de suite s'il vous plaît
+Ouvrez la radio FM immédiatement s'il vous plaît
+Allumez la radio FM immédiatement s'il vous plaît
+Activez la radio FM immédiatement s'il vous plaît
+Ecoutez la radio FM immédiatement s'il vous plaît
+Ouvrez la radio FM <frequency> immédiatement s'il vous plaît
+Allumez la radio FM <frequency> immédiatement s'il vous plaît
+Activez la radio FM <frequency> immédiatement s'il vous plaît
+Ecoutez la radio FM <frequency> immédiatement s'il vous plaît
+Ouvrez la station <frequency> immédiatement s'il vous plaît
+Allumez la station <frequency> immédiatement s'il vous plaît
+Activez la station <frequency> immédiatement s'il vous plaît
+Ecoutez la station <frequency> immédiatement s'il vous plaît
+Ouvrez FM <frequency> immédiatement s'il vous plaît
+Allumez FM <frequency> immédiatement s'il vous plaît
+Activez FM <frequency> immédiatement s'il vous plaît
+Ecoutez FM <frequency> immédiatement s'il vous plaît
+Ouvrez la radio à <frequency> immédiatement s'il vous plaît
+Allumez la radio à <frequency> immédiatement s'il vous plaît
+Activez la radio à <frequency> immédiatement s'il vous plaît
+Ecoutez la radio à <frequency> immédiatement s'il vous plaît
+Ouvrez <channel> immédiatement s'il vous plaît
+Allumez <channel> immédiatement s'il vous plaît
+Activez <channel> immédiatement s'il vous plaît
+Ecoutez <channel> immédiatement s'il vous plaît
+Ouvrez la station <channel> immédiatement s'il vous plaît
+Allumez la station <channel> immédiatement s'il vous plaît
+Activez la station <channel> immédiatement s'il vous plaît
+Ecoutez la station <channel> immédiatement s'il vous plaît
+Je veux ouvrir la radio FM
+Je veux allumer la radio FM
+Je veux activer la radio FM
+Je veux écouter la radio FM
+Je veux ouvrir la radio FM <frequency>
+Je veux allumer la radio FM <frequency>
+Je veux activer la radio FM <frequency>
+Je veux écouter la radio FM <frequency>
+Je veux ouvrir la station <frequency>
+Je veux allumer la station <frequency>
+Je veux activer la station <frequency>
+Je veux écouter la station <frequency>
+Je veux ouvrir FM <frequency>
+Je veux allumer FM <frequency>
+Je veux activer FM <frequency>
+Je veux écouter FM <frequency>
+Je veux ouvrir la radio à <frequency>
+Je veux allumer la radio à <frequency>
+Je veux activer la radio à <frequency>
+Je veux écouter la radio à <frequency>
+Je veux ouvrir <channel>
+Je veux allumer <channel>
+Je veux activer <channel>
+Je veux écouter <channel>
+Je veux ouvrir la station <channel>
+Je veux allumer la station <channel>
+Je veux activer la station <channel>
+Je veux écouter la station <channel>
+Je veux ouvrir la radio FM maintenant
+Je veux allumer la radio FM maintenant
+Je veux activer la radio FM maintenant
+Je veux écouter la radio FM maintenant
+Je veux ouvrir la radio FM <frequency> maintenant
+Je veux allumer la radio FM <frequency> maintenant
+Je veux activer la radio FM <frequency> maintenant
+Je veux écouter la radio FM <frequency> maintenant
+Je veux ouvrir la station <frequency> maintenant
+Je veux allumer la station <frequency> maintenant
+Je veux activer la station <frequency> maintenant
+Je veux écouter la station <frequency> maintenant
+Je veux ouvrir FM <frequency> maintenant
+Je veux allumer FM <frequency> maintenant
+Je veux activer FM <frequency> maintenant
+Je veux écouter FM <frequency> maintenant
+Je veux ouvrir la radio à <frequency> maintenant
+Je veux allumer la radio à <frequency> maintenant
+Je veux activer la radio à <frequency> maintenant
+Je veux écouter la radio à <frequency> maintenant
+Je veux ouvrir <channel> maintenant
+Je veux allumer <channel> maintenant
+Je veux activer <channel> maintenant
+Je veux écouter <channel> maintenant
+Je veux ouvrir la station <channel> maintenant
+Je veux allumer la station <channel> maintenant
+Je veux activer la station <channel> maintenant
+Je veux écouter la station <channel> maintenant
+Je veux ouvrir la radio FM tout de suite
+Je veux allumer la radio FM tout de suite
+Je veux activer la radio FM tout de suite
+Je veux écouter la radio FM tout de suite
+Je veux ouvrir la radio FM <frequency> tout de suite
+Je veux allumer la radio FM <frequency> tout de suite
+Je veux activer la radio FM <frequency> tout de suite
+Je veux écouter la radio FM <frequency> tout de suite
+Je veux ouvrir la station <frequency> tout de suite
+Je veux allumer la station <frequency> tout de suite
+Je veux activer la station <frequency> tout de suite
+Je veux écouter la station <frequency> tout de suite
+Je veux ouvrir FM <frequency> tout de suite
+Je veux allumer FM <frequency> tout de suite
+Je veux activer FM <frequency> tout de suite
+Je veux écouter FM <frequency> tout de suite
+Je veux ouvrir la radio à <frequency> tout de suite
+Je veux allumer la radio à <frequency> tout de suite
+Je veux activer la radio à <frequency> tout de suite
+Je veux écouter la radio à <frequency> tout de suite
+Je veux ouvrir <channel> tout de suite
+Je veux allumer <channel> tout de suite
+Je veux activer <channel> tout de suite
+Je veux écouter <channel> tout de suite
+Je veux ouvrir la station <channel> tout de suite
+Je veux allumer la station <channel> tout de suite
+Je veux activer la station <channel> tout de suite
+Je veux écouter la station <channel> tout de suite
+Je veux ouvrir la radio FM immédiatement
+Je veux allumer la radio FM immédiatement
+Je veux activer la radio FM immédiatement
+Je veux écouter la radio FM immédiatement
+Je veux ouvrir la radio FM <frequency> immédiatement
+Je veux allumer la radio FM <frequency> immédiatement
+Je veux activer la radio FM <frequency> immédiatement
+Je veux écouter la radio FM <frequency> immédiatement
+Je veux ouvrir la station <frequency> immédiatement
+Je veux allumer la station <frequency> immédiatement
+Je veux activer la station <frequency> immédiatement
+Je veux écouter la station <frequency> immédiatement
+Je veux ouvrir FM <frequency> immédiatement
+Je veux allumer FM <frequency> immédiatement
+Je veux activer FM <frequency> immédiatement
+Je veux écouter FM <frequency> immédiatement
+Je veux ouvrir la radio à <frequency> immédiatement
+Je veux allumer la radio à <frequency> immédiatement
+Je veux activer la radio à <frequency> immédiatement
+Je veux écouter la radio à <frequency> immédiatement
+Je veux ouvrir <channel> immédiatement
+Je veux allumer <channel> immédiatement
+Je veux activer <channel> immédiatement
+Je veux écouter <channel> immédiatement
+Je veux ouvrir la station <channel> immédiatement
+Je veux allumer la station <channel> immédiatement
+Je veux activer la station <channel> immédiatement
+Je veux écouter la station <channel> immédiatement

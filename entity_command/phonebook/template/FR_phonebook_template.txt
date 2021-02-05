@@ -1,0 +1,726 @@
+Appeler
+Faire un appel à
+Téléphoner à
+Composer le numéro de téléphone
+Joindre une personne au numéro
+Téléphoner au numéro 
+Composer le numéro pour moi
+Téléphonez pour moi
+Composez le numéro du dernier appel entrant
+Téléphonez au numéro récemment composé
+Composer le dernier numéro entrant
+Composer le dernier numéro qui m'a appelé
+Composer le numéro manqué
+Composerle dernier numéro décroché
+Composer le numéro de l'ambulance
+Appeler l'ambulance au numéro 15
+Appeler la police
+Composer le numéro 17
+Appeler la police au numéro 17
+Appeler les pompiers
+Composer le numéro 18
+Appeler les pompiers au 18
+Composez le <phonenumber>
+Composez le numéro de téléphone <phonenumber>
+Téléphonez au numéro <phonenumber>
+Appelez <person> au <phonenumber>
+Appelez <person> au numéro <phonenumber>
+Veuillez composer le <phonenumber>
+Veuillez composer le numéro de téléphone <phonenumber>
+Veuillez téléphoner au numéro <phonenumber>
+Veuillez appeler <person> au <phonenumber>
+Veuillez appeler <person> au numéro <phonenumber>
+Composez le <phonenumber> maintenant
+Composez le numéro de téléphone <phonenumber> maintenant
+Téléphonez au numéro <phonenumber> maintenant
+Appelez <person> au <phonenumber> maintenant
+Appelez <person> au numéro <phonenumber> maintenant
+Veuillez composer le <phonenumber> maintenant
+Veuillez composer le numéro de téléphone <phonenumber> maintenant
+Veuillez téléphoner au numéro <phonenumber> maintenant
+Veuillez appeler <person> au <phonenumber> maintenant
+Veuillez appeler <person> au numéro <phonenumber> maintenant
+Composez le <phonenumber> tout de suite
+Composez le numéro de téléphone <phonenumber> tout de suite
+Téléphonez au numéro <phonenumber> tout de suite
+Appelez <person> au <phonenumber> tout de suite
+Appelez <person> au numéro <phonenumber> tout de suite
+Veuillez composer le <phonenumber> tout de suite
+Veuillez composer le numéro de téléphone <phonenumber> tout de suite
+Veuillez téléphoner au numéro <phonenumber> tout de suite
+Veuillez appeler <person> au <phonenumber> tout de suite
+Veuillez appeler <person> au numéro <phonenumber> tout de suite
+Composez le <phonenumber> immédiatement
+Composez le numéro de téléphone <phonenumber> immédiatement
+Téléphonez au numéro <phonenumber> immédiatement
+Appelez <person> au <phonenumber> immédiatement
+Appelez <person> au numéro <phonenumber> immédiatement
+Veuillez composer le <phonenumber> immédiatement
+Veuillez composer le numéro de téléphone <phonenumber> immédiatement
+Veuillez téléphoner au numéro <phonenumber> immédiatement
+Veuillez appeler <person> au <phonenumber> immédiatement
+Veuillez appeler <person> au numéro <phonenumber> immédiatement
+Composez le <phonenumber> pour moi
+Composez le numéro de téléphone <phonenumber> pour moi
+Téléphonez au numéro <phonenumber> pour moi
+Appelez <person> au <phonenumber> pour moi
+Appelez <person> au numéro <phonenumber> pour moi
+Veuillez composer le <phonenumber> pour moi
+Veuillez composer le numéro de téléphone <phonenumber> pour moi
+Veuillez téléphoner au numéro <phonenumber> pour moi
+Veuillez appeler <person> au <phonenumber> pour moi
+Veuillez appeler <person> au numéro <phonenumber> pour moi
+Composez le <phonenumber> maintenant pour moi
+Composez le numéro de téléphone <phonenumber> maintenant pour moi
+Téléphonez au numéro <phonenumber> maintenant pour moi
+Appelez <person> au <phonenumber> maintenant pour moi
+Appelez <person> au numéro <phonenumber> maintenant pour moi
+Veuillez composer le <phonenumber> maintenant pour moi
+Veuillez composer le numéro de téléphone <phonenumber> maintenant pour moi
+Veuillez téléphoner au numéro <phonenumber> maintenant pour moi
+Veuillez appeler <person> au <phonenumber> maintenant pour moi
+Veuillez appeler <person> au numéro <phonenumber> maintenant pour moi
+Composez le <phonenumber> tout de suite pour moi
+Composez le numéro de téléphone <phonenumber> tout de suite pour moi
+Téléphonez au numéro <phonenumber> tout de suite pour moi
+Appelez <person> au <phonenumber> tout de suite pour moi
+Appelez <person> au numéro <phonenumber> tout de suite pour moi
+Veuillez composer le <phonenumber> tout de suite pour moi
+Veuillez composer le numéro de téléphone <phonenumber> tout de suite pour moi
+Veuillez téléphoner au numéro <phonenumber> tout de suite pour moi
+Veuillez appeler <person> au <phonenumber> tout de suite pour moi
+Veuillez appeler <person> au numéro <phonenumber> tout de suite pour moi
+Composez le <phonenumber> immédiatement pour moi
+Composez le numéro de téléphone <phonenumber> immédiatement pour moi
+Téléphonez au numéro <phonenumber> immédiatement pour moi
+Appelez <person> au <phonenumber> immédiatement pour moi
+Appelez <person> au numéro <phonenumber> immédiatement pour moi
+Veuillez composer le <phonenumber> immédiatement pour moi
+Veuillez composer le numéro de téléphone <phonenumber> immédiatement pour moi
+Veuillez téléphoner au numéro <phonenumber> immédiatement pour moi
+Veuillez appeler <person> au <phonenumber> immédiatement pour moi
+Veuillez appeler <person> au numéro <phonenumber> immédiatement pour moi
+Composez le <phonenumber> s'il vous plaît
+Composez le numéro de téléphone <phonenumber> s'il vous plaît
+Téléphonez au numéro <phonenumber> s'il vous plaît
+Appelez <person> au <phonenumber> s'il vous plaît
+Appelez <person> au numéro <phonenumber> s'il vous plaît
+Veuillez composer le <phonenumber> s'il vous plaît
+Veuillez composer le numéro de téléphone <phonenumber> s'il vous plaît
+Veuillez téléphoner au numéro <phonenumber> s'il vous plaît
+Veuillez appeler <person> au <phonenumber> s'il vous plaît
+Veuillez appeler <person> au numéro <phonenumber> s'il vous plaît
+Composez le <phonenumber> maintenant s'il vous plaît
+Composez le numéro de téléphone <phonenumber> maintenant s'il vous plaît
+Téléphonez au numéro <phonenumber> maintenant s'il vous plaît
+Appelez <person> au <phonenumber> maintenant s'il vous plaît
+Appelez <person> au numéro <phonenumber> maintenant s'il vous plaît
+Veuillez composer le <phonenumber> maintenant s'il vous plaît
+Veuillez composer le numéro de téléphone <phonenumber> maintenant s'il vous plaît
+Veuillez téléphoner au numéro <phonenumber> maintenant s'il vous plaît
+Veuillez appeler <person> au <phonenumber> maintenant s'il vous plaît
+Veuillez appeler <person> au numéro <phonenumber> maintenant s'il vous plaît
+Composez le <phonenumber> tout de suite s'il vous plaît
+Composez le numéro de téléphone <phonenumber> tout de suite s'il vous plaît
+Téléphonez au numéro <phonenumber> tout de suite s'il vous plaît
+Appelez <person> au <phonenumber> tout de suite s'il vous plaît
+Appelez <person> au numéro <phonenumber> tout de suite s'il vous plaît
+Veuillez composer le <phonenumber> tout de suite s'il vous plaît
+Veuillez composer le numéro de téléphone <phonenumber> tout de suite s'il vous plaît
+Veuillez téléphoner au numéro <phonenumber> tout de suite s'il vous plaît
+Veuillez appeler <person> au <phonenumber> tout de suite s'il vous plaît
+Veuillez appeler <person> au numéro <phonenumber> tout de suite s'il vous plaît
+Composez le <phonenumber> immédiatement s'il vous plaît
+Composez le numéro de téléphone <phonenumber> immédiatement s'il vous plaît
+Téléphonez au numéro <phonenumber> immédiatement s'il vous plaît
+Appelez <person> au <phonenumber> immédiatement s'il vous plaît
+Appelez <person> au numéro <phonenumber> immédiatement s'il vous plaît
+Veuillez composer le <phonenumber> immédiatement s'il vous plaît
+Veuillez composer le numéro de téléphone <phonenumber> immédiatement s'il vous plaît
+Veuillez téléphoner au numéro <phonenumber> immédiatement s'il vous plaît
+Veuillez appeler <person> au <phonenumber> immédiatement s'il vous plaît
+Veuillez appeler <person> au numéro <phonenumber> immédiatement s'il vous plaît
+Compose le <phonenumber>
+Compose le numéro de téléphone <phonenumber>
+Téléphone au numéro <phonenumber>
+Appele au <phonenumber>
+Appele au numéro de téléphone <phonenumber>
+Compose le <phonenumber> maintenant
+Compose le numéro de téléphone <phonenumber> maintenant
+Téléphone au numéro <phonenumber> maintenant
+Appele au <phonenumber> maintenant
+Appele au numéro de téléphone <phonenumber> maintenant
+Compose le <phonenumber> tout de suite
+Compose le numéro de téléphone <phonenumber> tout de suite
+Téléphone au numéro <phonenumber> tout de suite
+Appele au <phonenumber> tout de suite
+Appele au numéro de téléphone <phonenumber> tout de suite
+Compose le <phonenumber> immédiatement
+Compose le numéro de téléphone <phonenumber> immédiatement
+Téléphone au numéro <phonenumber> immédiatement
+Appele au <phonenumber> immédiatement
+Appele au numéro de téléphone <phonenumber> immédiatement
+Compose le <phonenumber> pour moi
+Compose le numéro de téléphone <phonenumber> pour moi
+Téléphone au numéro <phonenumber> pour moi
+Appele au <phonenumber> pour moi
+Appele au numéro de téléphone <phonenumber> pour moi
+Compose le <phonenumber> maintenant pour moi
+Compose le numéro de téléphone <phonenumber> maintenant pour moi
+Téléphone au numéro <phonenumber> maintenant pour moi
+Appele au <phonenumber> maintenant pour moi
+Appele au numéro de téléphone <phonenumber> maintenant pour moi
+Compose le <phonenumber> tout de suite pour moi
+Compose le numéro de téléphone <phonenumber> tout de suite pour moi
+Téléphone au numéro <phonenumber> tout de suite pour moi
+Appele au <phonenumber> tout de suite pour moi
+Appele au numéro de téléphone <phonenumber> tout de suite pour moi
+Compose le <phonenumber> immédiatement pour moi
+Compose le numéro de téléphone <phonenumber> immédiatement pour moi
+Téléphone au numéro <phonenumber> immédiatement pour moi
+Appele au <phonenumber> immédiatement pour moi
+Appele au numéro de téléphone <phonenumber> immédiatement pour moi
+Compose le <phonenumber> s'il te plaît
+Compose le numéro de téléphone <phonenumber> s'il te plaît
+Téléphone au numéro <phonenumber> s'il te plaît
+Appele au <phonenumber> s'il te plaît
+Appele au numéro de téléphone <phonenumber> s'il te plaît
+Compose le <phonenumber> maintenant s'il te plaît
+Compose le numéro de téléphone <phonenumber> maintenant s'il te plaît
+Téléphone au numéro <phonenumber> maintenant s'il te plaît
+Appele au <phonenumber> maintenant s'il te plaît
+Appele au numéro de téléphone <phonenumber> maintenant s'il te plaît
+Compose le <phonenumber> tout de suite s'il te plaît
+Compose le numéro de téléphone <phonenumber> tout de suite s'il te plaît
+Téléphone au numéro <phonenumber> tout de suite s'il te plaît
+Appele au <phonenumber> tout de suite s'il te plaît
+Appele au numéro de téléphone <phonenumber> tout de suite s'il te plaît
+Compose le <phonenumber> immédiatement s'il te plaît
+Compose le numéro de téléphone <phonenumber> immédiatement s'il te plaît
+Téléphone au numéro <phonenumber> immédiatement s'il te plaît
+Appele au <phonenumber> immédiatement s'il te plaît
+Appele au numéro de téléphone <phonenumber> immédiatement s'il te plaît
+Peux-tu composer le <phonenumber>
+Peux-tu composer le numéro de téléphone <phonenumber>
+Peux-tu téléphoner au numéro <phonenumber>
+Peux-tu appeler au <phonenumber>
+Peux-tu appeler au numéro de téléphone <phonenumber>
+Pouvez-vous composer le <phonenumber>
+Pouvez-vous composer le numéro de téléphone <phonenumber>
+Pouvez-vous téléphoner au numéro <phonenumber>
+Pouvez-vous appeler au <phonenumber>
+Pouvez-vous appeler au numéro de téléphone <phonenumber>
+Peux-tu composer le <phonenumber> maintenant
+Peux-tu composer le numéro de téléphone <phonenumber> maintenant
+Peux-tu téléphoner au numéro <phonenumber> maintenant
+Peux-tu appeler au <phonenumber> maintenant
+Peux-tu appeler au numéro de téléphone <phonenumber> maintenant
+Pouvez-vous composer le <phonenumber> maintenant
+Pouvez-vous composer le numéro de téléphone <phonenumber> maintenant
+Pouvez-vous téléphoner au numéro <phonenumber> maintenant
+Pouvez-vous appeler au <phonenumber> maintenant
+Pouvez-vous appeler au numéro de téléphone <phonenumber> maintenant
+Peux-tu composer le <phonenumber> tout de suite
+Peux-tu composer le numéro de téléphone <phonenumber> tout de suite
+Peux-tu téléphoner au numéro <phonenumber> tout de suite
+Peux-tu appeler au <phonenumber> tout de suite
+Peux-tu appeler au numéro de téléphone <phonenumber> tout de suite
+Pouvez-vous composer le <phonenumber> tout de suite
+Pouvez-vous composer le numéro de téléphone <phonenumber> tout de suite
+Pouvez-vous téléphoner au numéro <phonenumber> tout de suite
+Pouvez-vous appeler au <phonenumber> tout de suite
+Pouvez-vous appeler au numéro de téléphone <phonenumber> tout de suite
+Peux-tu composer le <phonenumber> immédiatement
+Peux-tu composer le numéro de téléphone <phonenumber> immédiatement
+Peux-tu téléphoner au numéro <phonenumber> immédiatement
+Peux-tu appeler au <phonenumber> immédiatement
+Peux-tu appeler au numéro de téléphone <phonenumber> immédiatement
+Pouvez-vous composer le <phonenumber> immédiatement
+Pouvez-vous composer le numéro de téléphone <phonenumber> immédiatement
+Pouvez-vous téléphoner au numéro <phonenumber> immédiatement
+Pouvez-vous appeler au <phonenumber> immédiatement
+Pouvez-vous appeler au numéro de téléphone <phonenumber> immédiatement
+Peux-tu composer le <phonenumber> pour moi
+Peux-tu composer le numéro de téléphone <phonenumber> pour moi
+Peux-tu téléphoner au numéro <phonenumber> pour moi
+Peux-tu appeler au <phonenumber> pour moi
+Peux-tu appeler au numéro de téléphone <phonenumber> pour moi
+Pouvez-vous composer le <phonenumber> pour moi
+Pouvez-vous composer le numéro de téléphone <phonenumber> pour moi
+Pouvez-vous téléphoner au numéro <phonenumber> pour moi
+Pouvez-vous appeler au <phonenumber> pour moi
+Pouvez-vous appeler au numéro de téléphone <phonenumber> pour moi
+Peux-tu composer le <phonenumber> maintenant pour moi
+Peux-tu composer le numéro de téléphone <phonenumber> maintenant pour moi
+Peux-tu téléphoner au numéro <phonenumber> maintenant pour moi
+Peux-tu appeler au <phonenumber> maintenant pour moi
+Peux-tu appeler au numéro de téléphone <phonenumber> maintenant pour moi
+Pouvez-vous composer le <phonenumber> maintenant pour moi
+Pouvez-vous composer le numéro de téléphone <phonenumber> maintenant pour moi
+Pouvez-vous téléphoner au numéro <phonenumber> maintenant pour moi
+Pouvez-vous appeler au <phonenumber> maintenant pour moi
+Pouvez-vous appeler au numéro de téléphone <phonenumber> maintenant pour moi
+Peux-tu composer le <phonenumber> tout de suite pour moi
+Peux-tu composer le numéro de téléphone <phonenumber> tout de suite pour moi
+Peux-tu téléphoner au numéro <phonenumber> tout de suite pour moi
+Peux-tu appeler au <phonenumber> tout de suite pour moi
+Peux-tu appeler au numéro de téléphone <phonenumber> tout de suite pour moi
+Pouvez-vous composer le <phonenumber> tout de suite pour moi
+Pouvez-vous composer le numéro de téléphone <phonenumber> tout de suite pour moi
+Pouvez-vous téléphoner au numéro <phonenumber> tout de suite pour moi
+Pouvez-vous appeler au <phonenumber> tout de suite pour moi
+Pouvez-vous appeler au numéro de téléphone <phonenumber> tout de suite pour moi
+Peux-tu composer le <phonenumber> immédiatement pour moi
+Peux-tu composer le numéro de téléphone <phonenumber> immédiatement pour moi
+Peux-tu téléphoner au numéro <phonenumber> immédiatement pour moi
+Peux-tu appeler au <phonenumber> immédiatement pour moi
+Peux-tu appeler au numéro de téléphone <phonenumber> immédiatement pour moi
+Pouvez-vous composer le <phonenumber> immédiatement pour moi
+Pouvez-vous composer le numéro de téléphone <phonenumber> immédiatement pour moi
+Pouvez-vous téléphoner au numéro <phonenumber> immédiatement pour moi
+Pouvez-vous appeler au <phonenumber> immédiatement pour moi
+Pouvez-vous appeler au numéro de téléphone <phonenumber> immédiatement pour moi
+Je veux composer le <phonenumber>
+Je veux composer le numéro de téléphone <phonenumber>
+Je veux téléphoner au numéro <phonenumber>
+Je veux appeler au <phonenumber>
+Je veux appeler au numéro de téléphone <phonenumber>
+Aidez-moi à composer le <phonenumber>
+Aidez-moi à composer le numéro de téléphone <phonenumber>
+Aidez-moi à téléphoner au numéro <phonenumber>
+Aidez-moi à appeler au <phonenumber>
+Aidez-moi à appeler au numéro de téléphone <phonenumber>
+Aide-moi à composer le <phonenumber>
+Aide-moi à composer le numéro de téléphone <phonenumber>
+Aide-moi à téléphoner au numéro <phonenumber>
+Aide-moi à appeler au <phonenumber>
+Aide-moi à appeler au numéro de téléphone <phonenumber>
+Je veux composer le <phonenumber> maintenant
+Je veux composer le numéro de téléphone <phonenumber> maintenant
+Je veux téléphoner au numéro <phonenumber> maintenant
+Je veux appeler au <phonenumber> maintenant
+Je veux appeler au numéro de téléphone <phonenumber> maintenant
+Aidez-moi à composer le <phonenumber> maintenant
+Aidez-moi à composer le numéro de téléphone <phonenumber> maintenant
+Aidez-moi à téléphoner au numéro <phonenumber> maintenant
+Aidez-moi à appeler au <phonenumber> maintenant
+Aidez-moi à appeler au numéro de téléphone <phonenumber> maintenant
+Aide-moi à composer le <phonenumber> maintenant
+Aide-moi à composer le numéro de téléphone <phonenumber> maintenant
+Aide-moi à téléphoner au numéro <phonenumber> maintenant
+Aide-moi à appeler au <phonenumber> maintenant
+Aide-moi à appeler au numéro de téléphone <phonenumber> maintenant
+Je veux composer le <phonenumber> tout de suite
+Je veux composer le numéro de téléphone <phonenumber> tout de suite
+Je veux téléphoner au numéro <phonenumber> tout de suite
+Je veux appeler au <phonenumber> tout de suite
+Je veux appeler au numéro de téléphone <phonenumber> tout de suite
+Aidez-moi à composer le <phonenumber> tout de suite
+Aidez-moi à composer le numéro de téléphone <phonenumber> tout de suite
+Aidez-moi à téléphoner au numéro <phonenumber> tout de suite
+Aidez-moi à appeler au <phonenumber> tout de suite
+Aidez-moi à appeler au numéro de téléphone <phonenumber> tout de suite
+Aide-moi à composer le <phonenumber> tout de suite
+Aide-moi à composer le numéro de téléphone <phonenumber> tout de suite
+Aide-moi à téléphoner au numéro <phonenumber> tout de suite
+Aide-moi à appeler au <phonenumber> tout de suite
+Aide-moi à appeler au numéro de téléphone <phonenumber> tout de suite
+Je veux composer le <phonenumber> immédiatement
+Je veux composer le numéro de téléphone <phonenumber> immédiatement
+Je veux téléphoner au numéro <phonenumber> immédiatement
+Je veux appeler au <phonenumber> immédiatement
+Je veux appeler au numéro de téléphone <phonenumber> immédiatement
+Aidez-moi à composer le <phonenumber> immédiatement
+Aidez-moi à composer le numéro de téléphone <phonenumber> immédiatement
+Aidez-moi à téléphoner au numéro <phonenumber> immédiatement
+Aidez-moi à appeler au <phonenumber> immédiatement
+Aidez-moi à appeler au numéro de téléphone <phonenumber> immédiatement
+Aide-moi à composer le <phonenumber> immédiatement
+Aide-moi à composer le numéro de téléphone <phonenumber> immédiatement
+Aide-moi à téléphoner au numéro <phonenumber> immédiatement
+Aide-moi à appeler au <phonenumber> immédiatement
+Aide-moi à appeler au numéro de téléphone <phonenumber> immédiatement
+Appelez <person>
+Faites un appel à <person>
+Téléphonez à <person>
+Connectez à <person>
+Joignez <person>
+Contactez <person>
+Veuillez appeler <person>
+Veuillez faire un appel à <person>
+Veuillez téléphoner à <person>
+Veuillez connecter à <person>
+Veuillez joindre <person>
+Veuillez contacter <person>
+Appelez <person> maintenant
+Faites un appel à <person> maintenant
+Téléphonez à <person> maintenant
+Connectez à <person> maintenant
+Joignez <person> maintenant
+Contactez <person> maintenant
+Veuillez appeler <person> maintenant
+Veuillez faire un appel à <person> maintenant
+Veuillez téléphoner à <person> maintenant
+Veuillez connecter à <person> maintenant
+Veuillez joindre <person> maintenant
+Veuillez contacter <person> maintenant
+Appelez <person> tout de suite
+Faites un appel à <person> tout de suite
+Téléphonez à <person> tout de suite
+Connectez à <person> tout de suite
+Joignez <person> tout de suite
+Contactez <person> tout de suite
+Veuillez appeler <person> tout de suite
+Veuillez faire un appel à <person> tout de suite
+Veuillez téléphoner à <person> tout de suite
+Veuillez connecter à <person> tout de suite
+Veuillez joindre <person> tout de suite
+Veuillez contacter <person> tout de suite
+Appelez <person> immédiatement
+Faites un appel à <person> immédiatement
+Téléphonez à <person> immédiatement
+Connectez à <person> immédiatement
+Joignez <person> immédiatement
+Contactez <person> immédiatement
+Veuillez appeler <person> immédiatement
+Veuillez faire un appel à <person> immédiatement
+Veuillez téléphoner à <person> immédiatement
+Veuillez connecter à <person> immédiatement
+Veuillez joindre <person> immédiatement
+Veuillez contacter <person> immédiatement
+Appelez <person> pour moi
+Faites un appel à <person> pour moi
+Téléphonez à <person> pour moi
+Connectez à <person> pour moi
+Joignez <person> pour moi
+Contactez <person> pour moi
+Veuillez appeler <person> pour moi
+Veuillez faire un appel à <person> pour moi
+Veuillez téléphoner à <person> pour moi
+Veuillez connecter à <person> pour moi
+Veuillez joindre <person> pour moi
+Veuillez contacter <person> pour moi
+Appelez <person> maintenant pour moi
+Faites un appel à <person> maintenant pour moi
+Téléphonez à <person> maintenant pour moi
+Connectez à <person> maintenant pour moi
+Joignez <person> maintenant pour moi
+Contactez <person> maintenant pour moi
+Veuillez appeler <person> maintenant pour moi
+Veuillez faire un appel à <person> maintenant pour moi
+Veuillez téléphoner à <person> maintenant pour moi
+Veuillez connecter à <person> maintenant pour moi
+Veuillez joindre <person> maintenant pour moi
+Veuillez contacter <person> maintenant pour moi
+Appelez <person> tout de suite pour moi
+Faites un appel à <person> tout de suite pour moi
+Téléphonez à <person> tout de suite pour moi
+Connectez à <person> tout de suite pour moi
+Joignez <person> tout de suite pour moi
+Contactez <person> tout de suite pour moi
+Veuillez appeler <person> tout de suite pour moi
+Veuillez faire un appel à <person> tout de suite pour moi
+Veuillez téléphoner à <person> tout de suite pour moi
+Veuillez connecter à <person> tout de suite pour moi
+Veuillez joindre <person> tout de suite pour moi
+Veuillez contacter <person> tout de suite pour moi
+Appelez <person> immédiatement pour moi
+Faites un appel à <person> immédiatement pour moi
+Téléphonez à <person> immédiatement pour moi
+Connectez à <person> immédiatement pour moi
+Joignez <person> immédiatement pour moi
+Contactez <person> immédiatement pour moi
+Veuillez appeler <person> immédiatement pour moi
+Veuillez faire un appel à <person> immédiatement pour moi
+Veuillez téléphoner à <person> immédiatement pour moi
+Veuillez connecter à <person> immédiatement pour moi
+Veuillez joindre <person> immédiatement pour moi
+Veuillez contacter <person> immédiatement pour moi
+Appelez <person> s'il vous plaît
+Faites un appel à <person> s'il vous plaît
+Téléphonez à <person> s'il vous plaît
+Connectez à <person> s'il vous plaît
+Joignez <person> s'il vous plaît
+Contactez <person> s'il vous plaît
+Veuillez appeler <person> s'il vous plaît
+Veuillez faire un appel à <person> s'il vous plaît
+Veuillez téléphoner à <person> s'il vous plaît
+Veuillez connecter à <person> s'il vous plaît
+Veuillez joindre <person> s'il vous plaît
+Veuillez contacter <person> s'il vous plaît
+Appelez <person> maintenant s'il vous plaît
+Faites un appel à <person> maintenant s'il vous plaît
+Téléphonez à <person> maintenant s'il vous plaît
+Connectez à <person> maintenant s'il vous plaît
+Joignez <person> maintenant s'il vous plaît
+Contactez <person> maintenant s'il vous plaît
+Veuillez appeler <person> maintenant s'il vous plaît
+Veuillez faire un appel à <person> maintenant s'il vous plaît
+Veuillez téléphoner à <person> maintenant s'il vous plaît
+Veuillez connecter à <person> maintenant s'il vous plaît
+Veuillez joindre <person> maintenant s'il vous plaît
+Veuillez contacter <person> maintenant s'il vous plaît
+Appelez <person> tout de suite s'il vous plaît
+Faites un appel à <person> tout de suite s'il vous plaît
+Téléphonez à <person> tout de suite s'il vous plaît
+Connectez à <person> tout de suite s'il vous plaît
+Joignez <person> tout de suite s'il vous plaît
+Contactez <person> tout de suite s'il vous plaît
+Veuillez appeler <person> tout de suite s'il vous plaît
+Veuillez faire un appel à <person> tout de suite s'il vous plaît
+Veuillez téléphoner à <person> tout de suite s'il vous plaît
+Veuillez connecter à <person> tout de suite s'il vous plaît
+Veuillez joindre <person> tout de suite s'il vous plaît
+Veuillez contacter <person> tout de suite s'il vous plaît
+Appelez <person> immédiatement s'il vous plaît
+Faites un appel à <person> immédiatement s'il vous plaît
+Téléphonez à <person> immédiatement s'il vous plaît
+Connectez à <person> immédiatement s'il vous plaît
+Joignez <person> immédiatement s'il vous plaît
+Contactez <person> immédiatement s'il vous plaît
+Veuillez appeler <person> immédiatement s'il vous plaît
+Veuillez faire un appel à <person> immédiatement s'il vous plaît
+Veuillez téléphoner à <person> immédiatement s'il vous plaît
+Veuillez connecter à <person> immédiatement s'il vous plaît
+Veuillez joindre <person> immédiatement s'il vous plaît
+Veuillez contacter <person> immédiatement s'il vous plaît
+Appele <person>
+Fais un appel à <person>
+Téléphone à <person>
+Connecte à <person>
+Joins <person>
+Contacte <person>
+Appele <person> maintenant
+Fais un appel à <person> maintenant
+Téléphone à <person> maintenant
+Connecte à <person> maintenant
+Joins <person> maintenant
+Contacte <person> maintenant
+Appele <person> tout de suite
+Fais un appel à <person> tout de suite
+Téléphone à <person> tout de suite
+Connecte à <person> tout de suite
+Joins <person> tout de suite
+Contacte <person> tout de suite
+Appele <person> immédiatement
+Fais un appel à <person> immédiatement
+Téléphone à <person> immédiatement
+Connecte à <person> immédiatement
+Joins <person> immédiatement
+Contacte <person> immédiatement
+Appele <person> pour moi
+Fais un appel à <person> pour moi
+Téléphone à <person> pour moi
+Connecte à <person> pour moi
+Joins <person> pour moi
+Contacte <person> pour moi
+Appele <person> maintenant pour moi
+Fais un appel à <person> maintenant pour moi
+Téléphone à <person> maintenant pour moi
+Connecte à <person> maintenant pour moi
+Joins <person> maintenant pour moi
+Contacte <person> maintenant pour moi
+Appele <person> tout de suite pour moi
+Fais un appel à <person> tout de suite pour moi
+Téléphone à <person> tout de suite pour moi
+Connecte à <person> tout de suite pour moi
+Joins <person> tout de suite pour moi
+Contacte <person> tout de suite pour moi
+Appele <person> immédiatement pour moi
+Fais un appel à <person> immédiatement pour moi
+Téléphone à <person> immédiatement pour moi
+Connecte à <person> immédiatement pour moi
+Joins <person> immédiatement pour moi
+Contacte <person> immédiatement pour moi
+Appele <person> s'il te plaît
+Fais un appel à <person> s'il te plaît
+Téléphone à <person> s'il te plaît
+Connecte à <person> s'il te plaît
+Joins <person> s'il te plaît
+Contacte <person> s'il te plaît
+Appele <person> maintenant s'il te plaît
+Fais un appel à <person> maintenant s'il te plaît
+Téléphone à <person> maintenant s'il te plaît
+Connecte à <person> maintenant s'il te plaît
+Joins <person> maintenant s'il te plaît
+Contacte <person> maintenant s'il te plaît
+Appele <person> tout de suite s'il te plaît
+Fais un appel à <person> tout de suite s'il te plaît
+Téléphone à <person> tout de suite s'il te plaît
+Connecte à <person> tout de suite s'il te plaît
+Joins <person> tout de suite s'il te plaît
+Contacte <person> tout de suite s'il te plaît
+Appele <person> immédiatement s'il te plaît
+Fais un appel à <person> immédiatement s'il te plaît
+Téléphone à <person> immédiatement s'il te plaît
+Connecte à <person> immédiatement s'il te plaît
+Joins <person> immédiatement s'il te plaît
+Contacte <person> immédiatement s'il te plaît
+Peux-tu appeler <person>
+Peux-tu faire un appel à <person>
+Peux-tu téléphoner à <person>
+Peux-tu connecter à <person>
+Peux-tu joindre <person>
+Peux-tu contacter <person>
+Pouvez-vous appeler <person>
+Pouvez-vous faire un appel à <person>
+Pouvez-vous téléphoner à <person>
+Pouvez-vous connecter à <person>
+Pouvez-vous joindre <person>
+Pouvez-vous contacter <person>
+Peux-tu appeler <person> maintenant
+Peux-tu faire un appel à <person> maintenant
+Peux-tu téléphoner à <person> maintenant
+Peux-tu connecter à <person> maintenant
+Peux-tu joindre <person> maintenant
+Peux-tu contacter <person> maintenant
+Pouvez-vous appeler <person> maintenant
+Pouvez-vous faire un appel à <person> maintenant
+Pouvez-vous téléphoner à <person> maintenant
+Pouvez-vous connecter à <person> maintenant
+Pouvez-vous joindre <person> maintenant
+Pouvez-vous contacter <person> maintenant
+Peux-tu appeler <person> tout de suite
+Peux-tu faire un appel à <person> tout de suite
+Peux-tu téléphoner à <person> tout de suite
+Peux-tu connecter à <person> tout de suite
+Peux-tu joindre <person> tout de suite
+Peux-tu contacter <person> tout de suite
+Pouvez-vous appeler <person> tout de suite
+Pouvez-vous faire un appel à <person> tout de suite
+Pouvez-vous téléphoner à <person> tout de suite
+Pouvez-vous connecter à <person> tout de suite
+Pouvez-vous joindre <person> tout de suite
+Pouvez-vous contacter <person> tout de suite
+Peux-tu appeler <person> immédiatement
+Peux-tu faire un appel à <person> immédiatement
+Peux-tu téléphoner à <person> immédiatement
+Peux-tu connecter à <person> immédiatement
+Peux-tu joindre <person> immédiatement
+Peux-tu contacter <person> immédiatement
+Pouvez-vous appeler <person> immédiatement
+Pouvez-vous faire un appel à <person> immédiatement
+Pouvez-vous téléphoner à <person> immédiatement
+Pouvez-vous connecter à <person> immédiatement
+Pouvez-vous joindre <person> immédiatement
+Pouvez-vous contacter <person> immédiatement
+Peux-tu appeler <person> pour moi
+Peux-tu faire un appel à <person> pour moi
+Peux-tu téléphoner à <person> pour moi
+Peux-tu connecter à <person> pour moi
+Peux-tu joindre <person> pour moi
+Peux-tu contacter <person> pour moi
+Pouvez-vous appeler <person> pour moi
+Pouvez-vous faire un appel à <person> pour moi
+Pouvez-vous téléphoner à <person> pour moi
+Pouvez-vous connecter à <person> pour moi
+Pouvez-vous joindre <person> pour moi
+Pouvez-vous contacter <person> pour moi
+Peux-tu appeler <person> maintenant pour moi
+Peux-tu faire un appel à <person> maintenant pour moi
+Peux-tu téléphoner à <person> maintenant pour moi
+Peux-tu connecter à <person> maintenant pour moi
+Peux-tu joindre <person> maintenant pour moi
+Peux-tu contacter <person> maintenant pour moi
+Pouvez-vous appeler <person> maintenant pour moi
+Pouvez-vous faire un appel à <person> maintenant pour moi
+Pouvez-vous téléphoner à <person> maintenant pour moi
+Pouvez-vous connecter à <person> maintenant pour moi
+Pouvez-vous joindre <person> maintenant pour moi
+Pouvez-vous contacter <person> maintenant pour moi
+Peux-tu appeler <person> tout de suite pour moi
+Peux-tu faire un appel à <person> tout de suite pour moi
+Peux-tu téléphoner à <person> tout de suite pour moi
+Peux-tu connecter à <person> tout de suite pour moi
+Peux-tu joindre <person> tout de suite pour moi
+Peux-tu contacter <person> tout de suite pour moi
+Pouvez-vous appeler <person> tout de suite pour moi
+Pouvez-vous faire un appel à <person> tout de suite pour moi
+Pouvez-vous téléphoner à <person> tout de suite pour moi
+Pouvez-vous connecter à <person> tout de suite pour moi
+Pouvez-vous joindre <person> tout de suite pour moi
+Pouvez-vous contacter <person> tout de suite pour moi
+Peux-tu appeler <person> immédiatement pour moi
+Peux-tu faire un appel à <person> immédiatement pour moi
+Peux-tu téléphoner à <person> immédiatement pour moi
+Peux-tu connecter à <person> immédiatement pour moi
+Peux-tu joindre <person> immédiatement pour moi
+Peux-tu contacter <person> immédiatement pour moi
+Pouvez-vous appeler <person> immédiatement pour moi
+Pouvez-vous faire un appel à <person> immédiatement pour moi
+Pouvez-vous téléphoner à <person> immédiatement pour moi
+Pouvez-vous connecter à <person> immédiatement pour moi
+Pouvez-vous joindre <person> immédiatement pour moi
+Pouvez-vous contacter <person> immédiatement pour moi
+Je veux appeler <person>
+Je veux faire un appel à <person>
+Je veux téléphoner à <person>
+Je veux connecter à <person>
+Je veux joindre <person>
+Je veux contacter <person>
+Aidez-moi à appeler <person>
+Aidez-moi à faire un appel à <person>
+Aidez-moi à téléphoner à <person>
+Aidez-moi à connecter à <person>
+Aidez-moi à joindre <person>
+Aidez-moi à contacter <person>
+Aide-moi à appeler <person>
+Aide-moi à faire un appel à <person>
+Aide-moi à téléphoner à <person>
+Aide-moi à connecter à <person>
+Aide-moi à joindre <person>
+Aide-moi à contacter <person>
+Je veux appeler <person> maintenant
+Je veux faire un appel à <person> maintenant
+Je veux téléphoner à <person> maintenant
+Je veux connecter à <person> maintenant
+Je veux joindre <person> maintenant
+Je veux contacter <person> maintenant
+Aidez-moi à appeler <person> maintenant
+Aidez-moi à faire un appel à <person> maintenant
+Aidez-moi à téléphoner à <person> maintenant
+Aidez-moi à connecter à <person> maintenant
+Aidez-moi à joindre <person> maintenant
+Aidez-moi à contacter <person> maintenant
+Aide-moi à appeler <person> maintenant
+Aide-moi à faire un appel à <person> maintenant
+Aide-moi à téléphoner à <person> maintenant
+Aide-moi à connecter à <person> maintenant
+Aide-moi à joindre <person> maintenant
+Aide-moi à contacter <person> maintenant
+Je veux appeler <person> tout de suite
+Je veux faire un appel à <person> tout de suite
+Je veux téléphoner à <person> tout de suite
+Je veux connecter à <person> tout de suite
+Je veux joindre <person> tout de suite
+Je veux contacter <person> tout de suite
+Aidez-moi à appeler <person> tout de suite
+Aidez-moi à faire un appel à <person> tout de suite
+Aidez-moi à téléphoner à <person> tout de suite
+Aidez-moi à connecter à <person> tout de suite
+Aidez-moi à joindre <person> tout de suite
+Aidez-moi à contacter <person> tout de suite
+Aide-moi à appeler <person> tout de suite
+Aide-moi à faire un appel à <person> tout de suite
+Aide-moi à téléphoner à <person> tout de suite
+Aide-moi à connecter à <person> tout de suite
+Aide-moi à joindre <person> tout de suite
+Aide-moi à contacter <person> tout de suite
+Je veux appeler <person> immédiatement
+Je veux faire un appel à <person> immédiatement
+Je veux téléphoner à <person> immédiatement
+Je veux connecter à <person> immédiatement
+Je veux joindre <person> immédiatement
+Je veux contacter <person> immédiatement
+Aidez-moi à appeler <person> immédiatement
+Aidez-moi à faire un appel à <person> immédiatement
+Aidez-moi à téléphoner à <person> immédiatement
+Aidez-moi à connecter à <person> immédiatement
+Aidez-moi à joindre <person> immédiatement
+Aidez-moi à contacter <person> immédiatement
+Aide-moi à appeler <person> immédiatement
+Aide-moi à faire un appel à <person> immédiatement
+Aide-moi à téléphoner à <person> immédiatement
+Aide-moi à connecter à <person> immédiatement
+Aide-moi à joindre <person> immédiatement
+Aide-moi à contacter <person> immédiatement
